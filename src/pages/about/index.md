@@ -1,19 +1,13 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: O Projektu
+people:
+  - department: Dev
+    link: 'https://twitter.com/Twistacz'
+    name: Michal Haták
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+**Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Jsme weboví vývojáři, markeťáci a designeři a jelikož chceme odvádět co nejlepší práci, snažíme se sledovat aktuální trendy v oboru. Jenže u pouhého sledování trendů nekončíme, snažíme se je také nasazovat v praxi. Často úspěšně, ale často také neúspěšně. Toto praktikujeme už několik let a troufám si tvrdit, že jsme za tu dobu nasbírali dost zkušeností. Stejně tak si troufám tvrdit, že vy jste na tom úplně stejně. Proč se tedy někde po práci nepotkat, nepopovídat si o tom, co nás zaujalo, na čem děláme nebo co se nám v praxi osvědčilo a neosvědčilo?
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+A právě od toho je tu Čtvrtkon. Jedná se o setkání lidí, kteří, zjednodušeně řečeno, _dělají weby._
