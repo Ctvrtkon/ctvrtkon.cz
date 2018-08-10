@@ -32,7 +32,7 @@ collections:
     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
-    - label: "People",
+    -  {label: "People",
                name: "people",
                widget: list,
                fields: [
@@ -42,6 +42,7 @@ collections:
                {label: Description, name: description, widget: string},
                {label: Department, name: department, widget: select, options: ["UX", "Marketing", "Dev"]}
                ]
+    }
   - file: "src/pages/contact/index.md"
     label: "Kontakt"
     name: "contact"
