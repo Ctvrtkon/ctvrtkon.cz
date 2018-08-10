@@ -2,19 +2,21 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <nav className="navbar is-primary is-uppercase has-text-weight-bold">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            Úvodní stránka
           </figure>
         </Link>
       </div>
       <div className="navbar-start">
+        <Link className="navbar-item" to="/about">
+          Akce
+        </Link>
         <Link className="navbar-item" to="/about">
           O Projektu
         </Link>
@@ -25,7 +27,7 @@ const Navbar = () => (
       <div className="navbar-end">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://github.com/Ctvrtkon/ctvrtkon.cz"
           target="_blank"
           rel="noopener noreferrer"
         >

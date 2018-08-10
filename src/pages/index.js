@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
-
+import logo from '../img/logo.svg'
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -10,29 +10,35 @@ export default class IndexPage extends React.Component {
     return (
       <section className="section">
         <div className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-          </div>
+            <h1 className="has-text-weight-bold is-size-2">
+              <img src={logo} alt="Čtvrtkon" style={{ width: '280px' }} />
+            </h1>
+        </div>
+        <div className="container is-outlined has-background-white-ter"
+        style={{ padding: '2em 4em' }}
+        >
+          <h2 className="is-size-3">Příští Čtvrtkon / Pozvánka</h2>
           {posts
             .map(({ node: post }) => (
               <div
                 className="content"
-                style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                 key={post.id}
               >
                 <p>
-                  <Link className="has-text-primary" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
+                  <h2>
+                    <Link className="has-text-primary" to={post.fields.slug}>
+                      {post.frontmatter.title}
+                    </Link>
+                  </h2>
+                  <img src={post.frontmatter.image}  alt={post.frontmatter.title}/>
                   <small>{post.frontmatter.date}</small>
                 </p>
                 <p>
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
+                  <Link className="button is-primary is-outlined" to={post.fields.slug}>
+                    Přečíst více
                   </Link>
                 </p>
               </div>
@@ -66,6 +72,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            image
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
