@@ -1,6 +1,5 @@
 import React from 'react'
-import Link from 'gatsby-link'
-
+import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 
 const Navbar = () => (
@@ -41,3 +40,4 @@ const Navbar = () => (
 )
 
 export default Navbar
+

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Čtvrtkon.cz',
+    title: 'Gatsby + Netlify CMS Starter',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -11,14 +11,6 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
-    },
-     {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          `Open Sans\:300,300i,400,400i,600,600i` // you can also specify font weights and styles
-        ]
-      }
     },
     {
       resolve: 'gatsby-source-filesystem',
