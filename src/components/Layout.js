@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 import Navbar from '../components/Navbar'
 import './all.sass'
 import logo from '../img/logo.svg'
+import github from '../img/github-icon.svg'
 
 const TemplateWrapper = ({ children }) => (
   <div>
@@ -11,8 +12,19 @@ const TemplateWrapper = ({ children }) => (
     <Navbar />
     <div>{children}</div>
     <div className="footer has-background-grey-darker has-text-white has-text-centered">
-      <img src={logo} alt="ctvrtkon.cz" className="logo" /><br />
-      Upravit na <a href="https://github.com/Ctvrtkon/ctvrtkon.cz" rel="noopener noreferrer" className="has-text-white" target="_blank">githubu</a>
+      <p>
+        <img src={logo} alt="ctvrtkon.cz" className="logo" width="300" />
+        <hr class="has-background-black" />
+        <a
+            href="https://github.com/Ctvrtkon/ctvrtkon.cz"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="icon">
+              <img src={github} alt="Github" />
+            </span>
+          </a>
+      </p>
     </div>
   </div>
 )

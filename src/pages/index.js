@@ -14,39 +14,41 @@ export default class IndexPage extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <h1 className="has-text-weight-bold is-size-2">
+            <h1 className="has-text-weight-bold has-text-centered is-size-2">
               <img src={logo} alt="Čtvrtkon" style={{ width: "280px" }}/>
             </h1>
           </div>
-          <div className="container is-outlined has-background-white-ter"
-               style={{ padding: "2em 4em" }}
-          >
-            <h2 className="is-size-3">Příští Čtvrtkon / Pozvánka</h2>
-            {posts
-              .map(({ node: post }) => (
-                <div
-                  className="content"
-                  key={post.id}
-                >
-                  <p>
-                    <h2>
-                      <Link className="has-text-primary" to={post.fields.slug}>
-                        {post.frontmatter.title}
-                      </Link>
-                    </h2>
-                    <img src={post.frontmatter.image} alt={post.frontmatter.title}/>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.excerpt}
-                    <br/>
-                    <br/>
-                    <Link className="button is-primary is-outlined" to={post.fields.slug}>
-                      Přečíst více
+          <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
+            <div className="columns is-multiline">
+              {posts
+                .map(({ node: post }) => (
+                  <div class="column is-half">
+                    <Link className="has-text-primary" to={post.fields.slug}>
+                      <div class="card is-shady">
+                      <div class="card-image">
+                        <figure class="image">
+                          <img src={post.frontmatter.image} alt={post.frontmatter.title}/>
+                        </figure>
+                      </div>
+                      <div class="card-content">
+                        <div class="media">
+                          <div class="media-content">
+                            <h2 class="title is-4">{post.frontmatter.title}</h2>
+                          </div>
+                        </div>
+                        <div class="content">
+                          {post.excerpt}
+                          <br />
+                          <p className="has-text-right is-size-7">
+                            <time>{post.frontmatter.date}</time>
+                          </p>
+                        </div>
+                      </div>
+                      </div>
                     </Link>
-                  </p>
-                </div>
-              ))}
+                  </div>
+                ))}
+            </div>
           </div>
         </section>
       </Layout>
