@@ -20,7 +20,7 @@ export default class IndexPage extends React.Component {
                       <div class="card is-shady">
                         <div class="card-image">
                           <figure class="image">
-                            <img src={post.frontmatter.image} alt={post.frontmatter.title}/>
+                            <img src={post.frontmatter.image} alt={post.frontmatter.title} className="post-image" />
                           </figure>
                         </div>
                         <div class="card-content">

@@ -29,7 +29,7 @@ return (
               </div>
               <div class="media-right">
                 <figure class="image">
-                  <img src={image} alt={title} />
+                  <img src={image} alt={title} className="post-image" />
                 </figure>
               </div>
             </div>
