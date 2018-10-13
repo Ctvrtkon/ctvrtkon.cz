@@ -8,8 +8,10 @@ import Content, { HTMLContent } from '../components/Content'
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
   title,
+  description,
+  image,
+  date,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -18,13 +20,26 @@ return (
     <section className="section">
       {helmet || ''}
       <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
+        <div class="card is-shady">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <h2 class="title">{title}</h2>
+                <p class="subtitle">{description}</p>
+              </div>
+              <div class="media-right">
+                <figure class="image">
+                  <img src={image} alt={title} />
+                </figure>
+              </div>
+            </div>
+            <div class="content">
             <PostContent content={content} />
+              <br />
+              <p className="has-text-right is-size-7">
+                <time>{date}</time>
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -35,8 +50,10 @@ return (
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
-  description: PropTypes.string,
   title: PropTypes.string,
+  description: PropTypes.string,
+  image: PropTypes.string,
+  date: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -48,9 +65,11 @@ const BlogPost = ({ data }) => {
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
         helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
         title={post.frontmatter.title}
+        description={post.frontmatter.description}
+        image={post.frontmatter.image}
+        date={post.frontmatter.date}
       />
     </Layout>
   )
@@ -70,9 +89,10 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
         title
         description
+        image
+        date(formatString: "DD.MM.YYYY")
       }
     }
   }

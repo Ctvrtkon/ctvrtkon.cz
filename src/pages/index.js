@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql, Link } from 'gatsby'
-
-import logo from "../img/logo.svg";
 import Layout from "../components/Layout";
 
 export default class IndexPage extends React.Component {
@@ -13,11 +11,6 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <section className="section">
-          <div className="container">
-            <h1 className="has-text-weight-bold has-text-centered is-size-2">
-              <img src={logo} alt="Čtvrtkon" style={{ width: "280px" }}/>
-            </h1>
-          </div>
           <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
             <div className="columns is-multiline">
               {posts
@@ -25,25 +18,25 @@ export default class IndexPage extends React.Component {
                   <div class="column is-half">
                     <Link className="has-text-primary" to={post.fields.slug}>
                       <div class="card is-shady">
-                      <div class="card-image">
-                        <figure class="image">
-                          <img src={post.frontmatter.image} alt={post.frontmatter.title}/>
-                        </figure>
-                      </div>
-                      <div class="card-content">
-                        <div class="media">
-                          <div class="media-content">
-                            <h2 class="title is-4">{post.frontmatter.title}</h2>
+                        <div class="card-image">
+                          <figure class="image">
+                            <img src={post.frontmatter.image} alt={post.frontmatter.title}/>
+                          </figure>
+                        </div>
+                        <div class="card-content">
+                          <div class="media">
+                            <div class="media-content">
+                              <h2 class="title is-4">{post.frontmatter.title}</h2>
+                            </div>
+                          </div>
+                          <div class="content">
+                            {post.frontmatter.description}
+                            <br />
+                            <p className="has-text-right is-size-7">
+                              <time>{post.frontmatter.date}</time>
+                            </p>
                           </div>
                         </div>
-                        <div class="content">
-                          {post.excerpt}
-                          <br />
-                          <p className="has-text-right is-size-7">
-                            <time>{post.frontmatter.date}</time>
-                          </p>
-                        </div>
-                      </div>
                       </div>
                     </Link>
                   </div>
@@ -72,7 +65,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 200)
           id
           fields {
             slug
@@ -80,8 +73,9 @@ export const pageQuery = graphql`
           frontmatter {
             title
             image
+            description
             templateKey
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD.MM.YYYY")
           }
         }
       }
