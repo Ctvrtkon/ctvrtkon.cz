@@ -33,16 +33,16 @@ collections:
     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
-    -  {label: "People",
-               name: "people",
-               widget: list,
-               fields: [
-               { label: Name, name: name, widget: string},
-               {label: Image, name: image, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]},
-               {label: Link, name: link, widget: string},
-               {label: Description, name: description, widget: string},
-               {label: Department, name: department, widget: select, options: ["UX", "Marketing", "Dev"]}
-               ]
+    - {label: "People",
+       name: "people",
+       widget: list,
+       fields: [
+       { label: Name, name: name, widget: string},
+       { label: Image, name: image, widget: image},
+       { label: Link, name: link, widget: string},
+       { label: Description, name: description, widget: string},
+       { label: Department, name: department, widget: select, options: ["UX", "Marketing", "Dev"]}
+       ]
     }
   - file: "src/pages/contact/index.md"
     label: "Kontakt"
