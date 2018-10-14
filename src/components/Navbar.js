@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo-alternative.svg";
+import logo from "../img/logo-white.svg";
 
 const Navbar = () => (
   <nav className="navbar is-primary is-uppercase has-text-weight-bold">

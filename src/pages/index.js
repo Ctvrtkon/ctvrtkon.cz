@@ -11,7 +11,6 @@ export default class IndexPage extends React.Component {
     const { node: firstPost } = posts[0];
     return (
       <Layout>
-        <section className="section has-overlay">
           <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
             <div className="level">
               <p>Vítejte na stránkách Čtvrtkonu - Jihočeské Webové komunity.</p>
@@ -29,7 +28,6 @@ export default class IndexPage extends React.Component {
                 ))}
             </div>
           </div>
-        </section>
       </Layout>
     );
   }
