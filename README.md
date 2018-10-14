@@ -1,4 +1,4 @@
-# CTVRTKON.CZ
+<img src="https://github.com/Ctvrtkon/ctvrtkon.cz/raw/master/src/img/logo-ctvrtkon-2.png" />
 
 This is official repositry for [Čtvrtkon](http://ctvrtkon.cz) website. 
 Built on top of Uses [Gatsby](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org). 
