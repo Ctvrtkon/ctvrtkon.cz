@@ -17,7 +17,7 @@ const TemplateWrapper = ({ children }) => (
     <Navbar/>
     <div>
       <section className="section has-overlay">
-        <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
+        <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em", minHeight: "500px" }}>
           {children}
         </div>
       </section>
