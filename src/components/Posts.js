@@ -48,7 +48,7 @@ export class PostPreviewHalf extends Component {
   render() {
     const post = this.props.post;
 
-    return <div className="column is-half">
+    return <div className="column is-half post-preview-half">
       <div className="card is-shady">
         <div className="card-content">
           <Link className="has-text-primary" to={this.props.slug}>
@@ -56,7 +56,7 @@ export class PostPreviewHalf extends Component {
           </Link>
         </div>
         <div className="card-image">
-          <figure className="image is-2by1">
+          <figure className="image">
             <img src={post.image} alt={post.title} className="post-image"/>
           </figure>
         </div>
