@@ -7,7 +7,7 @@ place: '---'
 time: '2018-04-30T10:54:52+00:00'
 date: '2018-04-30T10:54:52+00:00'
 description: >-
-    Navzájem se podporují a jen těžko se bez sebe obejdou&#8230; Řeč není o našich přednášejících, ale o SEO a PPC. I když, i takový SEO konzultant a PPC specialista by si měli vycházet vstříc...
+    Navzájem se podporují a jen těžko se bez sebe obejdou… Řeč není o našich přednášejících, ale o SEO a PPC. I když, i takový SEO konzultant a PPC specialista by si měli vycházet vstříc a n...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/Ctvrtkon-68-Web-Cover.png)
 

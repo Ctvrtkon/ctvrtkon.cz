@@ -7,7 +7,7 @@ place: '---'
 time: '2013-02-08T10:31:58+00:00'
 date: '2013-02-08T10:31:58+00:00'
 description: >-
-    Tomáš Kuba představil moderní workflow tvorby webu tak, jak se dělá v Edgedesign.Prezentace &#8211; Moderní workflow tvorby webuVideo &#8211; Moderní workflow tvorby webuTomáš KubaTomáš Kuba...
+    Tomáš Kuba představil moderní workflow tvorby webu tak, jak se dělá v Edgedesign.Prezentace – Moderní workflow tvorby webuVideo – Moderní workflow tvorby webuTomáš KubaTomáš Kuba je webo...
 ---
 Tomáš Kuba představil moderní workflow tvorby webu tak, jak se dělá v [Edgedesign](http://www.edgedesign.cz "Edgedesign").
 

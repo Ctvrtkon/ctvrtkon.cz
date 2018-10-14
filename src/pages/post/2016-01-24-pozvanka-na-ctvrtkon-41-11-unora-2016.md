@@ -7,7 +7,7 @@ place: '---'
 time: '2016-01-24T06:21:33+00:00'
 date: '2016-01-24T06:21:33+00:00'
 description: >-
-    Tentokrát na Čtvrtkon zavítají borci z Pardubic &#8211; Borek Bernard a jeho kolega Honza Voráček &#8211; z velice zajímavého českého startupu VersionPress, který se jednoduše řečeno představuje...
+    Tentokrát na Čtvrtkon zavítají borci z Pardubic – Borek Bernard a jeho kolega Honza Voráček – z velice zajímavého českého startupu VersionPress, který se jednoduše řečeno představuje jako Un...
 ---
 Tentokrát na Čtvrtkon zavítají borci z Pardubic – **Borek Bernard** a jeho kolega **Honza Voráček** – z velice zajímavého **českého startupu VersionPress**, který se jednoduše řečeno představuje jako Undo tlačítko do WordPressu.
 

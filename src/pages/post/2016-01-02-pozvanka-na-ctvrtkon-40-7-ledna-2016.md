@@ -7,7 +7,7 @@ place: '---'
 time: '2016-01-02T12:37:31+00:00'
 date: '2016-01-02T12:37:31+00:00'
 description: >-
-    Zveme Vás na marketingový Čtvrtkon #40 na téma &#8211; Od plánování webu až po výsledkyCo a jak připravit při plánování webu nám řekne Tomáš Kocifaj. Jak následně vyhodnotit výsledky...
+    Zveme Vás na marketingový Čtvrtkon #40 na téma – Od plánování webu až po výsledky
 ---
 **Zveme Vás na marketingový Čtvrtkon #40 na téma – Od plánování webu až po výsledky**
 

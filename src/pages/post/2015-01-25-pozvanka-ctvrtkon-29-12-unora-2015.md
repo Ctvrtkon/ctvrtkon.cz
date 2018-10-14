@@ -7,7 +7,7 @@ place: '---'
 time: '2015-01-25T12:45:50+00:00'
 date: '2015-01-25T12:45:50+00:00'
 description: >-
-    Čtvrtkon &#8211; Google AnalyticsJakub Kašparů &#8211; Rozdíl mezi webovou analytikou a počítadlem návštěvnostiKdo nám bude přednášet?Jakub Kašparů působí v prostředí online marketingu...
+    Čtvrtkon – Google AnalyticsJakub Kašparů – Rozdíl mezi webovou analytikou a počítadlem návštěvnostiKdo nám bude přednášet?Jakub Kašparů působí v prostředí online marketingu 8 let. ...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/ctvrtkon_event_cover.png)Čtvrtkon – Google Analytics
 

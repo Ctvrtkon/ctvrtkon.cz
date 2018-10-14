@@ -7,7 +7,7 @@ place: '---'
 time: '2015-01-05T12:20:43+00:00'
 date: '2015-01-05T12:20:43+00:00'
 description: >-
-    &nbsp;&nbsp;Ondřej Mirtes &#8211; Základy vývoje iOS aplikací pro webařeMáte iPhone, ale děláte jen webové aplikace? Povíme si, jak začít s nativním vývojem a k čemu vám to bude dobré,...
+      Ondřej Mirtes – Základy vývoje iOS aplikací pro webařeMáte iPhone, ale děláte jen webové aplikace? Povíme si, jak začít s nativním vývojem a k čemu vám to bude dobré, i když se ...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/mobil_ctvrtkon.jpg)
 

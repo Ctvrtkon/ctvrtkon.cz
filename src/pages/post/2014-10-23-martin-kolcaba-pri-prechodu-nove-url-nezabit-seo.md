@@ -7,7 +7,7 @@ place: '---'
 time: '2014-10-23T22:08:07+00:00'
 date: '2014-10-23T22:08:07+00:00'
 description: >-
-    Video z 25. Čtvrtkonu &#8211; přednáška Martina KolčabyO tom jak může být zrádný přechod na nové URL. Když neošetříte vše, co je potřeba, zaděláte si na obrovské problémy. Ve videu...
+    Video z 25. Čtvrtkonu – přednáška Martina KolčabyO tom jak může být zrádný přechod na nové URL. Když neošetříte vše, co je potřeba, zaděláte si na obrovské problémy. Ve videu a p...
 ---
 **Video z 25. Čtvrtkonu – přednáška Martina Kolčaby**
 

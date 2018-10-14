@@ -7,7 +7,7 @@ place: '---'
 time: '2017-11-03T06:09:49+00:00'
 date: '2017-11-03T06:09:49+00:00'
 description: >-
-    Listopadový Čtvrtkon patří Budějčákům! Témata jste vybrali vy svým hlasováním (díky!) a povídat vám o nich budou ti nejpovolanější &#8211; Eliška Špaková a Tomáš Kuba &#8211; lidé,...
+    Listopadový Čtvrtkon patří Budějčákům! Témata jste vybrali vy svým hlasováním (díky!) a povídat vám o nich budou ti nejpovolanější – Eliška Špaková a Tomáš Kuba – lidé, které ...
 ---
 **Listopadový Čtvrtkon patří Budějčákům! Témata jste vybrali vy svým hlasováním (díky!) a povídat vám o nich budou ti nejpovolanější – Eliška Špaková a Tomáš Kuba – lidé, které možná dobře znáte nebo jste je alespoň už potkali.**
 

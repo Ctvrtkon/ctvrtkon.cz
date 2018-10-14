@@ -7,7 +7,7 @@ place: '---'
 time: '2015-06-12T06:13:10+00:00'
 date: '2015-06-12T06:13:10+00:00'
 description: >-
-    Další programátorský Čtvrtkon klepe na dveře. Tématem bude vývoj HTML5 her, o tom nám přijedou povyprávět Ondra Žára ze Seznamu a Lukáš &#8222;Chleba&#8220; Franěk z Geewy.Místo: Coworking...
+    Další programátorský Čtvrtkon klepe na dveře. Tématem bude vývoj HTML5 her, o tom nám přijedou povyprávět Ondra Žára ze Seznamu a Lukáš „Chleba“ Franěk z Geewy.Místo: Coworking Center ...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/ctvrtkon-html5-hry-web.jpg)
 
