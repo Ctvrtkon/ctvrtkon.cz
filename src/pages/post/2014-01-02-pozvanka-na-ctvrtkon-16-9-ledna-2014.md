@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #16 – 9. ledna 2014'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2014-01-02T11:43:20+00:00'
 description: >-
     V novém roce se můžete těšit na několik novinek. Tou první je hned první setkání v roce 2014, které ponese označení UX Čtvrtkon a na které dorazí Adam Fendrych z Asociace UX. Pokud jste...

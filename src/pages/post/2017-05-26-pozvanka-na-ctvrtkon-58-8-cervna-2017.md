@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #58 – 8. června 2017'
 image: /img/Web-Cover.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2017-05-26T19:11:25+00:00'
 description: >-
     Vzpomínáte na dotazníky, které jste nám vyplňovali na jednom z uplynulých Čtvrtkonů? Když jsme se Vás ptali, jaká témata vám chybí, často jste odpovídali, že byste uvítali více businessových...

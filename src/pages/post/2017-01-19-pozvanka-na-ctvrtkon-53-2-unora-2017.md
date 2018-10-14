@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #53 – 2. února 2017'
 image: /img/ctvrtkon-53-fb-aktualizace.png
-fbEventLink: ''
-place: ''
-time: ''
 date: '2017-01-19T07:32:28+00:00'
 description: >-
     Objektově orientované programování je v informatice specifické programovací paradigma, které ho odlišilo od původního procedurálního. Výkonný kód je v objektovém programování přidružen...

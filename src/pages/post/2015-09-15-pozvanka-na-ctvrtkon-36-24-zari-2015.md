@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #36 – 24. září 2015'
 image: /img/ctvrtkon-36-web.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2015-09-15T22:34:35+00:00'
 description: >-
     Daniel Čupak: Personalizace pomocí merge tagůMarcel Kupka: Copy triky a tipy pro e-mailingMísto: Coworking Center České BudějoviceČas: 29.10.2015 – 18:00Na akci není nutné se přihlásit, ale...

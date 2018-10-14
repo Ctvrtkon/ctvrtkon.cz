@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Composer – Dependency management v PHP'
 image: /img/author-vaclav-novotny.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2013-06-07T14:19:06+00:00'
 description: >-
     Dependency management byl ještě donedávna v PHP komunitě opomíjený problém, který si člověk musel řešit po svém. Pak se objevil Composer a sjednotil způsob řešení závislostí drtivé většiny...

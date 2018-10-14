@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #19 – 3. dubna 2014'
 image: /img/ctvrtkon-3-dubna1.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2014-03-07T09:09:40+00:00'
 description: >-
     Jaký je váš postup při návrhu webu? Jak do procesu zapojujete uživatele? A na co všechno se ptáte klienta, abyste získali správné a potřebné odpovědi na důležité otázky? A jak třeba probíhal...

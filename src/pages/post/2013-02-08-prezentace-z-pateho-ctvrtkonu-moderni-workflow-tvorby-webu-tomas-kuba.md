@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Moderní workflow tvorby webu'
 image: /img/IMG_0004-150x150.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2013-02-08T10:31:58+00:00'
 description: >-
     Tomáš Kuba představil moderní workflow tvorby webu tak, jak se dělá v Edgedesign.Prezentace – Moderní workflow tvorby webuVideo – Moderní workflow tvorby webuTomáš KubaTomáš Kuba je webo...

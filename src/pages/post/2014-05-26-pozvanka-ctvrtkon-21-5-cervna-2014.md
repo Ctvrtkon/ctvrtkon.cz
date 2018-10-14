@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #21 – 5. června 2014'
 image: /img/10403707_10202123408986005_8761890880812788520_n.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2014-05-26T17:10:16+00:00'
 description: >-
     Analýza klíčových slov je základem všech internetových projektů, předchází i návrhu PPC kampaní. Proto bude skvělým tématem pro zahájení červnového Čtvrkonu. Na něj naváže dvojpřednáška...

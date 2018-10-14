@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #68 – 10. května 2018'
 image: /img/Ctvrtkon-68-Web-Cover.png
-fbEventLink: ''
-place: ''
-time: ''
 date: '2018-04-30T10:54:52+00:00'
 description: >-
     Navzájem se podporují a jen těžko se bez sebe obejdou… Řeč není o našich přednášejících, ale o SEO a PPC. I když, i takový SEO konzultant a PPC specialista by si měli vycházet vstříc a n...

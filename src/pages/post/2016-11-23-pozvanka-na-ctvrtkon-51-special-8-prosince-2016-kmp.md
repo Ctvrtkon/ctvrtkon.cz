@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #51 Speciál – 8. prosince 2016 v KMP'
 image: /img/ctvrtkon-51-fb.png
-fbEventLink: ''
-place: ''
-time: ''
 date: '2016-11-23T18:25:51+00:00'
 description: >-
     Rychlé info8.12. od 18:00 oslava 4+ let Čtvrtkonu1 – 2 hod. hlavní program – Ignite talkyKMPČB – 13 piv, vynikající klobásy, krkovička nebo třeba smažákNa co se těšitPřijďte s námi...

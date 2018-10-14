@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #66 – 22. března 2018'
 image: /img/Ctvrtkon-66-Web-Cover.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2018-03-09T01:39:04+00:00'
 description: >-
     Březnový UX Čtvrtkon se ponese v duchu změn: Poprvé se bude konat v novém prostoru Dallmayr Café, dojde na něm k předání moderátorského žezla symbolicky tím, že přednášet budou oba naši...

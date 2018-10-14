@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #28 – 8. ledna 2015'
 image: /img/mobil_ctvrtkon.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2015-01-05T12:20:43+00:00'
 description: >-
       Ondřej Mirtes – Základy vývoje iOS aplikací pro webařeMáte iPhone, ale děláte jen webové aplikace? Povíme si, jak začít s nativním vývojem a k čemu vám to bude dobré, i když se ...

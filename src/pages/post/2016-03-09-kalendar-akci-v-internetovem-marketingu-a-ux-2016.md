@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Kalendář akcí v internetovém marketingu a UX v roce 2016'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2016-03-09T13:26:12+00:00'
 description: >-
     Připravili jsme pro Vás seznam konferencí a dalších akcí, které byste si v roce 2016 neměli nechat ujít, pokud Vás zajímá internetový marketing nebo UX.Seznam budeme postupně aktualizovat....

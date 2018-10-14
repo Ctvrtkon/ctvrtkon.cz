@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #54 – 2. března 2017'
 image: /img/ctvrtkon-54-web.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2017-02-24T11:16:13+00:00'
 description: >-
     Tématem březnového Čtvrtkonu budou sociální sítě se zaměřením na Facebook. Dozvíte se užitečné rady a tipy pro vytváření a publikaci obsahu na firemním Facebooku a Instagramu a nezapomeneme...

@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #56 – 11. května 2017'
 image: /img/ctvrtkon-56-fb.png
-fbEventLink: ''
-place: ''
-time: ''
 date: '2017-04-10T11:31:43+00:00'
 description: >-
     Tentokrát si posvítíme na svět moderního JavaScriptu. Podařilo se nám sehnat dva výborné řečníky, které jistě není třeba nikomu dlouze představovat. S Ondrou Žárou se podíváme na možnosti...

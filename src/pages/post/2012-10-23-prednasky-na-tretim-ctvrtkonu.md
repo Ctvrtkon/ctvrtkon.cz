@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Přednášky na třetím Čtvrtkonu'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2012-10-23T13:54:46+00:00'
 description: >-
     Třetí Čtvrtkon již klepe na dveře a někdo je možná napjatý, o čem že se bude mluvit tentokrát.Nuže, jde o lichý Čtvrtkon, takže se budeme věnovat programátorských tématům. Jan Kaštánek...

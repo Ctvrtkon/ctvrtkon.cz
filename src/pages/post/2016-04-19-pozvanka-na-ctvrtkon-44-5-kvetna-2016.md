@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #44 – 5. května 2016'
 image: /img/ctvrtkon-44-web.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2016-04-19T09:19:25+00:00'
 description: >-
     Máte rádi Symfony nebo se o něm chcete dozvědět více? Ano je správná odpověď, protože je tu další vývojářský Čtvrtkon. Tentokrát celý právě o Symfony PHP Frameworku. Jako vždy budeme...

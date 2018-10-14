@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #38 – 26. listopadu 2015'
 image: /img/ctvrtkon-38-ux1.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2015-11-02T04:45:18+00:00'
 description: >-
     Napadlo vás někdy, kam se lidé na vašich stránkách podívají nejdříve? A kam se nepodívají vůbec? Víte, v jaké posloupnosti čtou váš obsah a co přeskakují? Co myslíte, sledují vámi...

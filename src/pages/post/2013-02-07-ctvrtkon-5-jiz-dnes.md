@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Čtvrtkon 5 již dnes'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2013-02-07T09:20:21+00:00'
 description: >-
     Velice nás těší zájem o dnešní Čtvrtkon. Podle všeho bude „vyprodáno“. Jelikož bychom mohli mít problém vejít se do konferenčního salonku, vyšli nám majitelé klubu Slavie vstří...

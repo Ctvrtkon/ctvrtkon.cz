@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Michal Haták – vývoj rozšíření pro chrome'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2014-02-19T11:18:56+00:00'
 description: >-
     Chrome extension development  from Michal Haták...

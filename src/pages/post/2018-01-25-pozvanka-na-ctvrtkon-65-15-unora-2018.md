@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #65 – 15. února 2018'
 image: /img/Ctvrtkon-65-MKT-web.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2018-01-25T12:01:38+00:00'
 description: >-
     Na únorovém Čtvrtkonu zabrousíme do PPC i SEO. Jak na efektivní grafické bannery pro PPC kampaně nám poví Roman Kudrna a Richard Klačko nás zasvětí do nestandardních podob výsledků vyhledávání...

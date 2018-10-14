@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Kalendář akcí v internetovém marketingu a UX v roce 2017'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2017-01-15T18:40:35+00:00'
 description: >-
     Připravili jsme pro Vás seznam konferencí a dalších akcí, které byste si v roce 2017 neměli nechat ujít, pokud Vás zajímá internetový marketing, SEO, PPC nebo UX.Seznam budeme postupně aktualizovat....

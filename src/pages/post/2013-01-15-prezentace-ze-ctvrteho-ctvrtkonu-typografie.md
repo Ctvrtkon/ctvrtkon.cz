@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Základy typografie'
 image: /img/author-jan-tabery.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2013-01-15T10:10:22+00:00'
 description: >-
     Na druhém designerském Čtvrtkonu (celkově čtvrtém) nás Honza Tabery zasvětil do základních i pokročilých pravidel a tajů Typografie. Pokud se vám jeho nadupaná přednáška nevešla do hlavy...

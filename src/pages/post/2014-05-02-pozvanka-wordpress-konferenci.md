@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na WordPress konferenci'
 image: /img/wordpress-konference-hluboka-nad-vltavou.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2014-05-02T08:05:30+00:00'
 description: >-
     Pro všechny příznivce celosvětově oblíbeného WordPressu máme dobrou zprávu. V sobotu 17. května se v Hluboké nad Vltavou koná WordPress konference s přednáškami o všem možném, co se tohoto...

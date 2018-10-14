@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Čtvrtkon 6 – Termín a témata'
 image: /img/ilustracni2.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2013-02-22T11:32:37+00:00'
 description: >-
     Designerský Čtvrtkon je tu cobydup a je na čase zvěstovat jeho příchod a obsah. Na výběru témat jste se tentokrát podíleli i vy sami. Zvolili jste heuristickou analýzu (výsledek 13 ku 10)....

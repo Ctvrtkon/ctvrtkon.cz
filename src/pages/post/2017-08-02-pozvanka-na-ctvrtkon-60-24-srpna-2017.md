@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #60 – 24. srpna 2017'
 image: /img/ctvrtkon-60.jpg
-fbEventLink: ''
-place: ''
-time: ''
 date: '2017-08-02T10:09:44+00:00'
 description: >-
     Šedesátka je kulaté jubileum, a tak jsme si na výběru hostů pro další Čtvrtkon dali záležet. A kdo že tedy za vámi přijede? Bude to Karel Škopek z Atoto.cz/2FRESH a Míra Škrabal z krumlovského...
