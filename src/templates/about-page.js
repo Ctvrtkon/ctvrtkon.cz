@@ -8,7 +8,6 @@ import { TeamMember } from "../components/TeamMember";
 
 export const AboutPageTemplate = ({ title, content, team, contentComponent }) => {
   const PageContent = contentComponent || Content;
-
   return (
     <div>
       <Helmet title={`O Projektu | Čtvrtkon.cz`}/>
