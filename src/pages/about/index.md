@@ -9,6 +9,30 @@ people:
       image: /img/me_facemoji.jpg
     link: 'https://twitter.com/Twistacz'
     name: Michal Haták
+  - department: Dev
+    description: Todo
+    link: 'https://github.com/hlavacm'
+    name: Martin Hlaváč
+  - department: Marketing
+    description: ...
+    link: 'https://www.facebook.com/jana.smerdova.pacolova'
+    name: Jana Šmerdová
+  - department: UX
+    description: ...
+    link: ...
+    name: Ondra Machart
+  - department: UX
+    description: ...
+    link: ...
+    name: Martin Ladudát
+  - department: Marketing
+    description: ...
+    link: ...
+    name: Tomáš Kocifaj
+  - department: Dev
+    description: ...
+    link: ...
+    name: Václav Novotný
 ---
 **Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**
 
