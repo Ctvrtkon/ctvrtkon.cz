@@ -17,12 +17,12 @@ All Pull Requests are welcomed
 $ git clone https://github.com/Ctvrtkon/ctvrtkon.cz.git
 $ cd ctvrtkon.cz
 $ yarn
-$ npm run develop
+$ yarn run develop
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```
-$ npm run build
-$ npm run serve
+$ yarn run build
+$ yarn run serve
 ```
 
 ### Setting up the CMS
