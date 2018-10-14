@@ -10,7 +10,7 @@ import { Link } from "gatsby";
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Čtvrtkon.cz">
-      <html lang="cs" />
+      <html lang="cs"/>
       <meta charSet="utf-8"/>
       <meta name="description" content="Čtvrteční setkání webové komunity v Českých Budějovicích"/>
     </Helmet>
@@ -54,27 +54,21 @@ const TemplateWrapper = ({ children }) => (
           </div>
           <div className="column is-3 has-text-right">
             <ul>
-              <li>
-                <a
-                  href="https://www.facebook.com/groups/ctvrtkon/"
-                  target="_blank"
-                  className="has-text-white"
-                  rel="noopener noreferrer"
-                >Facebook</a>
+              <li><a href="https://www.facebook.com/groups/ctvrtkon/" target="_blank" className="has-text-white"
+                     rel="noopener noreferrer">Facebook</a></li>
+              <li><a href="https://twitter.com/ctvrtkon" target="_blank" className="has-text-white" rel="noopener noreferrer">Twitter</a>
               </li>
-              <li><a
-                href="https://ctvrtkon-slack.herokuapp.com/"
-                target="_blank"
-                className="has-text-white"
-                rel="noopener noreferrer"
-              >Slack</a></li>
+              <li><a href="https://ctvrtkon-slack.herokuapp.com/" target="_blank" className="has-text-white"
+                     rel="noopener noreferrer">Slack</a></li>
+              <li><a href="https://www.youtube.com/channel/UCp56QhLAr4zefLhkHUFt0UQ/" target="_blank" className="has-text-white"
+                     rel="noopener noreferrer">YouTube</a></li>
             </ul>
           </div>
         </section>
       </div>
       <div className="section is-paddingless has-text-centered">
         <p>
-          <small className="is-small has-text-weight-bolder">(c) 2013 - 2018 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
+          <small className="is-small has-text-weight-bolder">&copy; 2013 - 2018 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
             BUDĚJOVICÍCH
           </small>
           <br/><br/>
