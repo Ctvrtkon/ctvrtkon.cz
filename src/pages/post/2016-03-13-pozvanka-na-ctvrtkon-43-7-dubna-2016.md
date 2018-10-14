@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #43 – 7. dubna 2016'
 image: /img/ctvrtkon-43-web.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2016-03-13T17:23:56+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2016-03-13T17:23:56+00:00'
 description: >-
     Jan Tichý a Michal Procházka z Medio Interactive nám na nadcházejícím Čtvrtkonu představí základy Business Inteligence. Vysvětlení pojmů a postupů doplní live ukázkou.Na praktickém příkladu...

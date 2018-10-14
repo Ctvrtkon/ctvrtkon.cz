@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Heuristická analýza použitelnosti'
 image: /img/author-ondrej-machart.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-03-14T18:00:11+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2013-03-14T18:00:11+00:00'
 description: >-
     Na designerském Čtvrtkonu jsme si představili možnosti využití heuristické analýzy pro hodnocení použitelnosti webů. Doufám, že se prezentace líbila a že si tam každý našel nějaký kousek...

@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Čtvrtkon 7 – termín a témata'
 image: /img/petr-steinbauer.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-03-25T09:41:49+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2013-03-25T09:41:49+00:00'
 description: >-
     Na rozdíl od jara, které se stále schovává, Čtvrtkon uhání v nastoleném tempu dál, takže ani v dubnu nebudete ochuzeni o zajímavé přednášky z oblasti webu.Naše 7. setkání bude určené...

@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #57 – 18. května 2017'
 image: /img/Web-Cover.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2017-04-11T02:43:24+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2017-04-11T02:43:24+00:00'
 description: >-
     Líná huba holé neštěstí a o webu to platí dvojnásob. Přesto ale kolikrát mlčeti zlato. Nakonec – obsah je přece král! Znáte to sami. Nelehký úkol je napsat to copy, co v lidech zanechá sil...

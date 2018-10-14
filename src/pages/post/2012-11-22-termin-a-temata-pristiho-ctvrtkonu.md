@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Termín a témata příštího Čtvrtkonu'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2012-11-22T07:36:24+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2012-11-22T07:36:24+00:00'
 description: >-
     Prosincový Čtvrtkon (Webdesignerský) by nám vyšel na Mikuláše, a tak jsme se rozhodli posunout naše další setkání až na leden. Samozřejmě za předpokladu, že svět neskončí spolu s Mayským...

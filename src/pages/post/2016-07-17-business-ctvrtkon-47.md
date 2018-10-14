@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Business Čtvrtkon #47'
 image: /img/besteto-vladimir-prichystal-241x300.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2016-07-17T21:32:08+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2016-07-17T21:32:08+00:00'
 description: >-
     Vladimír PřichystalJak ef.ektivně komunikovat se zákazníky? To bude téma dalšího Čtvrtkonu  a povídat nám o něm bude Vladimír Přichystal ze společnosti Besteto. Přednášku zvlášť doporučuji...

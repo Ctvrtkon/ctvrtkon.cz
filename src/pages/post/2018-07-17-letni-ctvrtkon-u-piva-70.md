@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Letní Čtvrtkon u piva #70 – 19. července 2018'
 image: /img/pivo.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2018-07-17T08:50:33+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2018-07-17T08:50:33+00:00'
 description: >-
     Tradiční letní pivní Čtvrtkon je tu! Přijďte si po práci orazit a popovídat u piva a dobrého jídla. Potkáme se v Kozlovně u Zelené ratolesti.Bližší informaceDatum: 19. července 2018Čas: 18:00Místo: Kozlovna...

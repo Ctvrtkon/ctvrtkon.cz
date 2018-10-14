@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #10'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-06-10T08:51:21+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2013-06-10T08:51:21+00:00'
 description: >-
     Na jubilejní desátý Čtvrtkon dorazí až z dalekého Brna propagátorka domácího uživatelského testování Tereza Venerová. Její přednáška bude o metodách uživatelského výzkumu a testování....

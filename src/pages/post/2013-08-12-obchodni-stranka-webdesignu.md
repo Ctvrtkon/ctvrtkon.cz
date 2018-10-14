@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Obchodní stránka webdesignu'
 image: /img/author-david-kuba.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-08-12T11:28:54+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2013-08-12T11:28:54+00:00'
 description: >-
     David Kuba na 10. Čtvrtkonu přednášel o obchodní stránce webdesignu – tedy o všech úskalích, mezi kterými musí každý freelancer / podnik každý den proplouvat, aniž by utrpěla ztrátu jeh...

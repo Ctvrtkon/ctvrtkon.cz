@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #63 – 30. listopadu 2017'
 image: /img/Ctvrtkon-63-Web-Cover.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2017-11-03T06:09:49+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2017-11-03T06:09:49+00:00'
 description: >-
     Listopadový Čtvrtkon patří Budějčákům! Témata jste vybrali vy svým hlasováním (díky!) a povídat vám o nich budou ti nejpovolanější – Eliška Špaková a Tomáš Kuba – lidé, které ...

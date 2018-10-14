@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Lukáš Pítra – Analýza klíčových slov – 6 tipů do praxe'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-06-06T14:10:48+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2014-06-06T14:10:48+00:00'
 description: >-
     6 tipů pro vytvoření krásnější klíčovkyAnalýza klíčových slov je základ pro dobré SEO. A vlastně i pro spoustu dalších věcí. Na slidech najdete 6 tipů Lukáše Pítry, které určitě...

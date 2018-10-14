@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Verzování v Gitu – čemu se věnovat'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2012-10-30T06:41:35+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2012-10-30T06:41:35+00:00'
 description: >-
     Verzování v Gitu je velice bohaté téma, které se nedá probrat během pár desítek minut, které mu tento čtvrtek budeme věnovat. Proto bych rád, abychom se bavili o tom, co nás resp. vás zajímá...

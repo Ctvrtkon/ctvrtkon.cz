@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Workshop: Human centered problem solving'
 image: /img/Ctvrtkon-Workshop-FB1.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2017-01-05T05:28:05+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2017-01-05T05:28:05+00:00'
 description: >-
     Stojíte před výzvou v podobě nápadu na nový startup? Chcete zdokonalit stávající službu či produkt? Klíčem k úspěchu je dostat se do hlavy vašich zákazníků. Jak ale proniknout do jejich...

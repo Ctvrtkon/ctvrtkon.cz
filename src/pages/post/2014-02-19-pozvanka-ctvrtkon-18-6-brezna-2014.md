@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #18 – 6. března 2014'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-02-19T22:13:15+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2014-02-19T22:13:15+00:00'
 description: >-
     Druhý markeťácký a celkově 18. Čtvrtkon je zde.Základní informaceDatum: 6. března 2014Čas: 18:00Místo: Vinárna Solnice, České BudějoviceVstupné: ZdarmaPřihlášení na akci naleznete...

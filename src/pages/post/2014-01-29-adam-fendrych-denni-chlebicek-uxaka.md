@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Adam Fendrych: Denní chlebíček UXáka'
 image: /img/Screenshot-2014-01-29-08.34.06-1024x650.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-01-29T07:54:05+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2014-01-29T07:54:05+00:00'
 description: >-
     Adam Fendrych na Čtvrtkonu. Foto: Jan Muller (rattkin.info)Jaký byl první UX Čtvrtkon?Na první Čtvrtkon v novém roce za námi přijel Adam Fendrych. Povídal si s námi o tom, co je vůbec UX, co...

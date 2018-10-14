@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #20 – 15. května 2014'
 image: /img/ctvrtkon-15-kveten-web.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-04-19T08:41:24+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2014-04-19T08:41:24+00:00'
 description: >-
     Přijďte si poslechnout něco o superrychlé NoSQL databázi redis či o agilní metodice scrum.Bližší informaceDatum: 15. května 2014Čas: 18:00Místo: Coworking Center ČB (Chelčického 6)Vstupné: ZdarmaPřihlášení...

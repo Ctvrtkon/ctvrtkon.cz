@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Martin Kolčaba – Jak při přechodu na nové URL nezabít SEO'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-10-23T22:08:07+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2014-10-23T22:08:07+00:00'
 description: >-
     Video z 25. Čtvrtkonu – přednáška Martina KolčabyO tom jak může být zrádný přechod na nové URL. Když neošetříte vše, co je potřeba, zaděláte si na obrovské problémy. Ve videu a p...

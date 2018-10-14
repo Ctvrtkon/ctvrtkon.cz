@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Jak nedělat uživatelské testování'
 image: /img/author-tereza-venerova.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-08-05T06:53:24+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2013-08-05T06:53:24+00:00'
 description: >-
     Tereza Venerová nám na jubilejním desátém Čtvrtkonu ukázala, čemu se vyhnout při uživatelském testování, jak ho nedělat a na co si dát pozor, pokud chceme testovat pořádně. Kdo na Čtvrtkon...

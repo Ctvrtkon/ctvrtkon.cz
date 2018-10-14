@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #17 – 6. února 2014'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-01-28T15:24:31+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2014-01-28T15:24:31+00:00'
 description: >-
     Další programátorský Čtvrtkon je zde.Základní informaceDatum: 6. února 2014Čas: 18:00Místo: Vinárna Solnice, České BudějoviceVstupné: ZdarmaPřihlášení na akci naleznete na Facebooku....

@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Jan Tomáš  – Testování oční kamerou'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2015-12-10T10:49:21+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2015-12-10T10:49:21+00:00'
 description: >-
     Video z přednášky Honzy Tomáše o testování oční kamerou.PřednáškaZa video mockrát děkujeme Honzovi Burdovi!Ukázka záznamu z testování webu Plnataska.czO tématu přednáškyNapadlo vás...

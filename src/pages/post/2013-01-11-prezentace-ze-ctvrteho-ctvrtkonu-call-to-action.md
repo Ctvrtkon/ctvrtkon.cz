@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Lepší Call to Action'
 image: /img/author-ondrej-machart.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-01-11T14:13:57+00:00'
+fbEventLink: ''
+place: ''
+time: ''
 date: '2013-01-11T14:13:57+00:00'
 description: >-
     Pokud jste o druhý designerský Čtvrtkon 10. ledna v Horké Vaně přišli, nebo si ho jen chcete připomenout, přikládáme jako vždy prezentaci k prohlédnutí. Tato se věnuje tématu optimalizace...
