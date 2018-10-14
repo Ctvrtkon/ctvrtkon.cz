@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import { PostPreviewHalf } from "../components/Posts";
+import Helmet from "react-helmet";
 
 export default class PostsPage extends React.Component {
   render() {
@@ -10,17 +11,14 @@ export default class PostsPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
     return (
       <Layout>
-        <section className="section has-overlay">
-          <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
-            <h4 className="title is-4">Pozvánky</h4>
-            <div className="columns is-multiline">
-            {posts
-                .map(({ node: post }) => (
-                  <PostPreviewHalf key={post.id} slug={post.fields.slug} post={post.frontmatter}/>
-                ))}
-            </div>
+        <Helmet title={`Pozvánky | Čtvrtkon.cz`}/>
+          <h4 className="title is-4">Pozvánky</h4>
+          <div className="columns is-multiline">
+          {posts
+              .map(({ node: post }) => (
+                <PostPreviewHalf key={post.id} slug={post.fields.slug} post={post.frontmatter}/>
+              ))}
           </div>
-        </section>
       </Layout>
     );
   }

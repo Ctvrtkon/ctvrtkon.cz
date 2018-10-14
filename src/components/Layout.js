@@ -9,11 +9,16 @@ import { Link } from "gatsby";
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Čtvrtkon.cz"/>
+    <Helmet title="Čtvrtkon.cz">
+      <meta charSet="utf-8" />
+      <meta name="description" content="Čtvrteční setkání webové komunity v Českých Budějovicích" />
+    </Helmet>
     <Navbar/>
     <div>
       <section className="section has-overlay">
-        {children}
+        <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
+          {children}
+        </div>
       </section>
     </div>
     <div className="footer has-background-grey-darker has-text-white">

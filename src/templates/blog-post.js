@@ -11,39 +11,29 @@ export const BlogPostTemplate = ({
                                    title,
                                    description,
                                    image,
-                                   date,
-                                   helmet
+                                   time,
+                                   place,
+                                   fbEventLink
                                  }) => {
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
-      {helmet || ""}
-      <div className="container content">
-        <div className="card is-shady">
-          <div className="card-content">
-            <div className="media">
-              <div className="media-content">
-                <h2 className="title">{title}</h2>
-                <p className="subtitle">{description}</p>
-              </div>
-              <div className="media-right">
-                <figure className="image">
-                  <img src={image} alt={title} className="post-image"/>
-                </figure>
-              </div>
-            </div>
-            <div className="content">
-              <PostContent content={content}/>
-              <br/>
-              <p className="has-text-right is-size-7">
-                <time>{date}</time>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <div className="post-detail">
+      <Helmet title={`${title} | Čtvrtkon.cz`}
+              meta={[
+                { name: "description", content: description }
+              ]}
+      />
+      <h2 className="title">{title}</h2>
+      <img src={image} alt={title} className="post-image is-pulled-right"/>
+      <ul className="is-unstyled info-box">
+        <li><strong>Kdy: </strong> {time}</li>
+        {place !== "---" ? <li><strong>Kde: </strong> {place}</li> : ""}
+        {!!fbEventLink ? <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
+      </ul>
+      <br/>
+      <PostContent content={content} className="has-text-justified"/>
+    </div>
   );
 };
 
@@ -53,23 +43,24 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
   image: PropTypes.string,
-  date: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet)
+  time: PropTypes.string,
+  place: PropTypes.string,
+  fbEventLink: PropTypes.string
 };
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-
   return (
     <Layout>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        helmet={<Helmet title={`${post.frontmatter.title} | Blog`}/>}
         title={post.frontmatter.title}
         description={post.frontmatter.description}
         image={post.frontmatter.image}
-        date={post.frontmatter.date}
+        time={post.frontmatter.time}
+        place={post.frontmatter.place}
+        fbEventLink={post.frontmatter.fbEventLink}
       />
     </Layout>
   );
@@ -92,7 +83,9 @@ export const pageQuery = graphql`
         title
         description
         image
-        date(formatString: "DD.MM.YYYY")
+        time(formatString: "DD.MM.YYYY HH:MM")
+        fbEventLink
+        place
       }
     }
   }

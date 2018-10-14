@@ -4,28 +4,18 @@ import { graphql } from "gatsby";
 import Content, { HTMLContent } from "../components/Content";
 import Layout from "../components/Layout";
 import { ContactForm } from "../components/ContactForm";
+import Helmet from "react-helmet";
 
 export const ContactPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section section--gradient">
-      <div className="container content">
-        <div className="card is-shady">
-          <div className="card-content">
-            <div className="media">
-              <div className="media-content">
-                <h2 className="title">{title}</h2>
-              </div>
-            </div>
-            <div className="content">
-              <PageContent className="content" content={content}/>
-              <ContactForm />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <div>
+      <Helmet title={`Kontakt | Čtvrtkon.cz`}/>
+      <h2 className="title is-h2">{title}</h2>
+      <PageContent className="content" content={content}/>
+      <ContactForm/>
+    </div>
   );
 };
 

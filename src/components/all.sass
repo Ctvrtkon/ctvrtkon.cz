@@ -29,6 +29,10 @@ html, body
   max-width: 600px
   max-height: 300px
 
+.post-detail .post-image
+  margin-left: 1.5rem
+  margin-bottom: 1rem
+
 div.main-post-content
   padding-top: 0
   padding-left: 0
@@ -37,12 +41,25 @@ div.main-post-content
 .has-overlay
   background: url('/img/cover.jpg') center top no-repeat
   // background-size: contain
+  min-height: 900px // we don't want to have smaller content windows that 900 px to have whole photo visible
 
 .card-footer.no-border
   border: 0
 
 .post-preview-half .card-image
   height: 300px
+
+
+ul.is-unstyled
+  list-style: none
+  margin: 0
+  padding: 0
+
+.info-box
+  font-size: 110%
+  line-height: 180%
+  padding: 2rem !important
+  border-left: 3px $brand solid
 
 @import "~bulma"
 

@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import {PostPreviewFull, PostPreviewHalf} from "../components/Posts"
+import { PostPreviewFull, PostPreviewHalf } from "../components/Posts";
 
 export default class IndexPage extends React.Component {
   render() {
@@ -11,23 +11,21 @@ export default class IndexPage extends React.Component {
     const { node: firstPost } = posts[0];
     return (
       <Layout>
-          <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
-            <div className="level">
-              <p>Vítejte na stránkách Čtvrtkonu - Jihočeské Webové komunity.</p>
-            </div>
-            <h4 className="title is-4">Příští Čtvrtkon / Pozvánka</h4>
-            <div className="columns">
-              <PostPreviewFull slug={firstPost.fields.slug} post={firstPost.frontmatter}/>
-            </div>
-            <h4 className="title is-4">Přednášky z minulých akcí</h4>
-            <div className="columns is-multiline">
-              {posts
-                .filter((_, idx) => idx > 0) // skip first post as its part of full preview
-                .map(({ node: post }) => (
-                  <PostPreviewHalf key={post.id} slug={post.fields.slug} post={post.frontmatter}/>
-                ))}
-            </div>
-          </div>
+        <div className="level">
+          <p>Vítejte na stránkách Čtvrtkonu - Jihočeské Webové komunity.</p>
+        </div>
+        <h4 className="title is-4">Příští Čtvrtkon / Pozvánka</h4>
+        <div className="columns">
+          <PostPreviewFull slug={firstPost.fields.slug} post={firstPost.frontmatter}/>
+        </div>
+        <h4 className="title is-4">Přednášky z minulých akcí</h4>
+        <div className="columns is-multiline">
+          {posts
+            .filter((_, idx) => idx > 0) // skip first post as its part of full preview
+            .map(({ node: post }) => (
+              <PostPreviewHalf key={post.id} slug={post.fields.slug} post={post.frontmatter}/>
+            ))}
+        </div>
       </Layout>
     );
   }
