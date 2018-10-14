@@ -1,8 +1,9 @@
-import CMS from 'netlify-cms'
+import CMS from "netlify-cms";
 
-import AboutPagePreview from './preview-templates/AboutPagePreview'
-import BlogPostPreview from './preview-templates/BlogPostPreview'
+import AboutPagePreview from "./preview-templates/AboutPagePreview";
+import BlogPostPreview from "./preview-templates/BlogPostPreview";
+import ContactPagePreview from "./preview-templates/ContactPagePreview";
 
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('contact', AboutPagePreview)  // fixme: @twista
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate("about", AboutPagePreview);
+CMS.registerPreviewTemplate("contact", ContactPagePreview);
+CMS.registerPreviewTemplate("blog", BlogPostPreview);
