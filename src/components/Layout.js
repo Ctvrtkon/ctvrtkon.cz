@@ -10,8 +10,9 @@ import { Link } from "gatsby";
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Čtvrtkon.cz">
-      <meta charSet="utf-8" />
-      <meta name="description" content="Čtvrteční setkání webové komunity v Českých Budějovicích" />
+      <html lang="cs" />
+      <meta charSet="utf-8"/>
+      <meta name="description" content="Čtvrteční setkání webové komunity v Českých Budějovicích"/>
     </Helmet>
     <Navbar/>
     <div>
@@ -73,7 +74,9 @@ const TemplateWrapper = ({ children }) => (
       </div>
       <div className="section is-paddingless has-text-centered">
         <p>
-          <small className="is-small has-text-weight-bolder">(c) 2013 - 2018 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH BUDĚJOVICÍCH</small>
+          <small className="is-small has-text-weight-bolder">(c) 2013 - 2018 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
+            BUDĚJOVICÍCH
+          </small>
           <br/><br/>
           <a
             href="https://github.com/Ctvrtkon/ctvrtkon.cz"
