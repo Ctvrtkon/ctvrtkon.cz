@@ -4,7 +4,7 @@ import github from "../img/github-icon.svg";
 import logo from "../img/logo-white.svg";
 
 const Navbar = () => (
-  <nav className="navbar is-primary is-uppercase has-text-weight-bold">
+  <nav className="navbar is-primary shadow is-uppercase has-text-weight-bold">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item logo-wrapper">

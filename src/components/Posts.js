@@ -8,25 +8,23 @@ export class PostPreviewFull extends Component {
 
     return <div className="column is-full">
       <div className="card is-shady">
-        <div className="card-content">
-          <Link className="has-text-primary" to={this.props.slug}>
-            <h5 className="title is-5">{post.title}</h5>
-          </Link>
-        </div>
         <div className="card-content main-post-content">
           <div className="content columns">
-            <div className="column"  style={{ paddingBottom: "0" }}>
+            <div className="column is-7"  style={{ paddingBottom: "0", paddingTop: "0" }}>
               <div className="image is-marginless is-paddingless">
-                <img src={post.image} alt={post.title} className="post-image is-2by1"/>
+                <img src={post.image} alt={post.title} className="is-2by1"/>
               </div>
             </div>
-            <div className="column">
+            <div className="column text-column is-5">
+              <Link className="has-text-primary" to={this.props.slug}>
+                <h5 className="title is-5">{post.title}</h5>
+              </Link>
               <p className="content has-text-justified is-medium">
                 {post.description}
               </p>
               <br/>
-              <p className="has-text-right">
-                <Link to={this.props.slug}>Na detail pozvánky ►</Link>
+              <p className="has-text-right btn-holder">
+                <Link to={this.props.slug} className="button is-outlined is-link">Více informací ►</Link>
               </p>
             </div>
           </div>
@@ -68,7 +66,7 @@ export class PostPreviewHalf extends Component {
           </div>
         </div>
         <div className="card-content has-text-right no-border">
-          <Link to={this.props.slug}>Na detail pozvánky ►</Link>
+          <Link to={this.props.slug} className="button is-outlined is-link">Více informací ►</Link>
         </div>
       </div>
     </div>;

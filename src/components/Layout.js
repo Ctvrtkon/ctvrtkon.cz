@@ -23,7 +23,7 @@ const TemplateWrapper = ({ children }) => (
     <Navbar/>
     <div>
       <section className="section has-overlay">
-        <div className="container main-container is-outlined has-background-white-ter">
+        <div className="container main-container shadow is-outlined has-background-white-ter">
           {children}
         </div>
       </section>

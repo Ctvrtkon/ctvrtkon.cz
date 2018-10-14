@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import { PostPreviewFull, PostPreviewHalf } from "../components/Posts";
 
@@ -14,17 +14,21 @@ export default class IndexPage extends React.Component {
         <div className="level">
           <p>Vítejte na stránkách Čtvrtkonu - Jihočeské Webové komunity.</p>
         </div>
-        <h4 className="title is-4">Příští Čtvrtkon / Pozvánka</h4>
+        <h4 className="title is-4">Příští Čtvrtkon <span className="has-text-grey has-text-weight-normal">/ Pozvánka</span></h4>
         <div className="columns">
           <PostPreviewFull slug={firstPost.fields.slug} post={firstPost.frontmatter}/>
         </div>
-        <h4 className="title is-4 mt-2">Přednášky z minulých akcí</h4>
+        <div className="horizontal-divider">&nbsp;</div>
+        <h4 className="title is-4">Minulé akce</h4>
         <div className="columns is-multiline">
           {posts
             .filter((_, idx) => idx > 0) // skip first post as its part of full preview
             .map(({ node: post }) => (
               <PostPreviewHalf key={post.id} slug={post.fields.slug} post={post.frontmatter}/>
             ))}
+        </div>
+        <div className="column has-text-right">
+          <Link to="/posts" className="button is-text">Starší pozvánky ►</Link>
         </div>
       </Layout>
     );

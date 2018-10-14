@@ -2,18 +2,18 @@
 
 // Medium devices
 @mixin rDesktop
-   @media (max-width: #{$desktop})
-       @content
+  @media (max-width: #{$desktop})
+    @content
 
 // Large devices
 @mixin rWide
-   @media (max-width: #{$widescreen})
-       @content
+  @media (max-width: #{$widescreen})
+    @content
 
 // Extra large devices
 @mixin rFull
-   @media (min-width: #{$fullhd})
-       @content
+  @media (min-width: #{$fullhd})
+    @content
 
 // Config vars
 $brand: #007CA3
@@ -63,7 +63,8 @@ div.main-post-content
 .has-overlay
   background: url('/img/cover.jpg') center top no-repeat
   // background-size: contain
-  min-height: 900px // we don't want to have smaller content windows that 900 px to have whole photo visible
+  min-height: 900px
+  // we don't want to have smaller content windows that 900 px to have whole photo visible
   &.section
     @include rDesktop
       padding: 0
@@ -74,7 +75,6 @@ div.main-post-content
 .post-preview-half .card-image
   @include rFull
     height: 300px
-
 
 ul.is-unstyled
   list-style: none
@@ -90,8 +90,9 @@ ul.is-unstyled
 .pb-0
   padding-bottom: 0 !important
 
-.mt-2
-  margin-top: 2.5rem
+.horizontal-divider
+  border-bottom: 3px #eaeaea solid
+  margin-bottom: 1.5rem
 
 // override responsive styles
 // hover and background on smaller screens
@@ -124,11 +125,22 @@ ul.is-unstyled
   @include rDesktop
     display: none
 
+.shadow
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .15)
+
 .main-container
   padding: .5em 1em
   @include rFull
-    padding: 2em 4em
+    padding: 2em 2.5em
     min-height: 500px
+
+.text-column
+  position: relative
+
+.text-column .btn-holder
+  position: absolute
+  right: 0
+  bottom: 1rem
 
 @import "~bulma"
 
