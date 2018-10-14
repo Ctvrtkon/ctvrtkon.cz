@@ -10,15 +10,15 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section section--gradient">
       <div className="container content">
-        <div class="card is-shady">
-          <div class="card-content">
-            <div class="media">
-              <div class="media-content">
-                <h2 class="title">{title}</h2>
+        <div className="card is-shady">
+          <div className="card-content">
+            <div className="media">
+              <div className="media-content">
+                <h2 className="title">{title}</h2>
               </div>
             </div>
-            <div class="content">
-              <PageContent className="content" content={content} />
+            <div className="content">
+              <PageContent className="content" content={content}/>
             </div>
           </div>
         </div>

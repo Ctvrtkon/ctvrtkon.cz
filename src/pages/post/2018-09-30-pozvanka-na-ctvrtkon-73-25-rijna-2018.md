@@ -7,7 +7,7 @@ place: '---'
 time: '2018-09-30T13:08:06+00:00'
 date: '2018-09-30T13:08:06+00:00'
 description: >-
-    Tvorba nového webu je velký krok, který je třeba důkladně připravit. Na říjnovém Čtvrkonu si řekneme, na co vše při tom myslet a nezapomenout. Téma je vhodné jak pro zadavatele webů, tak...
+    Tvorba nového webu je velký krok, který je třeba důkladně připravit. Na říjnovém Čtvrkonu si řekneme, na co vše při tom myslet a nezapomenout. Téma je vhodné jak pro zadavatele webů, tak i pro ty, kteří své klienty tvorbou nového webu nebo výběrem e-shopového řešení provázejí...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/ctvrtkon-banner.jpg)
 
