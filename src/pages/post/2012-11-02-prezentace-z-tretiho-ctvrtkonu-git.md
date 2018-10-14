@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Git'
 image: /img/author-vaclav-novotny.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2012-11-02T06:42:08+00:00'
 date: '2012-11-02T06:42:08+00:00'
 description: >-
     Další programátorský Čtvrtkon je úspěšně za námi a mně nezbývá nic jiného než vám ještě jednou poděkovat za včerejší hojnou účast a doufám, že i příště přijdete v takovém...

@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Snižování zátěže na webových serverech a službách'
 image: /img/author-petr-steinbauer.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-04-08T09:21:51+00:00'
 date: '2013-04-08T09:21:51+00:00'
 description: >-
     Většině vývojářů se někdy stalo, že jejich webový projekt neustál nárůst návštěvníků a server se zpomalil nebo začal být nestabilní. Jak tyto stavy vznikají? Jak vhodným nastavením...

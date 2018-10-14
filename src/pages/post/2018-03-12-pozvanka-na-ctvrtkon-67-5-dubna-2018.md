@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #67 – 5. dubna 2018'
 image: /img/Ctvrtkon-67-Web-Cover1.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2018-03-12T12:31:22+00:00'
 date: '2018-03-12T12:31:22+00:00'
 description: >-
     Velikonoční Čtvrtkon bude tak trochu o Microsoftu, ale ne tom starém a „zlém“, nýbrž o novém „cool“ MS s cestou Open Sourcu :-) Přijďte načerpat inspiraci o tom, jak se aktuálně d...

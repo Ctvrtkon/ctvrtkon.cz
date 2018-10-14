@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Wireframing'
 image: /img/author-ondrej-machart.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-05-17T06:10:00+00:00'
 date: '2013-05-17T06:10:00+00:00'
 description: >-
     Wireframing je téma blízké každému, kdo se alespoň trochu o tvorbu webů zajímá. Na čtvrtém designerském Čtvrtkonu jsme si povídali o 10-ti bodech, které tento proces dovede k poctivé dokonalosti....

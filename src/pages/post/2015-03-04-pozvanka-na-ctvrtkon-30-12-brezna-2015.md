@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #30 – 12. března 2015'
 image: /img/ctvrtkon-12-3-2015.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2015-03-04T07:52:26+00:00'
 date: '2015-03-04T07:52:26+00:00'
 description: >-
     Aleš Tomeček – Offline konverze v Google AnalyticsJednoduchý návod pro každého, jak navázat údaje o návštěvníkovi s jeho zpracováním mimo prostředí webu. Trocha teorie a trocha praxe, nic...

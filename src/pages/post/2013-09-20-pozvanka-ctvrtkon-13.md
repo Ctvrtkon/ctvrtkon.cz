@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #13'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-09-20T14:41:18+00:00'
 date: '2013-09-20T14:41:18+00:00'
 description: >-
     Po delší pauze je tu opět developerský Čtvrtkon. Společně s Michalem Hatákem se budeme věnovat profilování a zrychlování PHP aplikací. Také přijde kouzelník Dan Sitek a jeho CSS „Live...

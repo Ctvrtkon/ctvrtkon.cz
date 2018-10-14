@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Přednášky na druhém Čtvrtkonu'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2012-09-27T08:20:37+00:00'
 date: '2012-09-27T08:20:37+00:00'
 description: >-
     Druhý Čtvrtkon se již blíží a po úspěšné premiéře před webdeveloperskou komunitou se tentokrát dočká i designerská část jihočechů (Ale vítané jsou obě skupiny!). V rámci dvou zhruba...

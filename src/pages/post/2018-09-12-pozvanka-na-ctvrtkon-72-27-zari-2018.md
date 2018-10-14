@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #72 – 27. září 2018'
 image: /img/Ctvrtkon-72-Web-Cover.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2018-09-12T23:09:08+00:00'
+fbEventLink: 'https://www.facebook.com/events/343484643055946/'
+place: 'CoWo CB'
+time: '2018-09-27T18:00:00+00:00'
 date: '2018-09-12T23:09:08+00:00'
 description: >-
     Opět nadešel ten čas! Čas, kdy všichni designéři opustí pohodlí svých minimalistických pracovních stolů, Maců a tabletů. Čas, kdy všichni designéři vyráží do ulic a na chvíli zapomenou...
@@ -28,6 +28,6 @@ Takže kdo se topí v projektech a úkolech nebo v nich má pořádek, ale zají
 **Termín:** čtvrtek 27. září 2018 od 18:00  
 **Místo:** [CoWo CB](https://www.cowocb.cz)  
 **Přihlášení na akci:** [formulář zde](https://goo.gl/forms/6TxmxCqgNaNvufoJ2)  
-**Událost:** [Na Facebooku](https://www.facebook.com/events/405495406555193/)
+**Událost:** [Na Facebooku](https://www.facebook.com/events/343484643055946/)
 
 After párty bude ihned po skončení v Široku…

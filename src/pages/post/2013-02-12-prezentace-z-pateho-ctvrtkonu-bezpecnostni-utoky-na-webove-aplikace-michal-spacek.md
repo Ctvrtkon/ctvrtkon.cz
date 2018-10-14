@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Bezpečnostní útoky na webové aplikace'
 image: /img/IMG_0001-150x150.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2013-02-12T07:32:37+00:00'
 date: '2013-02-12T07:32:37+00:00'
 description: >-
     Michal Špaček ukázal několik bezpečnostních útoků na webové aplikace, dále způsoby, jak se těmto útokům bránit a v neposlední řadě pohovořil o hešování hesel.Prezentace – Bezpečnostní út...

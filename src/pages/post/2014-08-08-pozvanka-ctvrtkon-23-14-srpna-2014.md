@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #23 – 14. srpna 2014'
 image: /img/ctvrtkon-kozlovna-2-1024x408.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-08-08T08:20:30+00:00'
 date: '2014-08-08T08:20:30+00:00'
 description: >-
     Ahoj přátelé, asi jste si všimli, že letní zpomalené tempo se dotklo i Čtvrtkonu :) Stejně jako loni proto uděláme tento termín více siestový. Zamluvili jsme 20 míst v Kozlovně u Zelené...

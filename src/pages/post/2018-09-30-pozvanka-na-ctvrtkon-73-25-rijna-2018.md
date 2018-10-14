@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #73 – 25.října 2018'
 image: /img/ctvrtkon-banner.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2018-09-30T13:08:06+00:00'
+fbEventLink: 'http://ctvrtkon.cz/pozvanka-na-ctvrtkon-73-25-rijna-2018/'
+place: 'CoWo CB'
+time: '2018-10-25T18:00:00+00:00'
 date: '2018-09-30T13:08:06+00:00'
 description: >-
-    Tvorba nového webu je velký krok, který je třeba důkladně připravit. Na říjnovém Čtvrkonu si řekneme, na co vše při tom myslet a nezapomenout. Téma je vhodné jak pro zadavatele webů, tak i pro ty, kteří své klienty tvorbou nového webu nebo výběrem e-shopového řešení provázejí...
+    Tvorba nového webu je velký krok, který je třeba důkladně připravit. Na říjnovém Čtvrkonu si řekneme, na co vše při tom myslet a nezapomenout. Téma je vhodné jak pro zadavatele webů, tak...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/ctvrtkon-banner.jpg)
 

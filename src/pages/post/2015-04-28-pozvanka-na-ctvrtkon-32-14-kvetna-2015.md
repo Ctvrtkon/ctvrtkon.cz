@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #32 – 14. května 2015'
 image: /img/cIYKuiOR-1.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2015-04-28T22:09:56+00:00'
 date: '2015-04-28T22:09:56+00:00'
 description: >-
     Nejčastější chyby v SEOJaké jsou nejčastější chyby v SEO podle Pavla Ungra? To se dozvíte na nadcházejícím marketingovém Čtvrtkonu 14. května v Coworking Center ČB.Na akci je třeba se...

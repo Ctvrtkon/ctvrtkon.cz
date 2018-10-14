@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #50 – 3. listopadu 2016'
 image: /img/ctvrtkon-50-1.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2016-10-19T08:20:58+00:00'
 date: '2016-10-19T08:20:58+00:00'
 description: >-
     Očekáváte lepší výsledky od svého webu, chcete vyšší tržby? Pak určitě přijďte na další Čtvrtkon, tentokrát totiž zaostříme na výkon. Tématy přednášek bude mobilní marketing...

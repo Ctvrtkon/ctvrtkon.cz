@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #61 – 7. září 2017'
 image: /img/Ctvrtkon-61-Cover-Web.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2017-08-29T07:05:14+00:00'
 date: '2017-08-29T07:05:14+00:00'
 description: >-
     Tentokrát se podíváme na to, jak si vybrat vývojový technologický stack a co je to reaktivní programování i s příklady. Podařilo se nám k tomu sehnat dva výborné místní řečníky, které...

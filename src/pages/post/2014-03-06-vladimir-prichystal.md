@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Vladimír Přichystal – Jak vytěžit z Heuréky maximum?'
 image: /img/ilustracni2.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2014-03-06T14:01:16+00:00'
 date: '2014-03-06T14:01:16+00:00'
 description: >-
     Markeťácký Čtvrtkon  from Besteto marketing, s.r.o....

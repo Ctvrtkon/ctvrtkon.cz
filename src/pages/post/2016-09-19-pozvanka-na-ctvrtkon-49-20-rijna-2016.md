@@ -2,9 +2,6 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #49 – 20. října 2016'
 image: /img/ctvrtkon-49-fb.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
-place: '---'
-time: '2016-09-19T06:34:22+00:00'
 date: '2016-09-19T06:34:22+00:00'
 description: >-
     Tentokrát si na Čtvrtkonu posvítíme na cloud. Ale nebude to pouze obecné povídání, nýbrž přijedou dva přespolní přednášející (rozuměj z Prahy) a každý nám představí svojí vlastní...
