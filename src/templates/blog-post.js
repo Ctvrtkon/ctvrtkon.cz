@@ -16,7 +16,7 @@ export const BlogPostTemplate = ({
                                    fbEventLink
                                  }) => {
   const PostContent = contentComponent || Content;
-
+  const displayInfoBox = [time, place, fbEventLink].some(v => !!v);
   return (
     <div className="post-detail">
       <Helmet title={`${title} | Čtvrtkon.cz`}
@@ -26,12 +26,13 @@ export const BlogPostTemplate = ({
       />
       <h2 className="title">{title}</h2>
       <img src={image} alt={title} className="post-image is-pulled-right"/>
-      <ul className="is-unstyled info-box">
-        <li><strong>Kdy: </strong> {time}</li>
-        {place !== "---" ? <li><strong>Kde: </strong> {place}</li> : ""}
-        {!!fbEventLink ? <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
-      </ul>
-      <br/>
+      {displayInfoBox ?
+        <ul className="is-unstyled info-box">
+          {!!time ? <li><strong>Kdy: </strong> {time}</li> : ""}
+          {!!place ? <li><strong>Kde: </strong> {place}</li> : ""}
+          {!!fbEventLink ?
+            <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
+        </ul> : ""}
       <PostContent content={content} className="has-text-justified"/>
     </div>
   );
