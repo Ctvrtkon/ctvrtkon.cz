@@ -7,7 +7,7 @@ const Navbar = () => (
   <nav className="navbar is-primary is-uppercase has-text-weight-bold">
     <div className="container">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
+        <Link to="/" className="navbar-item logo-wrapper">
           <img src={logo} alt="Čtvrtkon"/>
         </Link>
       </div>

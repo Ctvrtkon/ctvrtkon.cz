@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 export class TeamMember extends Component {
   render() {
     const { m } = this.props;
-    return <div className="card">
+    return <div className="card team">
       <div className="card-content pb-0">
         <div className="media">
           <div className="media-left">

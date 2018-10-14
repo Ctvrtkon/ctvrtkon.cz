@@ -27,7 +27,9 @@ export class PostPreviewFull extends Component {
                 {post.description}
               </p>
               <br/>
-              <Link to={this.props.slug} className="is-pulled-right">Na detail pozvánky ►</Link>
+              <p className="has-text-right">
+                <Link to={this.props.slug}>Na detail pozvánky ►</Link>
+              </p>
             </div>
           </div>
         </div>
