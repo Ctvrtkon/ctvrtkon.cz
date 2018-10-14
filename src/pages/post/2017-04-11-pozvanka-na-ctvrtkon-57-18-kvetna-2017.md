@@ -7,7 +7,7 @@ place: '---'
 time: '2017-04-11T02:43:24+00:00'
 date: '2017-04-11T02:43:24+00:00'
 description: >-
-    Líná huba holé neštěstí a o webu to platí dvojnásob. Přesto ale kolikrát mlčeti zlato. Nakonec &#8211; obsah je přece král! Znáte to sami. Nelehký úkol je napsat to copy, co v lidech zanechá...
+    Líná huba holé neštěstí a o webu to platí dvojnásob. Přesto ale kolikrát mlčeti zlato. Nakonec – obsah je přece král! Znáte to sami. Nelehký úkol je napsat to copy, co v lidech zanechá sil...
 ---
 **Líná huba holé neštěstí a o webu to platí dvojnásob. Přesto ale kolikrát mlčeti zlato. Nakonec – obsah je přece král! Znáte to sami. Nelehký úkol je napsat to copy, co v lidech zanechá silné stopy – ať už jste čistokrevný copywriter, markeťák nebo designer. Skvělé texty prodávají, pomáhají lidem plnit své úkoly, baví, neobírají o čas, nenutí přemýšlet a rezonují s osobností značky. Jak ale takové vytvořit? Co by měl designer o psaní textů vědět? Jak se propsat až k duši uživatele?**
 

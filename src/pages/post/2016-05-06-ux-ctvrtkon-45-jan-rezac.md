@@ -7,7 +7,7 @@ place: '---'
 time: '2016-05-06T05:27:58+00:00'
 date: '2016-05-06T05:27:58+00:00'
 description: >-
-    Místo: Střední průmyslová škola stavební České Budějovice – vchod z Klavíkovy ulice, oficiální adresa Resslova 1579/2, České BudějoviceČas: 17. 6. 2016 &#8211; 18:00 (Pátek!)Na akci...
+    Místo: Střední průmyslová škola stavební České Budějovice – vchod z Klavíkovy ulice, oficiální adresa Resslova 1579/2, České BudějoviceČas: 17. 6. 2016 – 18:00 (Pátek!)Na akci nen...
 ---
 **Místo:** [Střední průmyslová škola stavební České Budějovice](http://www.spsstavcb.cz/kontakt/jak-se-k-nam-dostanete.html) – vchod z Klavíkovy ulice, oficiální adresa Resslova 1579/2, České Budějovice  
 **Čas:** 17. 6. 2016 – 18:00 (Pátek!)

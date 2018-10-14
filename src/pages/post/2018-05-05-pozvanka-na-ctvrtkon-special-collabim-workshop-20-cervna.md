@@ -7,7 +7,7 @@ place: '---'
 time: '2018-05-05T10:53:32+00:00'
 date: '2018-05-05T10:53:32+00:00'
 description: >-
-    &nbsp;Připravili jsme pro vás speciální Čtvrtkon, na kterém ukážeme, jak nástroj Collabim může usnadnit práci SEO specialistům, PPC specialistům, marketérům nebo majitelům webů. Naučte...
+     Připravili jsme pro vás speciální Čtvrtkon, na kterém ukážeme, jak nástroj Collabim může usnadnit práci SEO specialistům, PPC specialistům, marketérům nebo majitelům webů. Naučte se ...
 ---
 Připravili jsme pro vás speciální Čtvrtkon, na kterém ukážeme, jak nástroj Collabim může usnadnit práci SEO specialistům, PPC specialistům, marketérům nebo majitelům webů. Naučte se ho využívat pro svůj business naplno. A pro zaryté Čtvrtkoňáky raději důrazně hlásíme, že je to **tentokrát ve středu** ;-)
 

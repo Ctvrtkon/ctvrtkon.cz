@@ -7,7 +7,7 @@ place: '---'
 time: '2015-03-23T07:48:43+00:00'
 date: '2015-03-23T07:48:43+00:00'
 description: >-
-    Honza Junek &#8211; Jak se navrhuje web pro VŠKdo někdy chodil na vysokou školu, asi ví, že jedna z nejtěžších zkoušek během studií bylo pochopit strukturu školních webových stránek. Kolik...
+    Honza Junek – Jak se navrhuje web pro VŠKdo někdy chodil na vysokou školu, asi ví, že jedna z nejtěžších zkoušek během studií bylo pochopit strukturu školních webových stránek. Kolik z n...
 ---
 Honza Junek – Jak se navrhuje web pro VŠ Kdo někdy chodil na vysokou školu, asi ví, že jedna z nejtěžších zkoušek během studií bylo pochopit strukturu školních webových stránek. Kolik z nás i napopáté nenašlo informaci, kterou jsme hledali? Naštěstí se časy mění a i některé univerzitní stránky už brzy budou stavět na smysluplném návrhu. Honza Junek je u toho a podělí se s vámi o své zkušenosti s návrhem jednoho takového univerzitního webu. Kdo zná jeho poutavá vyprávění z cest, určitě ví, že stojí za to si ho přijít poslechnout. Tahle výprava totiž byla určitě neméně dobrodružná.
 

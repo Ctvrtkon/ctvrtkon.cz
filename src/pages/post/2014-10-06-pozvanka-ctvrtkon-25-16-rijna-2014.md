@@ -7,7 +7,7 @@ place: '---'
 time: '2014-10-06T04:14:32+00:00'
 date: '2014-10-06T04:14:32+00:00'
 description: >-
-    &nbsp;Čtvrtkon &#8211; Martin Kolčaba, Jakub HladkýSpeaker #1: Martin Kolčaba: Jak při přechodu na nový systém URL nespáchat SEO harakiriSpeaker #2: Jakub Hladký: Propagace a práce s e-shopem...
+     Čtvrtkon – Martin Kolčaba, Jakub HladkýSpeaker #1: Martin Kolčaba: Jak při přechodu na nový systém URL nespáchat SEO harakiriSpeaker #2: Jakub Hladký: Propagace a práce s e-shopem v praxi...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/10723194_10202602137323354_564892523_n.jpg)Čtvrtkon – Martin Kolčaba, Jakub Hladký
 

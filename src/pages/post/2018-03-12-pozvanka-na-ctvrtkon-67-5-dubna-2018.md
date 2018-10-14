@@ -7,7 +7,7 @@ place: '---'
 time: '2018-03-12T12:31:22+00:00'
 date: '2018-03-12T12:31:22+00:00'
 description: >-
-    Velikonoční Čtvrtkon bude tak trochu o Microsoftu, ale ne tom starém a &#8222;zlém&#8220;, nýbrž o novém &#8222;cool&#8220; MS s cestou Open Sourcu :-) Přijďte načerpat inspiraci o tom, jak...
+    Velikonoční Čtvrtkon bude tak trochu o Microsoftu, ale ne tom starém a „zlém“, nýbrž o novém „cool“ MS s cestou Open Sourcu :-) Přijďte načerpat inspiraci o tom, jak se aktuálně d...
 ---
 **Velikonoční Čtvrtkon bude tak trochu o Microsoftu, ale ne tom starém a „zlém“, nýbrž o novém „cool“ MS s cestou Open Sourcu :-) Přijďte načerpat inspiraci o tom, jak se aktuálně dělají webové stránky na nové verzi .NET Core, která je multi platformní. Nově už tak nemusíte být vázáni pouze na Windowsy, ale je možné pracovat s .NET (Core) i na Macu a Linuxu. Zároveň se podíváme na funkcionální programování pomocí F# v kombinaci s JavaScriptem.**
 

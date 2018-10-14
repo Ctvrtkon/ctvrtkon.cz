@@ -7,7 +7,7 @@ place: '---'
 time: '2015-09-15T22:34:35+00:00'
 date: '2015-09-15T22:34:35+00:00'
 description: >-
-    Daniel Čupak: Personalizace pomocí merge tagůMarcel Kupka: Copy triky a tipy pro e-mailingMísto: Coworking Center České BudějoviceČas: 29.10.2015 &#8211; 18:00Na akci není nutné se přihlásit,...
+    Daniel Čupak: Personalizace pomocí merge tagůMarcel Kupka: Copy triky a tipy pro e-mailingMísto: Coworking Center České BudějoviceČas: 29.10.2015 – 18:00Na akci není nutné se přihlásit, ale...
 ---
 [](http://ctvrtkon.cz/wp-content/uploads/ctvrtkon-36-web.jpg)
 

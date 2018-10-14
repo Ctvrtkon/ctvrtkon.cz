@@ -7,7 +7,7 @@ place: '---'
 time: '2013-08-12T11:28:54+00:00'
 date: '2013-08-12T11:28:54+00:00'
 description: >-
-    David Kuba na 10. Čtvrtkonu přednášel o obchodní stránce webdesignu &#8211; tedy o všech úskalích, mezi kterými musí každý freelancer / podnik každý den proplouvat, aniž by utrpěla ztrátu...
+    David Kuba na 10. Čtvrtkonu přednášel o obchodní stránce webdesignu – tedy o všech úskalích, mezi kterými musí každý freelancer / podnik každý den proplouvat, aniž by utrpěla ztrátu jeh...
 ---
 David Kuba na 10. Čtvrtkonu přednášel o obchodní stránce webdesignu – tedy o všech úskalích, mezi kterými musí každý freelancer / podnik každý den proplouvat, aniž by utrpěla ztrátu jeho vlastní či klientova posádka. V prezentaci níže naleznete i Davidovi poznámky (naleznete je pod volbou „Otevřít poznámky řečníka“ po kliknutí na ikonku ozubeného kolečka).
 
