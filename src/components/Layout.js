@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 
 import Navbar from "../components/Navbar";
 import "./all.sass";
-import logo from "../img/logo.svg";
+import logo from "../img/logo-white.svg";
 import github from "../img/github-icon.svg";
 import { Link } from "gatsby";
 

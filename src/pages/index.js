@@ -18,7 +18,7 @@ export default class IndexPage extends React.Component {
         <div className="columns">
           <PostPreviewFull slug={firstPost.fields.slug} post={firstPost.frontmatter}/>
         </div>
-        <h4 className="title is-4">Přednášky z minulých akcí</h4>
+        <h4 className="title is-4 mt-2">Přednášky z minulých akcí</h4>
         <div className="columns is-multiline">
           {posts
             .filter((_, idx) => idx > 0) // skip first post as its part of full preview

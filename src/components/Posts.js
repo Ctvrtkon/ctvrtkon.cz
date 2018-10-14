@@ -15,10 +15,10 @@ export class PostPreviewFull extends Component {
         </div>
         <div className="card-content main-post-content">
           <div className="content columns">
-            <div className="column">
-              <figure className="image is-marginless is-paddingless">
+            <div className="column"  style={{ paddingBottom: "0" }}>
+              <div className="image is-marginless is-paddingless">
                 <img src={post.image} alt={post.title} className="post-image is-2by1"/>
-              </figure>
+              </div>
             </div>
             <div className="column">
               <p className="content has-text-justified is-medium">
@@ -58,9 +58,9 @@ export class PostPreviewHalf extends Component {
           </Link>
         </div>
         <div className="card-image">
-          <figure className="image">
+          <div className="image">
             <img src={post.image} alt={post.title} className="post-image"/>
-          </figure>
+          </div>
         </div>
         <div className="card-content">
           <div className="content">
