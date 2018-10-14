@@ -2,28 +2,19 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import {PostPreviewFull, PostPreviewHalf} from "../components/Posts"
+import { PostPreviewHalf } from "../components/Posts";
 
-export default class IndexPage extends React.Component {
+export default class PostsPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    const { node: firstPost } = posts[0];
     return (
       <Layout>
         <section className="section has-overlay">
           <div className="container is-outlined has-background-white-ter" style={{ padding: "2em 4em" }}>
-            <div className="level">
-              <p>Vítejte na stránkách Čtvrtkonu - Jihočeské Webové komunity.</p>
-            </div>
-            <h4 className="title is-4">Příští Čtvrtkon / Pozvánka</h4>
-            <div className="columns">
-              <PostPreviewFull slug={firstPost.fields.slug} post={firstPost.frontmatter}/>
-            </div>
-            <h4 className="title is-4">Přednášky z minulých akcí</h4>
+            <h4 className="title is-4">Pozvánky</h4>
             <div className="columns is-multiline">
-              {posts
-                .filter((_, idx) => idx > 0) // skip first post as its part of full preview
+            {posts
                 .map(({ node: post }) => (
                   <PostPreviewHalf key={post.id} slug={post.fields.slug} post={post.frontmatter}/>
                 ))}
@@ -35,7 +26,7 @@ export default class IndexPage extends React.Component {
   }
 }
 
-IndexPage.propTypes = {
+PostsPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array
@@ -44,15 +35,14 @@ IndexPage.propTypes = {
 };
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query PostsQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-      limit: 5
     ) {
       edges {
         node {
-          excerpt(pruneLength: 700)
+          excerpt(pruneLength: 300)
           id
           fields {
             slug

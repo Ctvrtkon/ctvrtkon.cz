@@ -12,8 +12,8 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/">
-          Novinky
+        <Link className="navbar-item" to="/posts">
+          Pozvánky
         </Link>
         <Link className="navbar-item" to="/about">
           O Projektu
