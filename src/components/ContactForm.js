@@ -58,7 +58,8 @@ export class ContactForm extends Component {
           <div className="control">
             <input className="input" type="text"
                    value={this.state.name}
-                   name="name" id="name" placeholder="Jan Novák" onChange={this.handleChange}/>
+                   name="name" id="name" placeholder="Jan Novák" onChange={this.handleChange} required
+                   maxLength="100" />
           </div>
         </div>
         <div className="field">
@@ -67,7 +68,8 @@ export class ContactForm extends Component {
             <input className="input" type="text"
                    value={this.state.from}
                    name="from" id="from" placeholder="E-mail / telefon"
-                   onChange={this.handleChange}/>
+                   onChange={this.handleChange} required
+                   maxLength="150" />
           </div>
         </div>
 
@@ -76,16 +78,14 @@ export class ContactForm extends Component {
           <div className="control">
             <textarea className="textarea"
                       value={this.state.message}
-                      name="message" id="message" placeholder="Vaše zpráva..." onChange={this.handleChange}/>
+                      name="message" id="message" placeholder="Vaše zpráva..." onChange={this.handleChange}
+                      maxLength="1000" required />
           </div>
         </div>
 
         <div className="field is-grouped">
           <div className="control">
             <input type="submit" className="button is-link" value="Odeslat"/>
-          </div>
-          <div className="control">
-            <input type="reset" className="button is-text" value="Zrušit"/>
           </div>
         </div>
       </form>
