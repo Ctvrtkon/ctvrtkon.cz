@@ -84,7 +84,7 @@ export const pageQuery = graphql`
         title
         description
         image
-        time(formatString: "DD.MM.YYYY HH:MM")
+        time(formatString: "DD.MM.YYYY HH:mm")
         fbEventLink
         place
       }
