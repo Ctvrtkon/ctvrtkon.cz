@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #73 – 25.října 2018'
+title: 'Pozvánka na Čtvrtkon #73'
 image: /img/ctvrtkon-banner.jpg
 fbEventLink: 'https://www.facebook.com/events/106636046923675/'
 place: CoWo CB
