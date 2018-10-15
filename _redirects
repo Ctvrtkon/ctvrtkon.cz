@@ -1,0 +1,7 @@
+# general redirects
+/category/* /posts
+/o-projektu/ /about
+/category/novinky/ /
+/speakers/ /
+/nastenka/ /
+/kontakt/ /contact
