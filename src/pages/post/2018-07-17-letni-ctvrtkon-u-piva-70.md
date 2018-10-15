@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Letní Čtvrtkon u piva #70 – 19. července 2018'
-image: /img/pivo-1-1-.jpg
+image: /img/piivo-1-.jpg
 fbEventLink: 'https://www.facebook.com/events/981845448644135/'
 place: Kozlovna U Zelené ratolesti
 time: '2018-07-19T18:00:00'
