@@ -17,7 +17,7 @@ collections:
   - {label: "Image", name: "image", widget: "image"}
   - {label: "Event Facebook Link", name: "fbEventLink", widget: "string"}
   - {label: "Event Place", name: "place", widget: "string"}
-  - {label: "Event Time", name: "time", widget: "datetime", format: "DD.MM.YYYY HH:mm"}
+  - {label: "Event Time", name: "time", widget: "datetime", format: "YYYY-MM-DD[T]HH:mm:ss"}
   - {label: "Publish Date", name: "date", widget: "datetime"}
   - {label: "Description", name: "description", widget: "text"}
   - {label: "Body", name: "body", widget: "markdown"}
