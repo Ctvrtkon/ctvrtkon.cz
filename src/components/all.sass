@@ -105,7 +105,10 @@ ul.is-unstyled
 .navbar > .container
   @include rWide
     text-align: center
-
+.navbar .navbar-end
+  // hide github logo on desktop
+  @include rDesktop
+    display: none
 .logo-wrapper
   @include rWide
     margin: 0 auto
@@ -116,7 +119,6 @@ ul.is-unstyled
     padding-right: 1rem
 
 .post-detail .is-pulled-right
-
   @include rWide
     float: none !important
     display: block
@@ -130,9 +132,9 @@ ul.is-unstyled
 
 .main-container
   padding: .5em 1em
+  min-height: 500px
   @include rFull
     padding: 2em 2.5em
-    min-height: 500px
 
 .text-column
   position: relative

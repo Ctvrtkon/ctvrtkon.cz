@@ -19,7 +19,7 @@ export class PostPreviewFull extends Component {
               <Link className="has-text-primary" to={this.props.slug}>
                 <h5 className="title is-5">{post.title}</h5>
               </Link>
-              <p className="content has-text-justified is-medium">
+              <p className="content">
                 {post.description}
               </p>
               <br/>
