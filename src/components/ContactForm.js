@@ -4,7 +4,7 @@ export class ContactForm extends Component {
   render() {
     return <div>
       <h3 className="title is-h3">Máte námět? Dejte nám vědet!</h3>
-      <form name="contact" method="post" action="/form-success" data-netlify="true" data-netlify-honeypot="bot-field">
+      <form name="Contact" method="post" action="/form-success" data-netlify="true" data-netlify-honeypot="bot-field">
         <input type="hidden" name="bot-field"/>
         <div className="field">
           <label className="label">Jméno</label>
@@ -15,7 +15,7 @@ export class ContactForm extends Component {
         <div className="field">
           <label className="label">Kontakt</label>
           <div className="control">
-            <input className="input" type="text" name="contact" id="contact" placeholder="E-mail / telefon"/>
+            <input className="input" type="text" name="mail_or_phone" id="mail_or_phone" placeholder="E-mail / telefon"/>
           </div>
         </div>
 
