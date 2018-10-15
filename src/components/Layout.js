@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 import Navbar from "../components/Navbar";
 import "./all.sass";
 import logo from "../img/logo-white.svg";
-import github from "../img/github-icon.svg";
+import github from "../img/github-icon-white.svg";
 import { Link } from "gatsby";
 
 const TemplateWrapper = ({ children }) => (
@@ -18,9 +18,9 @@ const TemplateWrapper = ({ children }) => (
       <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
       <meta name="msapplication-TileColor" content="#da532c"/>
       <meta name="theme-color" content="#ffffff"/>
-      <meta name="twitter:site" content="@ctvrtkon" />
-      <meta name="og:type" content="website" />
-      <meta name="og:site_name" content="Čtvrtkon.cz" />
+      <meta name="twitter:site" content="@ctvrtkon"/>
+      <meta name="og:type" content="website"/>
+      <meta name="og:site_name" content="Čtvrtkon.cz"/>
     </Helmet>
     <Navbar/>
     <div>
