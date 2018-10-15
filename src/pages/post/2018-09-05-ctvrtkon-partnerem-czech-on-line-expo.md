@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Čtvrtkon partnerem Czech On-line Expo
-image: /img/fb_komunitni_partner_ctvrtkon-1-.jpg
+image: /img/ctvrtkon_partner-1-.jpg
 fbEventLink: 'https://www.czechonlineexpo.cz/'
 place: Výstaviště Praha Holešovice
 time: '2019-03-29T00:00:00'
