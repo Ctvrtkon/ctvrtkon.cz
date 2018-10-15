@@ -21,7 +21,10 @@ export const BlogPostTemplate = ({
     <div className="post-detail">
       <Helmet title={`${title} | Čtvrtkon.cz`}
               meta={[
-                { name: "description", content: description }
+                { name: "description", content: description },
+                { property: "og:title", content: title },
+                { property: "og:description", content: description },
+                { property: "og:image", content: image }
               ]}
       />
       <h2 className="title">{title}</h2>

@@ -19,8 +19,12 @@ const TemplateWrapper = ({ children }) => (
       <meta name="msapplication-TileColor" content="#da532c"/>
       <meta name="theme-color" content="#ffffff"/>
       <meta name="twitter:site" content="@ctvrtkon"/>
-      <meta name="og:type" content="website"/>
-      <meta name="og:site_name" content="Čtvrtkon.cz"/>
+      <meta name="twitter:creator" content="@ctvrtkon"/>
+      <meta property="og:title" content="Čtvrtkon.cz"/>
+      <meta property="og:site_name" content="Čtvrtkon.cz"/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:description" content="Čtvrteční setkání webové komunity v Českých Budějovicích"/>
+      <meta property="og:image" content="/img/facebook-logo.png"/>
     </Helmet>
     <Navbar/>
     <div>
