@@ -18,6 +18,9 @@ const TemplateWrapper = ({ children }) => (
       <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
       <meta name="msapplication-TileColor" content="#da532c"/>
       <meta name="theme-color" content="#ffffff"/>
+      <meta name="twitter:site" content="@ctvrtkon" />
+      <meta name="og:type" content="website" />
+      <meta name="og:site_name" content="Čtvrtkon.cz" />
     </Helmet>
     <Navbar/>
     <div>
