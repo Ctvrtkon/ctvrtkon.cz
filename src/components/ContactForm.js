@@ -9,7 +9,7 @@ function encode(data) {
 export class ContactForm extends Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {name: "", from: "", message: ""};
   }
 
   handleChange = (e) => {
@@ -17,7 +17,8 @@ export class ContactForm extends Component {
   };
 
   reset = () => {
-    this.state = {};
+    this.setState({name: "", from: "", message: ""});
+    document.getElementById("contact-form").reset();
   };
 
   handleSubmit = e => {
@@ -39,7 +40,8 @@ export class ContactForm extends Component {
     return <div>
       <h3 className="title is-h3">Máte námět? Dejte nám vědet!</h3>
       <form
-        name="contact"
+        name="contact-form"
+        id="contact-form"
         method="post"
         action="/thanks/"
         data-netlify="true"
@@ -54,13 +56,17 @@ export class ContactForm extends Component {
         <div className="field">
           <label className="label">Jméno</label>
           <div className="control">
-            <input className="input" type="text" name="name" id="name" placeholder="Jan Novák" onChange={this.handleChange}/>
+            <input className="input" type="text"
+                   value={this.state.name}
+                   name="name" id="name" placeholder="Jan Novák" onChange={this.handleChange}/>
           </div>
         </div>
         <div className="field">
           <label className="label">Kontakt</label>
           <div className="control">
-            <input className="input" type="text" name="mail_or_phone" id="mail_or_phone" placeholder="E-mail / telefon"
+            <input className="input" type="text"
+                   value={this.state.from}
+                   name="from" id="from" placeholder="E-mail / telefon"
                    onChange={this.handleChange}/>
           </div>
         </div>
@@ -68,7 +74,9 @@ export class ContactForm extends Component {
         <div className="field">
           <label className="label">Zpráva</label>
           <div className="control">
-            <textarea className="textarea" name="message" id="message" placeholder="Vaše zpráva..." onChange={this.handleChange}/>
+            <textarea className="textarea"
+                      value={this.state.message}
+                      name="message" id="message" placeholder="Vaše zpráva..." onChange={this.handleChange}/>
           </div>
         </div>
 
