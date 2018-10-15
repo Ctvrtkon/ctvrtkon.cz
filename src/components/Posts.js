@@ -10,7 +10,7 @@ export class PostPreviewFull extends Component {
       <div className="card is-shady">
         <div className="card-content main-post-content">
           <div className="content columns">
-            <div className="column is-7"  style={{ paddingBottom: "0", paddingTop: "0" }}>
+            <div className="column is-7" style={{ paddingBottom: "0", paddingTop: "0" }}>
               <div className="image is-marginless is-paddingless">
                 <img src={post.image} alt={post.title} className="is-2by1"/>
               </div>
@@ -19,6 +19,7 @@ export class PostPreviewFull extends Component {
               <Link className="has-text-primary" to={this.props.slug}>
                 <h5 className="title is-5">{post.title}</h5>
               </Link>
+                <h6 className="subtitle is-6">{post.place} | {post.time} | <a href={post.fbEventLink} rel="noopener noreferrer" target="_blank">FB</a></h6>
               <p className="content">
                 {post.description}
               </p>
@@ -40,7 +41,10 @@ PostPreviewFull.propTypes = {
     image: PropTypes.any,
     title: PropTypes.any,
     description: PropTypes.any,
-    date: PropTypes.any
+    date: PropTypes.any,
+    time: PropTypes.any,
+    place: PropTypes.any,
+    fbEventLink: PropTypes.any
   })
 };
 
