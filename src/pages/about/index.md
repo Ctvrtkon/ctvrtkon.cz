@@ -4,7 +4,7 @@ title: O Projektu
 people:
   - department: Dev
     description: '#Python #AWS #Angular'
-    image: /img/me_facemoji.jpg
+    image: /img/twista_ico.jpg
     link: 'https://twitter.com/Twistacz'
     name: Michal Haták
   - department: Dev
