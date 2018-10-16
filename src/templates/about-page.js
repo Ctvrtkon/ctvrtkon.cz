@@ -5,6 +5,7 @@ import Layout from "../components/Layout";
 import Helmet from "react-helmet";
 import Content, { HTMLContent } from "../components/Content";
 import { TeamMember } from "../components/TeamMember";
+import { v4 } from 'uuid'
 
 export const AboutPageTemplate = ({ title, content, team, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -15,7 +16,7 @@ export const AboutPageTemplate = ({ title, content, team, contentComponent }) =>
       <PageContent className="content" content={content}/>
       <h3 className="title is-3">Team:</h3>
       <div className="columns is-multiline">
-        {team.map((m) => (<div className="column is-4 is-marginless"><TeamMember key={m.name} m={m}/></div>))}
+        {team.map((m) => (<div key={v4()} className="column is-4 is-marginless"><TeamMember key={m.name} m={m}/></div>))}
       </div>
     </div>
   );
