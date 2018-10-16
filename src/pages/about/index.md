@@ -23,7 +23,7 @@ people:
     name: Václav Novotný
   - department: Marketing
     description: '#Onlinemarketing #SEO #PPC'
-    image: /img/jana_smerdova.jpg
+    image: /img/jana_smerdova_ctvrtkon.jpg
     link: 'http://www.janasmerdova.cz/'
     name: Jana Šmerdová
   - department: Marketing
