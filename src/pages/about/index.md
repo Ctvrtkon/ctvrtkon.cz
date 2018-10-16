@@ -22,7 +22,8 @@ people:
     link: 'https://vaclavnovotny.eu/'
     name: Václav Novotný
   - department: Marketing
-    description: ...
+    description: '#Onlinemarketing #SEO #PPC'
+    image: /img/jana_smerdova.jpg
     link: 'http://www.janasmerdova.cz/'
     name: Jana Šmerdová
   - department: Marketing
