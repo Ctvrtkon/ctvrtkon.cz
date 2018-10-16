@@ -8,7 +8,7 @@ description: >-
 ---
 **Březnový UX Čtvrtkon se ponese v duchu změn: Poprvé se bude konat v novém prostoru Dallmayr Café, dojde na něm k předání moderátorského žezla symbolicky tím, že přednášet budou oba naši Martinové a oba se navíc podělí o zkušenosti z velkých změn v jejich životě. To jediné, co se nemění, je jistota, že to zase bude super. Přijďte!**
 
-Martin Laudát – Přechod na Mac a Sketch: Bolesti i radosti Potkat designera na přechodu, ani si ho nevšimnete.  
+## Martin Laudát – Přechod na Mac a Sketch: Bolesti i radosti Potkat designera na přechodu, ani si ho nevšimnete.  
 Potkat designera v přechodu je poměrně výjimečné.  
 Ale potkat designera při přechodu z Windows na Mac a z Adobe na Sketch, to je zážitek.
 
@@ -26,7 +26,8 @@ Nestal se milovníkem Apple. Ani nevěří, že Photoshop je mrtev. Výlet na dr
 
 Přijďte si poslechnout Martina. Podělí se s vámi o největší faily, překvapení, zážitky a zkušenosti. Bez obalu, bez příkras.
 
-Martin Hrabánek – Brand: Základní kámen designu Pamatujete si Martina? Byl to ten vysmátý chlapík, hyperkreativní designer z Edgedesignu, který moderoval Čtvrtkon a pokud jste chtěli, předvedl vám maurský tanec Haka.
+## Martin Hrabánek – Brand: Základní kámen designu
+Pamatujete si Martina? Byl to ten vysmátý chlapík, hyperkreativní designer z Edgedesignu, který moderoval Čtvrtkon a pokud jste chtěli, předvedl vám maurský tanec Haka.
 
 Minule jsme se s Martinem loučili, protože se vydal za prací a novými výzvami do sousedního Rakouska, aby v Deloitte Digital ukázal, zač je toho Budějčák.
 
@@ -40,7 +41,11 @@ Přijďte si ho poslechnout, protože pokud pracujete se značkami a máte vliv 
 
 Alles klar?
 
-Přijďte, vstupné je zdarma! **Termín:** čtvrtek 22. března 2018 od 18:00  
+---
+
+Přijďte, vstupné je zdarma!
+
+**Termín:** čtvrtek 22. března 2018 od 18:00  
 **Místo:** [Dallmayr Café & Bar](https://www.facebook.com/Dallmayr-caf%C3%A9-bar-702887763246547/)  
 **Přihlášení:** [Na Facebooku](https://www.facebook.com/events/158640731464851/)
 
