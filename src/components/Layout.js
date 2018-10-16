@@ -16,7 +16,7 @@ const TemplateWrapper = ({ children }) => (
       <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png"/>
       <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png"/>
       <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
-      <meta name="msapplication-TileColor" content="#da532c"/>
+      <meta name="msapplication-TileColor" content="#007CA3"/>
       <meta name="theme-color" content="#ffffff"/>
       <meta name="twitter:site" content="@ctvrtkon"/>
       <meta name="twitter:creator" content="@ctvrtkon"/>
