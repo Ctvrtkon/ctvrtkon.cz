@@ -13,8 +13,9 @@ people:
     link: 'https://www.hlavacm.net/'
     name: Martin Hlaváč
   - department: Dev
-    description: ...
-    link: 'https://www.roxtri.cz/'
+    description: '#PHP #Nette #Symfony'
+    image: /img/nik.jpeg
+    link: 'https://twitter.com/roxtri_cz'
     name: Nikol -roxtri- Ježková
   - department: Dev
     description: '#PHP #BACKEND #BBQ'
