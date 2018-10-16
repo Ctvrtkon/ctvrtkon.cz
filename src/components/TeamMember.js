@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import { v4 } from 'uuid'
 
 export class TeamMember extends Component {
   render() {
@@ -23,7 +22,7 @@ export class TeamMember extends Component {
         </div>
       </div>
       <div className="card-content">
-        <p>{m.description.split(' ').map(tag => <span key={v4()}><span className="tag is-primary">{tag}</span>&nbsp;</span> )}</p>
+          <div className="tags">{m.description.split(' ').map(tag => <span className="tag is-primary">{tag}</span> )}</div>
       </div>
     </div>;
   }
