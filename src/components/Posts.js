@@ -54,7 +54,7 @@ export class PostPreviewHalf extends Component {
 
     return <div className="column is-half post-preview-half">
       <div className="card is-shady">
-        <div className="card-content">
+        <div className="card-content card-header">
           <Link className="has-text-primary" to={this.props.slug}>
             <h5 className="title is-5">{post.title}</h5>
           </Link>

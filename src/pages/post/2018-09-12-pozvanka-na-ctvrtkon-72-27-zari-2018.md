@@ -9,7 +9,6 @@ date: '2018-09-12T23:09:08+00:00'
 description: >-
     Opět nadešel ten čas! Čas, kdy všichni designéři opustí pohodlí svých minimalistických pracovních stolů, Maců a tabletů. Čas, kdy všichni designéři vyráží do ulic a na chvíli zapomenou...
 ---
-[](http://ctvrtkon.cz/wp-content/uploads/Ctvrtkon-72-Web-Cover.png)
 
 **Opět nadešel ten čas! Čas, kdy všichni designéři opustí pohodlí svých minimalistických pracovních stolů, Maců a tabletů. Čas, kdy všichni designéři vyráží do ulic a na chvíli zapomenou na své projekty. Je tu zase UX Čtvrtkon!**
 
@@ -17,11 +16,15 @@ Tentokrát za námi přijedou kluci z [Freela](https://www.freelo.cz/cs), že ne
 
 A kdo že vlastně přijede?
 
-[Jan Kulda](https://www.kulin.cz/)Honza je designer, který se stará aby se dalo Freelo perfektně používat a přitom vypadalo jako moderní aplikace. Honza se určitě podělí o svoje zkušenosti s návrhem Freela a jeho využití při práci designera.
+# [Jan Kulda](https://www.kulin.cz/)
+Honza je designer, který se stará aby se dalo Freelo perfektně používat a přitom vypadalo jako moderní aplikace. Honza se určitě podělí o svoje zkušenosti s návrhem Freela a jeho využití při práci designera.
 
-[Karel Dytrych](https://kareldytrych.cz/)Karel je analytik, který miluje čísla. Celé Freelo se opírá o jeho výzkumy a data reporty a určitě se rád podělí o to, jak se Freelo stavělo, jak se analytická data dají použít při designu takové aplikace.
+# [Karel Dytrych](https://kareldytrych.cz/)
+Karel je analytik, který miluje čísla. Celé Freelo se opírá o jeho výzkumy a data reporty a určitě se rád podělí o to, jak se Freelo stavělo, jak se analytická data dají použít při designu takové aplikace.
 
 Takže kdo se topí v projektech a úkolech nebo v nich má pořádek, ale zajímá ho jak taková aplikace vzniká ať si zapíše čtvrtek 27.9. v CoWo do Kalendáře.
+
+- - -
 
 **Přijďte, vstupné je zdarma!**
 

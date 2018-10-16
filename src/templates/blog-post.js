@@ -27,7 +27,7 @@ export const BlogPostTemplate = ({
                 { property: "og:image", content: image }
               ]}
       />
-      <h2 className="title">{title}</h2>
+      <h2 className="title is-2">{title}</h2>
       <img src={image} alt={title} className="post-image is-pulled-right"/>
       {displayInfoBox ?
         <ul className="is-unstyled info-box">
@@ -36,7 +36,7 @@ export const BlogPostTemplate = ({
           {!!fbEventLink ?
             <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
         </ul> : ""}
-      <PostContent content={content} className="has-text-justified"/>
+      <PostContent content={content} className="has-text-justified is-text-content"/>
     </div>
   );
 };
