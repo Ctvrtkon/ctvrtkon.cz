@@ -22,7 +22,7 @@ export class TeamMember extends Component {
         </div>
       </div>
       <div className="card-content">
-        <p>{m.description}</p>
+        <p>{m.description.split(' ').map(tag => <span><span className="tag is-primary">{tag}</span>&nbsp;</span> )}</p>
       </div>
     </div>;
   }
@@ -30,5 +30,11 @@ export class TeamMember extends Component {
 }
 
 TeamMember.propTypes = {
-  m: PropTypes.object
+  m: PropTypes.shape({
+    name: PropTypes.string,
+    link: PropTypes.string,
+    image: PropTypes.string,
+    department: PropTypes.string,
+    description: PropTypes.string
+  })
 };
