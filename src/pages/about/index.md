@@ -8,8 +8,8 @@ people:
     link: 'https://twitter.com/Twistacz'
     name: Michal Haták
   - department: Dev
-    description: PHP / WordPress vývojář & organizátor
-    image: /img/hlavacm-avatar.png
+    description: '#PHP #WordPress'
+    image: /img/hlavacm-avatar.jpg
     link: 'https://www.hlavacm.net/'
     name: Martin Hlaváč
   - department: Dev
