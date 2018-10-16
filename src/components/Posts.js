@@ -17,7 +17,7 @@ export class PostPreviewFull extends Component {
             </div>
             <div className="column text-column is-5">
               <Link className="has-text-primary" to={this.props.slug}>
-                <h5 className="title is-5">{post.title}</h5>
+                <h3 className="title is-3">{post.title}</h3>
               </Link>
                 <h6 className="subtitle is-6">{post.place} | {post.time} | <a href={post.fbEventLink} rel="noopener noreferrer" target="_blank">FB</a></h6>
               <p className="content">

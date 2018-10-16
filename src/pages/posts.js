@@ -58,6 +58,9 @@ export const pageQuery = graphql`
             description
             templateKey
             date(formatString: "DD.MM.YYYY")
+            time(formatString: "DD.MM.YYYY HH:mm"),
+            place,
+            fbEventLink
           }
         }
       }
