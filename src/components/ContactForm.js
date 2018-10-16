@@ -25,7 +25,7 @@ export class ContactForm extends Component {
     fetch("/?no-cache=1", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", ...this.state })
+      body: encode({ "form-name": "contact-form", ...this.state })
     })
       .then(() => {
         alert("Děkujume za podnět, co nejdříve se ozveme :)");
