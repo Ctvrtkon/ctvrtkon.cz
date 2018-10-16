@@ -17,7 +17,8 @@ people:
     link: 'https://www.roxtri.cz/'
     name: Nikol -roxtri- Ježková
   - department: Dev
-    description: ...
+    description: '#PHP #BACKEND #BBQ'
+    image: /img/00001.jpeg
     link: 'https://vaclavnovotny.eu/'
     name: Václav Novotný
   - department: Marketing
