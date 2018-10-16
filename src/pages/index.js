@@ -12,7 +12,7 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <div className="level">
-          <p>Vítejte na stránkách Čtvrtkonu - Jihočeské Webové komunity.</p>
+          <p>Čtvrteční setkání webové komunity v Českých Budějovicích.</p>
         </div>
         <h4 className="title is-4">Příští Čtvrtkon <span className="has-text-grey has-text-weight-normal">/ Pozvánka</span></h4>
         <div className="columns">
