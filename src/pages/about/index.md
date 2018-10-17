@@ -9,8 +9,8 @@ people:
     name: Michal Haták
   - department: Dev
     description: '#PHP #WordPress'
-    image: /img/hlavacm-avatar.jpg
-    link: 'https://hlavacm.net'
+    image: /img/martin-hlavac-foto.jpg
+    link: 'https://twitter.com/hlavacm'
     name: Martin Hlaváč
   - department: Dev
     description: '#PHP #Nette #Symfony'
@@ -20,29 +20,32 @@ people:
   - department: Dev
     description: '#PHP #BACKEND #BBQ'
     image: /img/00001.jpeg
-    link: 'https://vaclavnovotny.eu/'
+    link: 'https://vaclavnovotny.eu'
     name: Václav Novotný
   - department: Marketing
     description: '#Onlinemarketing #SEO #PPC'
     image: /img/jana_smerdova_ctvrtkon.jpg
-    link: 'http://janasmerdova.cz/'
+    link: 'http://janasmerdova.cz'
     name: Jana Šmerdová
   - department: UX
     description: '#why #why #why #why'
     image: /img/vysmatej-jak-leco.jpg
-    link: 'https://linkedin.com/in/ondrejmachart/'
+    link: 'https://linkedin.com/in/ondrejmachart'
     name: Ondra Machart
   - department: Marketing
     description: ...
-    link: ...
+    image: /img/tomas-kocifaj-foto.jpg
+    link: 'https://twitter.com/kocifaj'
     name: Tomáš Kocifaj
   - department: UX
     description: ...
-    link: 'http://www.martinlaudat.cz/'
+    image: /img/martin-laudat-foto.jpg
+    link: 'http://martinlaudat.cz'
     name: Martin Laudát
   - department: UX
     description: ...
-    link: ...
+    image: /img/martin-hrabanek-foto.jpg
+    link: 'https://twitter.com/martinhrabanek'
     name: Martin Hrabánek
 ---
 **Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**

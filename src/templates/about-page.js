@@ -14,7 +14,7 @@ export const AboutPageTemplate = ({ title, content, team, contentComponent }) =>
       <Helmet title={`O Projektu | Čtvrtkon.cz`}/>
       <h2 className="title is-h2">{title}</h2>
       <PageContent className="content" content={content}/>
-      <h3 className="title is-3">Team:</h3>
+      <h3 className="title is-3">Team</h3>
       <div className="columns is-multiline">
         {team.map((m) => (<div key={v4()} className="column is-4 is-marginless"><TeamMember key={m.name} m={m}/></div>))}
       </div>
