@@ -16,7 +16,7 @@ export class TeamMember extends Component {
             <p className="title is-5">{m.name}</p>
             <p className="subtitle is-7">
               <strong className="is-uppercase">{m.department}</strong><br />
-              <a href={m.link} rel="noopener noreferrer" target="_blank">{m.link}</a>
+              <a href={m.link} rel="noopener noreferrer" target="_blank">{m.link.replace(/(^\w+:|^)\/\//, '')}</a>
             </p>
           </div>
         </div>
