@@ -10,7 +10,7 @@ people:
   - department: Dev
     description: '#PHP #WordPress'
     image: /img/hlavacm-avatar.jpg
-    link: 'https://www.hlavacm.net/'
+    link: 'https://hlavacm.net'
     name: Martin Hlaváč
   - department: Dev
     description: '#PHP #Nette #Symfony'
@@ -25,7 +25,7 @@ people:
   - department: Marketing
     description: '#Onlinemarketing #SEO #PPC'
     image: /img/jana_smerdova_ctvrtkon.jpg
-    link: 'http://www.janasmerdova.cz/'
+    link: 'http://janasmerdova.cz/'
     name: Jana Šmerdová
   - department: UX
     description: '#why #why #why #why #why'
