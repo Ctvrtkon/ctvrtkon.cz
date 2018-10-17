@@ -27,6 +27,11 @@ people:
     image: /img/jana_smerdova_ctvrtkon.jpg
     link: 'http://www.janasmerdova.cz/'
     name: Jana Šmerdová
+  - department: UX
+    description: '#why #why #why #why #why'
+    image: /img/vysmatej-jak-leco.jpg
+    link: 'https://linkedin.com/in/ondrejmachart/'
+    name: Ondra Machart
   - department: Marketing
     description: ...
     link: ...
@@ -39,11 +44,6 @@ people:
     description: ...
     link: ...
     name: Martin Hrabánek
-  - department: UX
-    description: '#why #why #why #why #why'
-    image: /img/vysmatej-jak-leco.jpg
-    link: 'https://www.linkedin.com/in/ondrejmachart/'
-    name: Ondra Machart
 ---
 **Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**
 
