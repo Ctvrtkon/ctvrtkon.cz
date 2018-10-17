@@ -28,7 +28,7 @@ people:
     link: 'http://janasmerdova.cz/'
     name: Jana Šmerdová
   - department: UX
-    description: '#why #why #why #why #why'
+    description: '#why #why #why #why'
     image: /img/vysmatej-jak-leco.jpg
     link: 'https://linkedin.com/in/ondrejmachart/'
     name: Ondra Machart
