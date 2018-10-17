@@ -41,6 +41,7 @@ people:
     name: Martin Hrabánek
   - department: UX
     description: ...
+    image: /img/vysmatej-jak-leco.jpg
     link: ...
     name: Ondra Machart
 ---
