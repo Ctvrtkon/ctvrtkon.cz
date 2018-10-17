@@ -40,9 +40,9 @@ people:
     link: ...
     name: Martin Hrabánek
   - department: UX
-    description: ...
+    description: '#why #why #why #why #why'
     image: /img/vysmatej-jak-leco.jpg
-    link: ...
+    link: 'https://www.linkedin.com/in/ondrejmachart/'
     name: Ondra Machart
 ---
 **Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**
