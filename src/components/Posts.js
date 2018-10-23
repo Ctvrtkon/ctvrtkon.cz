@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
+import { FaCaretRight } from "react-icons/fa";
 
 export class PostPreviewFull extends Component {
   render() {
@@ -25,7 +26,7 @@ export class PostPreviewFull extends Component {
               </p>
               <br/>
               <p className="has-text-right btn-holder">
-                <Link to={this.props.slug} className="button is-outlined is-link">Více informací ►</Link>
+                <Link to={this.props.slug} className="button is-outlined is-link">Více informací <FaCaretRight /></Link>
               </p>
             </div>
           </div>
@@ -70,7 +71,7 @@ export class PostPreviewHalf extends Component {
           </div>
         </div>
         <div className="card-content has-text-right no-border">
-          <Link to={this.props.slug} className="button is-outlined is-link">Více informací ►</Link>
+          <Link to={this.props.slug} className="button is-outlined is-link">Více informací <FaCaretRight /></Link>
         </div>
       </div>
     </div>;

@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import { PostPreviewFull, PostPreviewHalf } from "../components/Posts";
+import { FaCaretRight } from "react-icons/fa";
 
 export default class IndexPage extends React.Component {
   render() {
@@ -28,7 +29,7 @@ export default class IndexPage extends React.Component {
             ))}
         </div>
         <div className="column has-text-right">
-          <Link to="/posts" className="button is-text">Starší pozvánky ►</Link>
+          <Link to="/posts" className="button is-text">Starší pozvánky <FaCaretRight /></Link>
         </div>
       </Layout>
     );

@@ -6,6 +6,7 @@ import "./all.sass";
 import logo from "../img/logo-white.svg";
 import github from "../img/github-icon-white.svg";
 import { Link } from "gatsby";
+import { FaFacebook, FaTwitter, FaSlack, FaYoutube } from "react-icons/fa";
 
 const TemplateWrapper = ({ children }) => (
   <div>
@@ -65,15 +66,15 @@ const TemplateWrapper = ({ children }) => (
             <img src={logo} alt="ctvrtkon.cz" className="logo" width="300"/>
           </div>
           <div className="column is-3 has-text-right">
-            <ul>
+            <ul className="links">
               <li><a href="https://www.facebook.com/groups/ctvrtkon/" target="_blank" className="has-text-white"
-                     rel="noopener noreferrer">Facebook</a></li>
-              <li><a href="https://twitter.com/ctvrtkon" target="_blank" className="has-text-white" rel="noopener noreferrer">Twitter</a>
+                     rel="noopener noreferrer">Facebook&nbsp;&nbsp;<FaFacebook /></a></li>
+              <li><a href="https://twitter.com/ctvrtkon" target="_blank" className="has-text-white" rel="noopener noreferrer">Twitter&nbsp;&nbsp;<FaTwitter/></a>
               </li>
               <li><a href="https://ctvrtkon-slack.herokuapp.com/" target="_blank" className="has-text-white"
-                     rel="noopener noreferrer">Slack</a></li>
+                     rel="noopener noreferrer">Slack&nbsp;&nbsp;<FaSlack/></a></li>
               <li><a href="https://www.youtube.com/channel/UCp56QhLAr4zefLhkHUFt0UQ/" target="_blank" className="has-text-white"
-                     rel="noopener noreferrer">YouTube</a></li>
+                     rel="noopener noreferrer">YouTube&nbsp;&nbsp;<FaYoutube/></a></li>
             </ul>
           </div>
         </section>
