@@ -3,6 +3,7 @@ import { Link } from "gatsby";
 import github from "../img/github-icon-white.svg";
 import logo from "../img/logo-white.svg";
 import slack from "../img/slack_white.png";
+import facebook from "../img/facebook-logo.svg";
 
 const Navbar = () => (
   <nav className="navbar is-primary shadow is-uppercase has-text-weight-bold">
@@ -24,6 +25,17 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-end">
+        <a
+          className="navbar-item"
+          href="https://www.facebook.com/groups/ctvrtkon/"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Čtvrtkon Facebook skupina"
+        >
+          <span className="icon">
+            <img src={facebook} alt="Facebook icon"/>
+          </span>
+        </a>
         <a
           className="navbar-item"
           href="https://ctvrtkon-slack.herokuapp.com/"
