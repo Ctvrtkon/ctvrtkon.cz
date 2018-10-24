@@ -1,5 +1,6 @@
 # redirect netlify subdomain
 https://ctvrtkon.netlify.com/* https://www.ctvrtkon.cz/:splat 301!
+https://ctvrtkon.netlify.com https://www.ctvrtkon.cz 301!
 
 # general redirects
 /category/* /posts
