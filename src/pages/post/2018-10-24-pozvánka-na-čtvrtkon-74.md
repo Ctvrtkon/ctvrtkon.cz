@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #74'
 image: /img/ctvrtkon-banner-74.jpg
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
+fbEventLink: 'https://www.facebook.com/events/492129731300130/'
 place: 'Dallmayr café & bar – Karla IV. 412/5, České Budějovice'
 time: '2018-11-01T18:00:00'
 date: 2018-11-01T19:00:00.000Z
@@ -17,6 +17,8 @@ Listopadový DEV Čtvrtkon bude v trochu novém formátu! Opět budou dvě klasi
 ---
 
 ## Přednášky
+
+---
 
 ### Lukáš Svoboda
 
@@ -37,6 +39,8 @@ Při přepisu webu Čtvrtkonu jsme použili Gatsby.js a tím docílili rychlosti
 ---
 
 ## Talky
+
+---
 
 * Martin Hlaváč - Udemy
 * Dalibor Jaroš - Jak jsme rozstřelili Collabim
