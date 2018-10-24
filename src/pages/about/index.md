@@ -38,9 +38,9 @@ people:
     link: 'https://twitter.com/kocifaj'
     name: Tomáš Kocifaj
   - department: UX
-    description: ...
+    description: '#ucd #ux #webdesign #research'
     image: /img/martin-laudat-foto.jpg
-    link: 'http://martinlaudat.cz'
+    link: 'https://linkedin.com/in/martinlaudat/'
     name: Martin Laudát
   - department: UX
     description: ...
