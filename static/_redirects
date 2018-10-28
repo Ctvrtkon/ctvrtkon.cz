@@ -2,6 +2,10 @@
 https://ctvrtkon.netlify.com/* https://www.ctvrtkon.cz/:splat 301!
 https://ctvrtkon.netlify.com https://www.ctvrtkon.cz 301!
 
+# slack shortener
+slack https://ctvrtkon-slack.herokuapp.com/ 301!
+slack/ https://ctvrtkon-slack.herokuapp.com/ 301!
+
 # general redirects
 /category/* /posts
 /tag/* /posts
