@@ -43,8 +43,8 @@ people:
     link: 'https://linkedin.com/in/martinlaudat/'
     name: Martin Laudát
   - department: UX
-    description: ...
-    image: /img/martin-hrabanek-foto.jpg
+    description: '#brand #identity #& #UX/UI #design'
+    image: /img/mh.jpg
     link: 'https://twitter.com/martinhrabanek'
     name: Martin Hrabánek
 ---
