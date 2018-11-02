@@ -33,7 +33,7 @@ people:
     link: 'https://linkedin.com/in/ondrejmachart'
     name: Ondra Machart
   - department: Marketing
-    description: ...
+    description: '#komunikace #projekty #řízení'
     image: /img/tomas-kocifaj-foto.jpg
     link: 'https://twitter.com/kocifaj'
     name: Tomáš Kocifaj
