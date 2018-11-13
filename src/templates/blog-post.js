@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
+import Img from "gatsby-image";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
@@ -28,14 +29,20 @@ export const BlogPostTemplate = ({
               ]}
       />
       <h2 className="title is-2">{title}</h2>
-      <img src={image} alt={title} className="post-image is-pulled-right"/>
-      {displayInfoBox ?
-        <ul className="is-unstyled info-box">
-          {!!time ? <li><strong>Kdy: </strong> {time}</li> : ""}
-          {!!place ? <li><strong>Kde: </strong> {place}</li> : ""}
-          {!!fbEventLink ?
-            <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
-        </ul> : ""}
+      <div className="columns">
+        <div className="column is-two-fifths is-full-tablet is-full-mobile">
+          {displayInfoBox ?
+          <ul className="is-unstyled info-box">
+            {!!time ? <li><strong>Kdy: </strong> {time}</li> : ""}
+            {!!place ? <li><strong>Kde: </strong> {place}</li> : ""}
+            {!!fbEventLink ?
+              <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
+          </ul> : ""}
+        </div>
+        <div className="column is-three-fifths is-full-tablet is-full-mobile">
+          <Img fluid={image.childImageSharp.fluid} alt={title} className=""/>
+        </div>
+      </div>
       <PostContent content={content} className="has-text-justified is-text-content"/>
     </div>
   );
@@ -46,7 +53,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   title: PropTypes.string,
   description: PropTypes.string,
-  image: PropTypes.string,
+  image: PropTypes.any,
   time: PropTypes.string,
   place: PropTypes.string,
   fbEventLink: PropTypes.string
@@ -86,7 +93,13 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         time(formatString: "DD.MM.YYYY HH:mm")
         fbEventLink
         place

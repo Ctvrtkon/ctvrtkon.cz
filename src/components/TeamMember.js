@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import Img from "gatsby-image";
+import { v4 } from "uuid";
 
 export class TeamMember extends Component {
   render() {
@@ -9,7 +11,7 @@ export class TeamMember extends Component {
         <div className="media">
           <div className="media-left">
             <figure className="image is-square is-96x96">
-              <img className="is-rounded" src={m.image ? m.image : "https://via.placeholder.com/256x256"} alt={m.name}/>
+              <Img fixed={m.image.childImageSharp.fixed} style={{position: "initial"}} alt={m.name} className="is-rounded"/>
             </figure>
           </div>
           <div className="media-content">
@@ -22,7 +24,7 @@ export class TeamMember extends Component {
         </div>
       </div>
       <div className="card-content">
-          <div className="tags">{m.description.split(' ').map(tag => <span className="tag is-primary">{tag}</span> )}</div>
+          <div className="tags">{m.description.split(' ').map(tag => <span key={v4()} className="tag is-primary">{tag}</span> )}</div>
       </div>
     </div>;
   }
@@ -33,7 +35,7 @@ TeamMember.propTypes = {
   m: PropTypes.shape({
     name: PropTypes.string,
     link: PropTypes.string,
-    image: PropTypes.string,
+    image: PropTypes.any,
     department: PropTypes.string,
     description: PropTypes.string
   })

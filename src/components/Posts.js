@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
+import Img from "gatsby-image";
 import PropTypes from "prop-types";
 import { FaCaretRight } from "react-icons/fa";
 
@@ -13,7 +14,7 @@ export class PostPreviewFull extends Component {
           <div className="content columns">
             <div className="column is-7" style={{ paddingBottom: "0", paddingTop: "0" }}>
               <div className="image is-marginless is-paddingless">
-                <img src={post.image} alt={post.title} className="is-2by1"/>
+                <Img fluid={post.image.childImageSharp.fluid} alt={post.title} className="is-2by1"/>
               </div>
             </div>
             <div className="column text-column is-5">
@@ -62,7 +63,7 @@ export class PostPreviewHalf extends Component {
         </div>
         <div className="card-image">
           <div className="image">
-            <img src={post.image} alt={post.title} className="post-image"/>
+            <Img fluid={post.image.childImageSharp.fluid} alt={post.title} className="post-image"/>
           </div>
         </div>
         <div className="card-content">

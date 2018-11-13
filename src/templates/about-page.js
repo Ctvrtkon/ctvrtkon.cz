@@ -58,7 +58,13 @@ export const aboutPageQuery = graphql`
         people {
           name
           link
-          image
+          image {
+            childImageSharp { 
+              fixed(width: 182, height: 182) {
+                ...GatsbyImageSharpFixed
+              }
+            }
+          }
           department
           description
         }
