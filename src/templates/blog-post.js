@@ -44,7 +44,7 @@ export const BlogPostTemplate = ({
             <Img fluid={image} alt={title} className=""/>
           </div> : ""}
       </div>
-      <PostContent content={content} className="has-text-justified is-text-content"/>
+      <PostContent content={content} className="is-text-content"/>
     </div>
   );
 };

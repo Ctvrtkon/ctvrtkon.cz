@@ -53,7 +53,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 700)
+          excerpt(pruneLength: 500)
           id
           fields {
             slug
@@ -70,7 +70,7 @@ export const pageQuery = graphql`
             description
             templateKey
             date(formatString: "DD.MM.YYYY")
-            time(formatString: "DD.MM.YYYY HH:mm"),
+            time(formatString: "DD.MM.YYYY"),
             place,
             fbEventLink
           }
