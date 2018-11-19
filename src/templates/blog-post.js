@@ -39,9 +39,10 @@ export const BlogPostTemplate = ({
               <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a></li> : ""}
           </ul> : ""}
         </div>
-        <div className="column is-three-fifths is-full-tablet is-full-mobile">
-          <Img fluid={image.childImageSharp.fluid} alt={title} className=""/>
-        </div>
+        {image?
+          <div className="column is-three-fifths is-full-tablet is-full-mobile">
+            <Img fluid={image} alt={title} className=""/>
+          </div> : ""}
       </div>
       <PostContent content={content} className="has-text-justified is-text-content"/>
     </div>
@@ -68,7 +69,7 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         description={post.frontmatter.description}
-        image={post.frontmatter.image}
+        image={post.frontmatter.image.childImageSharp.fluid}
         time={post.frontmatter.time}
         place={post.frontmatter.place}
         fbEventLink={post.frontmatter.fbEventLink}
