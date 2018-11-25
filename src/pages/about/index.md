@@ -47,6 +47,11 @@ people:
     image: /img/mh.jpg
     link: 'https://twitter.com/martinhrabanek'
     name: Martin Hrabánek
+  - department: RECORDING
+    description: '#PHP #industrial #management #software'
+    image: /img/jan-burda-foto.png
+    link: 'https://www.linkedin.com/in/jan-burda-b461817'
+    name: Jan Burda
 ---
 **Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**
 
