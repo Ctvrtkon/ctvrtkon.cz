@@ -35,12 +35,12 @@ Ignite talky - [Info a pokyny pro vystupující](https://drive.google.com/open?i
 Aktuální seznam přihlášených na talky 
 
 1. Václav Novotný: **Čtvrtkon – Jak běžel čas**
-2. Tomáš Kocifaj (Brilo Team):** Od KTStudia přes Čtvrtkon ke Brilu**
+2. Tomáš Kocifaj (Brilo Team): **Od KTStudia přes Čtvrtkon ke Brilu**
 3. Martin Hrabánek a Martin Sojka: **Edgedesign**
 4. Martin Laudát (Flowly Creative): **Milý deníčku, takhle nějak to s Flowly bylo**
 5. Stanislav Vobr (QOP): **Milý deníčku takhle nějak to s QOP bude..**
 6. Michal Oktábec: **Jihočeské IT akce**
 7. Tom J. Poszer (Inizio): **Failstories**
-8. Verča Smolová:** Rok 2016 – rok plný změn**
+8. Verča Smolová: **Rok 2016 – rok plný změn**
 9. Honza Lilák: **RemotePHP.cz**
 10. Miroslav Stašek (Argo22): **Kam plují Argonauti**
