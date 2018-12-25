@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #76'
 image: /img/ctvrtkon-banner-76.jpg
-fbEventLink: 'https://www.facebook.com/events/492129731300130/'
+fbEventLink: 'https://www.facebook.com/events/503121850178065/'
 place: 'Dallmayr café & bar – Karla IV. 412/5, České Budějovice'
 time: '2019-01-17T18:00:00'
 date: 2018-12-25T11:40:00.000Z
