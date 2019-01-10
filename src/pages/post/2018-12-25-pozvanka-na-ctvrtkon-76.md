@@ -45,7 +45,7 @@ I domácnost se může stát koníčkem vývojáře. Jde to i low-cost a bez zby
 * Wimby - Fluent Interface
 * Tomáš Horváth - nopCommerce
 * Ikar Pohorský - Makefile
-* Václav Novotný
+* Václav Novotný - Open API
 
 - - -
 
