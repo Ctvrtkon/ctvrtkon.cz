@@ -5,7 +5,13 @@ import { AboutPageTemplate } from "../../templates/about-page";
 const AboutPagePreview = ({ entry, widgetFor }) => {
   return <AboutPageTemplate
     title={entry.getIn(["data", "title"])}
-    team={entry.getIn(["data", "people"]).toArray().map((i) => i.toJS())} // hacky
+    team={entry.getIn(["data", "people"]).toArray().map((i) => {
+      // emulate childImageSharp from graphQL
+      let p = i.toJS();
+      const uri = p.image;
+      p.image = {childImageSharp: {fixed: uri}};
+      return p;
+    })}
     content={widgetFor("body")}
   />
 };
