@@ -7,9 +7,10 @@ place: 'Dallmayr café & bar – Karla IV. 412/5, České Budějovice'
 time: '2019-01-17T18:00:00'
 date: 2018-12-25T11:40:00.000Z
 description: >-
-  Lednový DEV Čtvrtkon bude pokračovat v nastoleném novém formátu! Opět budou dvě klasické
-  přednášky - Martin Janeček "How to build an evil-free social network: Behind the wheels" a 
-  Lukáš Csizmazia představí "Nachytřenou domácnost" a dále samozřejmně i 4 ignite talky z komunity.
+  Lednový DEV Čtvrtkon bude pokračovat v nastoleném novém formátu! Opět budou
+  dvě klasické přednášky - Martin Janeček "How to build an evil-free social
+  network: Behind the wheels" a  Lukáš Csizmazia představí "Nachytřenou
+  domácnost" a dále samozřejmně i 4 ignite talky z komunity.
 ---
 Lednový DEV Čtvrtkon bude pokračovat v nastoleném novém formátu! Opět budou dvě klasické trochu kratší přednášky a stejně jako minule i 4 ignite talky z komunity, každý na 5 min.
 
@@ -25,7 +26,7 @@ Martin je dvorní vývojář v budějovické agentuře Argo22, kde mu nikdo neř
 
 ### How to build an evil-free social network: Behind the wheels
 
-Nepoužívejte věci bez rozmyslu. Ne nadarmo se říká, že cesta do pekla je dlážděna dobrými úmysly.	
+Na WebExpo 2018 mluvil Martinův kolega z Arga (Ondra) o mobilní appce moyobo - sociální síti pro sportovce, kterou používá český olympijský tým. Zatímco přednáška v Praze byla hlavně o designu moyobo, na Čtvrtkonu se od Martina dozvíte, jak vypadal a probíhal vývoj aplikace na pozadí. Podělí se s vámi o to dobré i špatné a ukáže vám svůj stack, se kterým zvládne back-end aplikace postavit i frontenďák.
 
 ### Lukáš Csizmazia
 
