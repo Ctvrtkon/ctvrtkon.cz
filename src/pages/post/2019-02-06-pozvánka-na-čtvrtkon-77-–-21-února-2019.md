@@ -10,6 +10,8 @@ description: "STRV v Budějcích! Aleš Nešetřil a Pepa Sauer nám přijedou �
 ---
 Je to opět tady! Další UX Čtvrtkon a tentokrát se nebojím říct, že je to Čtvrtkon s velkým Č. Protože nepřijede nikdo menší než kluci ze STRV. Kdo neznáte STRV, koukněte na jejich práce, opravdu to stojí za to. A kdo že za námi vlastně přijede?
 
+[Registrace zde](https://docs.google.com/forms/d/e/1FAIpQLSeWAodZE3WzLDYQp8lVf3nWbnU6onOcYIi1NDAii9h93KEkKw/viewform?usp=sf_link).
+
 Aleš Nešetřil
 
 Aleš je pracuje v STRV čtyři roky a prošel celým design týmem STRV a dnes je na pozici lead designera. Určitě většina z vás zná Aleše ze sociálních sítí, které má Aleš opravdu vymazlené a dokonce napsal ebook The Perfect Grid, kde vysvětluje jak využít Instagram pro budování osobního brandu. Pokud Aleše ještě nesledujete, měli byste to okamžitě napravit.
