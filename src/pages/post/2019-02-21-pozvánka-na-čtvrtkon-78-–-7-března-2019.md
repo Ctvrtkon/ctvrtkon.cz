@@ -15,15 +15,17 @@ description: >-
 ---
 ## Hlavní přednáška:
 
-**Jakub Kašparů - Řízení  PPC kampaní a týmu v Asaně**
+**Jakub Kašparů - Řízení  PPC kampaní a týmu v Asaně
+**
 
 Dozvíme se, jak v Lynt řídí zakázky, jak v rámci projektů řeší a komunikují jednotlivé úkoly, jak pracují s checklisty a sprinty a jak při tom používají Asanu.
 
-_Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v českobudějovické agentuře Lynt services, která se zaměřuje na výkonnostní kampaně a vyvíjí si i vlastní skripty pro marketingovou automatizaci. Přednášel nejen na Čtvrkonu, ale taky na Marketing festivalu nebo na největší německé PPC konferenci PPC Masters Berlin. _
+_Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v českobudějovické agentuře _[_Lynt services_](https://lynt.cz/)_, která se zaměřuje na výkonnostní kampaně a vyvíjí si i vlastní skripty pro marketingovou automatizaci. Přednášel nejen na Čtvrkonu, ale taky na Marketing festivalu nebo na největší německé PPC konferenci PPC Masters Berlin. _
 
 ## Micro Talks:
 
-\> Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách. Jejich témata vám postupně odtajníme ;-)
+\> Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách
+. Jejich témata vám postupně odtajníme ;-)
 
 **Tomáš Míka**
 
@@ -35,8 +37,8 @@ _Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v če
 
 **Jakub Hladký**
 
-****
+- - -
 
-****
+- - -
 
-****
+- - -
