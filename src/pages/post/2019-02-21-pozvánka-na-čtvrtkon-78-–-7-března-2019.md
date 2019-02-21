@@ -29,10 +29,10 @@ _Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v če
 
 **Tomáš Míka**
 
-**Dalibor Jaroš**
+**Zdeněk Solnický**
 
 **Karel Hladiš**
 
-**Zdeněk Solnický**
+**Dalibor Jaroš**
 
 **Jakub Hladký**
