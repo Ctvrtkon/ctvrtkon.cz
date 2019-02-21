@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #78 – 7. března 2019'
 image: /img/ctvrtkon-78-fb-cover.png
-fbEventLink: 'https://www.facebook.com/groups/ctvrtkon/'
+fbEventLink: 'https://www.facebook.com/events/1914381605355649/'
 place: 'Lynt services, Chelčického 95/13a, České Budějovice'
 time: '2019-03-07T18:00:00'
 date: 2019-03-07T19:00:00.000Z
