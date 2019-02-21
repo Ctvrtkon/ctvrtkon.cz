@@ -13,6 +13,8 @@ description: >-
   jedné z místních marketingových agentur Lynt services a zároveň jim trochu
   nahlédneme pod pokličku.
 ---
+Akce je zdarma, ale prosíme o přihlášení přes formulář, moc nám pomůžete v organizaci: <https://goo.gl/forms/eDTnBWey1GszCL9A2>
+
 ## Hlavní přednáška:
 
 **Jakub Kašparů - Řízení  PPC kampaní a týmu v Asaně
@@ -24,8 +26,7 @@ _Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v če
 
 ## Micro Talks:
 
-\> Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách
-. Jejich témata vám postupně odtajníme ;-)
+\> Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách. Jejich témata vám postupně odtajníme ;-)
 
 **Tomáš Míka**
 
@@ -36,9 +37,3 @@ _Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v če
 **Zdeněk Solnický**
 
 **Jakub Hladký**
-
-- - -
-
-- - -
-
-- - -
