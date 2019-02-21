@@ -17,8 +17,7 @@ Akce je zdarma, ale prosíme o přihlášení přes formulář, moc nám pomůž
 
 ## Hlavní přednáška:
 
-**Jakub Kašparů - Řízení  PPC kampaní a týmu v Asaně
-**
+**Jakub Kašparů - Řízení  PPC kampaní a týmu v Asaně**
 
 Dozvíme se, jak v Lynt řídí zakázky, jak v rámci projektů řeší a komunikují jednotlivé úkoly, jak pracují s checklisty a sprinty a jak při tom používají Asanu.
 
