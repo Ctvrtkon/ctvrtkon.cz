@@ -21,7 +21,7 @@ Akce je zdarma, ale prosíme o přihlášení přes formulář, moc nám pomůž
 
 Dozvíme se, jak v Lynt řídí zakázky, jak v rámci projektů řeší a komunikují jednotlivé úkoly, jak pracují s checklisty a sprinty a jak při tom používají Asanu.
 
-_Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v českobudějovické agentuře _[_Lynt services_](https://lynt.cz/)_, která se zaměřuje na výkonnostní kampaně a vyvíjí si i vlastní skripty pro marketingovou automatizaci. Přednášel nejen na Čtvrkonu, ale taky na Marketing festivalu nebo na největší německé PPC konferenci PPC Masters Berlin. _
+_Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v českobudějovické agentuře _[_Lynt services_](https://lynt.cz/)_, která se zaměřuje na výkonnostní kampaně a vyvíjí si i vlastní skripty pro marketingovou automatizaci. Přednášel nejen na Čtvrkonu, ale taky na Marketing festivalu nebo na největší německé PPC konferenci PPC Masters Berlin._
 
 ## Micro Talks:
 
