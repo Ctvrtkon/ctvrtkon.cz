@@ -25,7 +25,7 @@ _Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v če
 
 ## Micro Talks:
 
-\> Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách. Jejich témata vám postupně odtajníme ;-)
+\- Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách. Jejich témata vám postupně odtajníme ;-)
 
 **Tomáš Míka**
 
