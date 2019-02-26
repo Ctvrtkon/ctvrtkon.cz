@@ -25,14 +25,14 @@ _Jakub se věnuje PPC už 11 let. Je spoluzakladatel a vedoucí marketingu v če
 
 ## Micro Talks:
 
-\- Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách. Jejich témata vám postupně odtajníme ;-)
+\- Místní odborníci se podělí o své tipy a zkušenosti v krátkých 5 -10 min přednáškách. 
 
-**Tomáš Míka**
+**Tomáš Míka - Jak využívám Google Spreadsheets pro PPC**
 
-**Zdeněk Solnický**
+**Zdeněk Solnický - Řízení reklamky s myšlenkovými mapami**
 
-**Karel Hladiš**
+**Dalibor Jaroš - Spolupráce PPC a SEO nebyla nikdy jednodušší**
 
-**Dalibor Jaroš**
+**Karel Hladiš - Zapnutí SEO díky filtrům**
 
-**Jakub Hladký**
+**Jakub Hladký - Jak jsme klientovi ne/prodělali 100.000Kč na FAVI za jediný měsíc**
