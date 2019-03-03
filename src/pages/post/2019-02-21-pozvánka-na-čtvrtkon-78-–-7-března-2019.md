@@ -15,6 +15,8 @@ description: >-
 ---
 Akce je zdarma, ale prosíme o přihlášení přes formulář, moc nám pomůžete v organizaci: <https://goo.gl/forms/eDTnBWey1GszCL9A2>
 
+Podívejte se, [kudy do Lynt services](https://www.michalspacek.cz/kudy-tudy/lynt).
+
 ## Hlavní přednáška:
 
 **Jakub Kašparů - Řízení  PPC kampaní a týmu v Asaně**
