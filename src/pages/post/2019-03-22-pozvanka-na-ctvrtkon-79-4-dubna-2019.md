@@ -29,7 +29,8 @@ Místo druhé přednášky bude tentokrát o něco větší blok  5-10 min. micr
 - **Tomáš Bublík** - Google Cloud Firestore
 - **Michal Oktábec** - Jihočeské IT akce
 - **Ikar Pohorský** - Terraform
-- **Lukas Cissa Csizmazia** - bude upřesněno	
+- **Ondra Záruba** - bude upřesněno	
 - **Martin Strouhal** - Smart Emailing
 - **Aleš Růžička** - Hyperapp JS
 - **Marian Benčat** - bude upřesněno
+- **Petr Ploner** - HTTP/2
