@@ -30,7 +30,7 @@ Místo druhé přednášky bude tentokrát o něco větší blok  5-10 min. micr
 - **Michal Oktábec** - Jihočeské IT akce
 - **Ikar Pohorský** - Terraform
 - **Ondra Záruba** - bude upřesněno	
-- **Martin Strouhal** - Smart Emailing
+- **Martin Strouhal** - Nenadužívejte výjimky
 - **Aleš Růžička** - Hyperapp JS
-- **Marian Benčat** - bude upřesněno
+- **Marian Benčat** - Structural vs. Nominative typing
 - **Petr Ploner** - HTTP/2
