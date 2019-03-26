@@ -3,14 +3,13 @@ templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #79 – 4. dubna 2019'
 image: /img/ctvrtkon-79-fb-cover.png
 fbEventLink: 'https://www.facebook.com/events/1037013203158146/'
-place: 'Dallmayr café & bar'
+place: Dallmayr café & bar
 time: '2019-04-04T18:00:00'
 date: 2019-03-22T14:00:00.000Z
 description: >-
-  Velikoční DEV Čtvrtkon bude mít jednu hlavní přednášku od 
-  Míry Bartyzala na téma "Po stopách vzniku GoPay čtečky dokladů"
-  a místo druhé přednášky tentokrát budou "jen" micro talky, 
-  které ale dostanou o to větší prostor :-)
+  Velikoční DEV Čtvrtkon bude mít jednu hlavní přednášku od  Míry Bartyzala na
+  téma "Po stopách vzniku GoPay čtečky dokladů" a místo druhé přednášky
+  tentokrát budou "jen" micro talky,  které ale dostanou o to větší prostor :-)
 ---
 Akce je zdarma, ale prosíme o přihlášení na FB nebo nějakou jinou formou, třeba PM :-)
 
@@ -26,11 +25,10 @@ _Míra je poměrně čerstvý absolvent JČU PřF Aplikované informatiky a už 
 
 Místo druhé přednášky bude tentokrát o něco větší blok  5-10 min. micro talků:
 
-- **Tomáš Bublík** - Google Cloud Firestore
-- **Michal Oktábec** - Jihočeské IT akce
-- **Ikar Pohorský** - Terraform
-- **Ondra Záruba** - bude upřesněno	
-- **Martin Strouhal** - Nenadužívejte výjimky
-- **Aleš Růžička** - Hyperapp JS
-- **Marian Benčat** - Structural vs. Nominative typing
-- **Petr Ploner** - HTTP/2
+* **Tomáš Bublík** - Google Cloud Firestore
+* **Michal Oktábec** - Jihočeské IT akce
+* **Ikar Pohorský** - Terraform
+* **Ondra Záruba** - bude upřesněno	
+* **Martin Strouhal** - Nenadužívejte výjimky
+* **Aleš Růžička** - Hyperapp JS
+* **Marian Benčat** - Structural vs. Nominative typing
