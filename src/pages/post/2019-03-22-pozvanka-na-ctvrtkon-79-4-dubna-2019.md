@@ -28,7 +28,7 @@ Místo druhé přednášky bude tentokrát o něco větší blok  5-10 min. micr
 * **Tomáš Bublík** - Google Cloud Firestore
 * **Michal Oktábec** - Jihočeské IT akce
 * **Ikar Pohorský** - Terraform
-* **Ondra Záruba** - bude upřesněno	
+* **Ondra Záruba** - Docker - proč ho všichni chceme!
 * **Martin Strouhal** - Nenadužívejte výjimky
 * **Aleš Růžička** - Hyperapp JS
 * **Marian Benčat** - Structural vs. Nominative typing
