@@ -7,10 +7,13 @@ place: Dallmayr café & bar
 time: '2019-06-13T18:00:00'
 date: 2019-06-03T08:00:00.000Z
 description: >-
-  Trochu vyjímečně na poslední chvíli a "navíc" jsme se rohodli udělat DEV Čtvrtkon ještě před prázdninami. 
+  Trochu vyjímečně na poslední chvíli a "navíc" jsme se rozhodli udělat DEV Čtvrtkon ještě před prázdninami. 
   Přednášek se úžasně rychle v napjatém termínu ujali Lukáš z Inizia a Dalibor z Collabimu a nebudou chybět ani micro talky.
 ---
-Akce je zdarma, ale prosíme o přihlášení na FB nebo nějakou jinou formou, třeba PM :-)
+Trochu vyjímečně na poslední chvíli a "navíc" jsme se rozhodli udělat DEV Čtvrtkon ještě před prázdninami. 
+Přednášek se úžasně rychle v napjatém termínu ujali Lukáš z Inizia a Dalibor z Collabimu a nebudou chybět ani micro talky.
+
+Akce je zdarma, ale prosíme o přihlášení na FB nebo nějakou jinou formou, třeba PM (Martinovi anebo Michalovi) :-)
 
 ## Přednášky:
 
