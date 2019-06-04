@@ -25,3 +25,4 @@ Akce je zdarma, ale prosíme o přihlášení na FB nebo nějakou jinou formou, 
 * **Michal Haták** - Čtvrtkon API + soutěž ;-)
 * **Jan Svěřák** - Kurzorové šipky a další ďáblova stvoření
 * **Tomáš Bublík** - Kotlin Coroutines v praxi
+* **Tomáš Horváth** - .NET Core Razor Components
