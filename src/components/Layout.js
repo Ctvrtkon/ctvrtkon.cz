@@ -86,7 +86,7 @@ const TemplateWrapper = ({ children }) => (
       </div>
       <div className="section is-paddingless has-text-centered">
         <p>
-          <small className="is-small has-text-weight-bolder">&copy; 2013 - 2018 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
+          <small className="is-small has-text-weight-bolder">&copy; 2013 - 2019 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
             BUDĚJOVICÍCH
           </small>
           <br/><br/>
