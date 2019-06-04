@@ -16,7 +16,7 @@ Přičemž slavnostní vyhlášení proběhne právě na DEV Čtvrtkonu v srpnu.
 
 **Jak se účastnit?**
 
-1) Je třeba vytvořit projekt, který využije webový Čtvrtkon feed (odkaz viz níže)
+1) Je třeba vytvořit (ideálně online) projekt, který bude prospěšný pro Jihočeskou IT komunitu (např. na základě viz sekce "Data" níže)
 2) Tento projekt veřejně zpřístupnit k používání široké veřejnosti
 3) Přihlásit se Michalovi Hatákovi (PM, či e-mailem apod.) alespoň 48 hodin předem
 4) Přijít osobně nebo v zastoupení na vyhlášení
@@ -29,7 +29,7 @@ Budeme soutěžit o 1 [JetBrains](https://www.jetbrains.com/) licenci, aneb kone
 
 **Porota**
 
-Nejlepší a nejpřínosnější projekt vybere porota složená z organizátorů DEV [Čtvrtkonu](https://www.ctvrtkon.cz/) a [Jihočeských IT akcí](https://www.jihoceskeitakce.cz/):
+Nejlepší a nejpřínosnější projekt vybere porota složená z organizátorů DEV [Čtvrtkonu](https://www.ctvrtkon.cz/about) a [Jihočeských IT akcí](https://www.jihoceskeitakce.cz/kontakt/):
 
 - [Michal Haták](http://www.twista.cz/)
 - [Martin Hlaváč](https://www.hlavacm.net/)
@@ -38,6 +38,7 @@ Nejlepší a nejpřínosnější projekt vybere porota složená z organizátor�
 **Data**
 
 - [Čtvrtkon JSON feed](https://www.ctvrtkon.cz/feed-1.json)
+- [Jihočeské IT akce WP JSON API](https://www.jihoceskeitakce.cz/wp-json/)
 
 ---
 *PS: změny vyhrazeny*
