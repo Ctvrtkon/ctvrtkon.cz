@@ -25,7 +25,7 @@ Pozn.: zdrojový kód není třeba veřejně vystavovat, ale může to hrát rol
 
 **Ceny**
 
-Budeme soutěžit o 1 [JetBrains](https://www.jetbrains.com/) licenci, aneb konečně to máte ve svých rukách :-)
+Budeme soutěžit o minimálně 1 [JetBrains](https://www.jetbrains.com/) licenci, aneb konečně to máte ve svých rukách :-)
 
 **Porota**
 
@@ -39,6 +39,7 @@ Nejlepší a nejpřínosnější projekt vybere porota složená z organizátor�
 
 - [Čtvrtkon JSON feed](https://www.ctvrtkon.cz/feed-1.json)
 - [Jihočeské IT akce WP JSON API](https://www.jihoceskeitakce.cz/wp-json/)
+- *Místo pro další/vaše datové zdroje*
 
 ---
 *PS: změny vyhrazeny*
