@@ -39,7 +39,14 @@ Nejlepší a nejpřínosnější projekt vybere porota složená z organizátor�
 
 - [Čtvrtkon JSON feed](https://www.ctvrtkon.cz/feed-1.json)
 - [Grafika Čtvrtkonu](https://github.com/Ctvrtkon/ctvrtkon.cz/tree/master/src/img)
-- [Jihočeské IT akce WP JSON API](https://www.jihoceskeitakce.cz/wp-json/)
+- Jihočeské IT akce
+  - [Přehled příspěvků](https://www.jihoceskeitakce.cz/wp-json/wp/v2/posts)
+  - [Detail příspěvku](https://www.jihoceskeitakce.cz/wp-json/wp/v2/posts/1178)
+  - [Přehled kategorií](https://www.jihoceskeitakce.cz/wp-json/wp/v2/categories)
+  - [Detail kategorie](https://www.jihoceskeitakce.cz/wp-json/wp/v2/categories/53)
+  - [Přehled štítků](https://www.jihoceskeitakce.cz/wp-json/wp/v2/tags)
+  - [Detail štítku](https://www.jihoceskeitakce.cz/wp-json/wp/v2/tags/166)
+  - _Pro výpisy je možné použít parametry page a per_page (viz WP REST API)_
 - *Místo pro další (i vaše) datové zdroje*
 
 ---
