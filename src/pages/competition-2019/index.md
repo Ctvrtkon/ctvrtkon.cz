@@ -46,7 +46,7 @@ Nejlepší a nejpřínosnější projekt vybere porota složená z organizátor�
   - [Detail kategorie](https://www.jihoceskeitakce.cz/wp-json/wp/v2/categories/53)
   - [Přehled štítků](https://www.jihoceskeitakce.cz/wp-json/wp/v2/tags)
   - [Detail štítku](https://www.jihoceskeitakce.cz/wp-json/wp/v2/tags/166)
-  - _Pro výpisy je možné použít parametry page a per_page (viz WP REST API)_
+  - _Pro výpisy je možné použít parametry `page` a `per_page` (viz WP REST API)_
 - *Místo pro další (i vaše) datové zdroje*
 
 ---
