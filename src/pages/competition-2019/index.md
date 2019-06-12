@@ -16,7 +16,7 @@ Přičemž slavnostní vyhlášení proběhne právě na DEV Čtvrtkonu v srpnu.
 
 **Jak se účastnit?**
 
-1) Je třeba vytvořit (ideálně online) projekt, který bude prospěšný pro jihočeskou IT komunitu (je možné využít některá data ze sekce "Data a assety", ale není podmínkou)
+1) Je třeba vytvořit (ideálně online) projekt, který bude prospěšný pro jihočeskou IT komunitu (je možné využít data ze sekce "Data a assety", ale není podmínkou)
 2) Tento projekt veřejně zpřístupnit k používání široké veřejnosti
 3) Přihlásit projekt Michalovi Hatákovi (PM na [Slacku](https://ctvrtkon.cz/slack), či [e-mailem](mailto:hatakm@ctvrtkon.cz) apod.) alespoň 48 hodin předem srpnovým Čtvrtkonem (bude upřesněno)
 4) Přijít osobně nebo v zastoupení na vyhlášení
@@ -40,7 +40,7 @@ Nejlepší a nejpřínosnější projekt vybere porota složená z organizátor�
 - [Čtvrtkon JSON feed](https://www.ctvrtkon.cz/feed-1.json)
 - [Grafika Čtvrtkonu](https://github.com/Ctvrtkon/ctvrtkon.cz/tree/master/src/img)
 - [Jihočeské IT akce WP JSON API](https://www.jihoceskeitakce.cz/wp-json/)
-- *Místo pro další/vaše datové zdroje*
+- *Místo pro další (i vaše) datové zdroje*
 
 ---
 *PS: změny vyhrazeny*
