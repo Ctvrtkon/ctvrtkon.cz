@@ -3,11 +3,11 @@ templateKey: competition-2019
 title: Čtvrtkon Soutěž 2019
 ---
 
-Vyhlašujeme Čtvrtkoní soutěž na léto 2019.
+Vyhlašujeme Čtvrtkonní soutěž na léto 2019.
 
 **O co se jedná?**
 
-Cílem je připravit věřejně dostupný projekt, který by nějakým způsobem pomohl či zviditelnil Jihočeskou IT komunitu.
+Cílem je připravit veřejně dostupný projekt, který by nějakým způsobem pomohl či zviditelnil jihočeskou IT komunitu.
 
 **Kdy?**
 
@@ -16,16 +16,16 @@ Přičemž slavnostní vyhlášení proběhne právě na DEV Čtvrtkonu v srpnu.
 
 **Jak se účastnit?**
 
-1) Je třeba vytvořit (ideálně online) projekt, který bude prospěšný pro Jihočeskou IT komunitu (např. na základě viz sekce "Data" níže)
+1) Je třeba vytvořit (ideálně online) projekt, který bude prospěšný pro jihočeskou IT komunitu (je možné využít některá data ze sekce "Data a assety", ale není podmínkou)
 2) Tento projekt veřejně zpřístupnit k používání široké veřejnosti
-3) Přihlásit se Michalovi Hatákovi (PM na [Slacku](https://ctvrtkon.cz/slack), či [e-mailem](mailto:hatakm@ctvrtkon.cz) apod.) alespoň 48 hodin předem
+3) Přihlásit projekt Michalovi Hatákovi (PM na [Slacku](https://ctvrtkon.cz/slack), či [e-mailem](mailto:hatakm@ctvrtkon.cz) apod.) alespoň 48 hodin předem srpnovým Čtvrtkonem (bude upřesněno)
 4) Přijít osobně nebo v zastoupení na vyhlášení
 
 Pozn.: zdrojový kód není třeba veřejně vystavovat, ale může to hrát roli při hodnocení ;-)
 
 **Ceny**
 
-Budeme soutěžit o minimálně 1 [JetBrains](https://www.jetbrains.com/) licenci, aneb konečně to máte ve svých rukách :-)
+Budeme soutěžit o minimálně 1 [JetBrains](https://www.jetbrains.com/) licenci aneb konečně to máte ve svých rukách :-)
 
 **Porota**
 
