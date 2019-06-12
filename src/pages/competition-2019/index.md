@@ -18,7 +18,7 @@ Přičemž slavnostní vyhlášení proběhne právě na DEV Čtvrtkonu v srpnu.
 
 1) Je třeba vytvořit (ideálně online) projekt, který bude prospěšný pro Jihočeskou IT komunitu (např. na základě viz sekce "Data" níže)
 2) Tento projekt veřejně zpřístupnit k používání široké veřejnosti
-3) Přihlásit se Michalovi Hatákovi (PM, či e-mailem apod.) alespoň 48 hodin předem
+3) Přihlásit se Michalovi Hatákovi (PM na [Slacku](https://ctvrtkon.cz/slack), či [e-mailem](mailto:hatakm@ctvrtkon.cz) apod.) alespoň 48 hodin předem
 4) Přijít osobně nebo v zastoupení na vyhlášení
 
 Pozn.: zdrojový kód není třeba veřejně vystavovat, ale může to hrát roli při hodnocení ;-)
