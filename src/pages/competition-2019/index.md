@@ -35,9 +35,10 @@ Nejlepší a nejpřínosnější projekt vybere porota složená z organizátor�
 - [Martin Hlaváč](https://www.hlavacm.net/)
 - [Michal Oktábec](http://www.michaloktabec.cz/)
 
-**Data**
+**Data a assety**
 
 - [Čtvrtkon JSON feed](https://www.ctvrtkon.cz/feed-1.json)
+- [Grafika Čtvrtkonu](https://github.com/Ctvrtkon/ctvrtkon.cz/tree/master/src/img)
 - [Jihočeské IT akce WP JSON API](https://www.jihoceskeitakce.cz/wp-json/)
 - *Místo pro další/vaše datové zdroje*
 
