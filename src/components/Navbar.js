@@ -20,6 +20,9 @@ const Navbar = () => (
         <Link className="navbar-item" activeClassName="is-active" to="/about">
           O Projektu
         </Link>
+        <Link className="navbar-item" activeClassName="is-active" to="/competition-2019">
+          Soutěž!
+        </Link>
         <Link className="navbar-item" activeClassName="is-active" to="/contact">
           Kontakt
         </Link>

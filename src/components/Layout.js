@@ -56,6 +56,11 @@ const TemplateWrapper = ({ children }) => (
                 </Link>
               </li>
               <li>
+                <Link to="/competition-2019" className="has-text-white">
+                  Soutěž!
+                </Link>
+              </li>
+              <li>
                 <Link to="/contact" className="has-text-white">
                   Kontakt
                 </Link>
@@ -81,7 +86,7 @@ const TemplateWrapper = ({ children }) => (
       </div>
       <div className="section is-paddingless has-text-centered">
         <p>
-          <small className="is-small has-text-weight-bolder">&copy; 2013 - 2018 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
+          <small className="is-small has-text-weight-bolder">&copy; 2013 - 2019 ČTVRTKON.CZ - ČTVRTEČNÍ SETKÁNÍ WEBOVÉ KOMUNITY V ČESKÝCH
             BUDĚJOVICÍCH
           </small>
           <br/><br/>
