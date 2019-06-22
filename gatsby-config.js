@@ -100,8 +100,11 @@ module.exports = {
                             title 
                             description
                             templateKey
+                            image {
+                              publicURL
+                            }
                             time(formatString: "DD.MM.YYYY HH:mm"),
-                            place,
+                            place
                             fbEventLink
                           }
                         }
@@ -110,9 +113,11 @@ module.exports = {
                 }
               `,
                 serialize: results => results.data.allMarkdownRemark.edges.map(({node}) => {
+                    console.log(node.frontmatter);
                     return {
                         path: node.fields.slug, // MUST contain a path
                         title: node.frontmatter.title,
+                        image: node.frontmatter.image.publicURL,
                         place: node.frontmatter.place,
                         date: node.frontmatter.date,
                         time: node.frontmatter.time,
@@ -123,6 +128,7 @@ module.exports = {
                     return {
                         id: node.fields.slug,
                         url: 'https://ctvrtkon.cz' + node.fields.slug,
+                        image: 'https://ctvrtkon.cz' + node.frontmatter.image.publicURL,
                         title: node.frontmatter.title,
                         description: node.frontmatter.description,
                         place: node.frontmatter.place,
