@@ -3,6 +3,7 @@ import { Link } from "gatsby";
 import Img from "gatsby-image";
 import PropTypes from "prop-types";
 import { FaCaretRight } from "react-icons/fa";
+import {mapSection} from "../utils";
 
 export class PostPreviewFull extends Component {
   render() {
@@ -19,7 +20,7 @@ export class PostPreviewFull extends Component {
             </div>
             <div className="column text-column is-5">
               <Link className="has-text-primary" to={this.props.slug}>
-                <h3 className="title is-3">{post.title}</h3>
+                <h3 className="title is-3">{mapSection(post.section)}{post.title}</h3>
               </Link>
                 <h6 className="subtitle is-6">{post.place} | {post.time} | <a href={post.fbEventLink} rel="noopener noreferrer" target="_blank">FB</a></h6>
               <p className="content">
@@ -42,8 +43,8 @@ PostPreviewFull.propTypes = {
   post: PropTypes.shape({
     image: PropTypes.any,
     title: PropTypes.any,
+    section: PropTypes.any,
     description: PropTypes.any,
-    date: PropTypes.any,
     time: PropTypes.any,
     place: PropTypes.any,
     fbEventLink: PropTypes.any
@@ -58,7 +59,7 @@ export class PostPreviewHalf extends Component {
       <div className="card is-shady">
         <div className="card-content card-header">
           <Link className="has-text-primary" to={this.props.slug}>
-            <h5 className="title is-5">{post.title}</h5>
+            <h5 className="title is-5">{mapSection(post.section)}{post.title}</h5>
           </Link>
         </div>
         <div className="card-image">
@@ -84,7 +85,7 @@ PostPreviewHalf.propTypes = {
   post: PropTypes.shape({
     image: PropTypes.any,
     title: PropTypes.any,
+    section: PropTypes.any,
     description: PropTypes.any,
-    date: PropTypes.any
   })
 };

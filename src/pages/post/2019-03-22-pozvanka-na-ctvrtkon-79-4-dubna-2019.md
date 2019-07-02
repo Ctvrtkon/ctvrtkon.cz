@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #79 – 4. dubna 2019'
+title: 'Čtvrtkon #79'
 image: /img/ctvrtkon-79-fb-cover.png
 fbEventLink: 'https://www.facebook.com/events/1037013203158146/'
 place: Dallmayr café & bar
+section: dev
 time: '2019-04-04T18:00:00'
 date: 2019-03-22T14:00:00.000Z
 description: >-

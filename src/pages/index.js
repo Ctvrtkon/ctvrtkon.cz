@@ -70,8 +70,9 @@ export const pageQuery = graphql`
             description
             templateKey
             date(formatString: "DD.MM.YYYY")
-            time(formatString: "DD.MM.YYYY"),
-            place,
+            time(formatString: "DD.MM.YYYY")
+            place
+            section
             fbEventLink
           }
         }

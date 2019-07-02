@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #77 – 21. února 2019'
+title: 'Čtvrtkon #77'
 image: /img/ctvrtkon-76-web-cover.png
 fbEventLink: 'https://www.facebook.com/events/533945990459008/'
 place: Dallmayr café & bar
+section: ux
 time: '2019-02-21T18:00:00'
 date: 2019-02-21T19:00:00.000Z
 description: "STRV v Budějcích! Aleš Nešetřil a Pepa Sauer nám přijedou říct, jak designují mobilní aplikace pro celý svět, mají připraveno spoustu zajímavých příběhů - třeba ten, jak designovali Gay dating aplikaci \U0001F46C Připravte se na zajímavou diskuzi a tuny užitečných informací \U0001F642"

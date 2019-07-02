@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon speciál #69 – Collabim workshop – 20. června'
+title: 'Čtvrtkon #69 – Collabim workshop'
 image: /img/collabim-300x197.jpg
 date: '2018-05-05T10:53:32+00:00'
+section: special
 description: >-
      Připravili jsme pro vás speciální Čtvrtkon, na kterém ukážeme, jak nástroj Collabim může usnadnit práci SEO specialistům, PPC specialistům, marketérům nebo majitelům webů. Naučte se ...
 ---

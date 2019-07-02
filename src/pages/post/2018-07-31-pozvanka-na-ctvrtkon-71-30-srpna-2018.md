@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #71 – 30. srpna 2018'
+title: 'Čtvrtkon #71'
 image: /img/ctvrtkon-banner-71-web.jpg
 fbEventLink: 'https://www.facebook.com/events/1045864912244826/'
 place: 'Dallmayr café & bar – Karla IV. 412/5, České Budějovice'
+section: dev
 time: '2018-08-30T18:00:00+00:00'
 date: '2018-07-31T06:00:09+00:00'
 description: >-

@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #72 – 27. září 2018'
+title: 'Čtvrtkon #72'
 image: /img/Ctvrtkon-72-Web-Cover.png
 fbEventLink: 'https://www.facebook.com/events/343484643055946/'
 place: 'CoWo CB'
+section: ux
 time: '2018-09-27T18:00:00+00:00'
 date: '2018-09-12T23:09:08+00:00'
 description: >-

@@ -6,49 +6,83 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-- name: "post"
-  label: "Post"
-  folder: "src/pages/post"
-  create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-  fields:
-  - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-  - {label: "Title", name: "title", widget: "string"}
-  - {label: "Image", name: "image", widget: "image"}
-  - {label: "Event Facebook Link", name: "fbEventLink", widget: "string"}
-  - {label: "Event Place", name: "place", widget: "string"}
-  - {label: "Event Time", name: "time", widget: "datetime", format: "YYYY-MM-DD[T]HH:mm:ss"}
-  - {label: "Publish Date", name: "date", widget: "datetime"}
-  - {label: "Description", name: "description", widget: "text"}
-  - {label: "Body", name: "body", widget: "markdown"}
+  - name: "post"
+    label: "Post"
+    folder: "src/pages/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: "Template Key"
+        name: "templateKey"
+        widget: "hidden"
+        default: "blog-post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Type"
+        name: "section"
+        widget: "select"
+        options:
+          - label: "DEV"
+            value: "dev"
+          - label: "Marketing"
+            value: "mkt"
+          - label: "UX"
+            value: "ux"
+          - label: "Speciál"
+            value: "special"
+          - label: "Ostatní"
+            value: "other"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+      - label: "Event Facebook Link"
+        name: "fbEventLink"
+        widget: "string"
+      - label: "Event Place"
+        name: "place"
+        widget: "string"
+      - label: "Event Time"
+        name: "time"
+        widget: "datetime"
+        format: "YYYY-MM-DD[T]HH:mm:ss"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Description"
+        name: "description"
+        widget: "text"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
 
-- name: "pages"
-  label: "Pages"
-  files:
-  - file: "src/pages/about/index.md"
-    label: "O Projektu"
-    name: "about"
-    delete: false
-    fields:
-    - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Body", name: "body", widget: "markdown"}
-    - {label: "People",
-       name: "people",
-       widget: list,
-       fields: [
-       { label: Name, name: name, widget: string},
-       { label: Image, name: image, widget: image},
-       { label: Link, name: link, widget: string},
-       { label: Description, name: description, widget: string},
-       { label: Department, name: department, widget: select, options: ["UX", "Marketing", "Dev"]}
-       ]
-    }
-  - file: "src/pages/contact/index.md"
-    label: "Kontakt"
-    name: "contact"
-    delete: false
-    fields:
-    - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/about/index.md"
+        label: "O Projektu"
+        name: "about"
+        delete: false
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "People",
+             name: "people",
+             widget: list,
+             fields: [
+             { label: Name, name: name, widget: string},
+             { label: Image, name: image, widget: image},
+             { label: Link, name: link, widget: string},
+             { label: Description, name: description, widget: string},
+             { label: Department, name: department, widget: select, options: ["UX", "Marketing", "Dev"]}
+             ]
+          }
+      - file: "src/pages/contact/index.md"
+        label: "Kontakt"
+        name: "contact"
+        delete: false
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}

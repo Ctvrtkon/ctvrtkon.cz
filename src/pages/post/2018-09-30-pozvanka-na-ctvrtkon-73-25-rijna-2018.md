@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #73'
+title: 'Čtvrtkon #73'
 image: /img/ctvrtkon-banner.jpg
 fbEventLink: 'https://www.facebook.com/events/106636046923675/'
 place: CoWo CB
+section: mkt
 time: '2018-10-25T18:00:00+00:00'
 date: '2018-09-30T13:08:06+00:00'
 description: >-

@@ -7,6 +7,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
     content={widgetFor("body")}
     description={entry.getIn(["data", "description"])}
     title={entry.getIn(["data", "title"])}
+    section={entry.getIn(["data", "section"])}
     time={entry.getIn(["data", "time"])}
     place={entry.getIn(["data", "place"])}
     fbEventLink={entry.getIn(["data", "fbEventLink"])}

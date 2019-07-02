@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Vánoční Čtvrtkon #75 speciál - kvíz'
+title: 'Vánoční Čtvrtkon #75 - kvíz'
 image: /img/vanoce-ctvrtkon-75.png
 fbEventLink: 'https://www.facebook.com/events/1900283493613673/'
 place: 'Dallmayr café & bar – Karla IV. 412/5, Č.B.'
+section: special
 time: '2018-12-06T18:00:00'
 date: 2018-11-15T09:36:00.000Z
 description: >-

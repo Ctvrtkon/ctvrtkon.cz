@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Pozvánka na Čtvrtkon #81 – 13. června 2019'
+title: 'Čtvrtkon #81'
 image: /img/ctvrtkon-81-web-cover.jpg
 fbEventLink: 'https://www.facebook.com/events/645562165960551/'
 place: Dallmayr café & bar
+section: dev
 time: '2019-06-13T18:00:00'
 date: 2019-06-03T08:00:00.000Z
 description: >-
