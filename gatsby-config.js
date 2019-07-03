@@ -105,6 +105,7 @@ module.exports = {
                             }
                             time(formatString: "DD.MM.YYYY HH:mm"),
                             place
+                            section
                             fbEventLink
                           }
                         }
@@ -120,6 +121,7 @@ module.exports = {
                         image: node.frontmatter.image.publicURL,
                         place: node.frontmatter.place,
                         date: node.frontmatter.date,
+                        section: node.frontmatter.section,
                         time: node.frontmatter.time,
                         id: node.id
                     }
@@ -132,6 +134,7 @@ module.exports = {
                         title: node.frontmatter.title,
                         description: node.frontmatter.description,
                         place: node.frontmatter.place,
+                        section: node.frontmatter.section,
                         fbEventLink: node.frontmatter.fbEventLink,
                         time: node.frontmatter.time,
                     }
