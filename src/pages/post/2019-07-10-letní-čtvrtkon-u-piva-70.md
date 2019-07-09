@@ -12,6 +12,8 @@ description: >
   MKT i UX vítáni, pojďte si po práci posedět u piva a dobrého jídla a popovídat
   s kolegy z oboru.
 ---
+Udělejte si poznámku do kalendáře - tradiční letní pivní Čtvrtkon je tu! DEV, MKT i UX vítáni, pojďte si po práci posedět u piva a dobrého jídla a popovídat s kolegy z oboru.
+
 Vloni se nám akce spontánně přesunula do Klubu malých pivovarů. Proto tentokrát začínáme rovnou tam: 
 
 ✔ 10 piv na čepu
