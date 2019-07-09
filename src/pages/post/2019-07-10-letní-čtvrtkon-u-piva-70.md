@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Letní Čtvrtkon u piva #70'
+title: 'Letní Čtvrtkon u piva #82'
 section: special
 image: /img/66283386_10214835616423246_6851220638170873856_n.jpg
 fbEventLink: 'https://www.facebook.com/events/374121839906304/'
