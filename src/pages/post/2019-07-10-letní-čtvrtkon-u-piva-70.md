@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Letní Čtvrtkon u piva #82'
 section: special
-image: /img/66283386_10214835616423246_6851220638170873856_n.jpg
+image: /img/ctvrtkon-82.jpg
 fbEventLink: 'https://www.facebook.com/events/374121839906304/'
 place: 'KMP (Klub malých pivovarů), Husova tř. 119/103, České Budějovice'
 time: '2019-07-18T18:00:00'
