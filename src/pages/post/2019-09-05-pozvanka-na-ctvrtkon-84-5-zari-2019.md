@@ -4,7 +4,7 @@ title: 'Čtvrtkon #84'
 image: /img/ctvrtkon-84.jpg
 fbEventLink: 'https://www.facebook.com/events/403408503490631/'
 place: Dallmayr café & bar
-section: UX
+section: ux
 time: '2019-09-05T18:00:00'
 date: 2019-08-23T08:00:00.000Z
 description: >-
