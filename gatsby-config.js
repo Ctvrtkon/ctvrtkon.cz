@@ -114,7 +114,6 @@ module.exports = {
                 }
               `,
                 serialize: results => results.data.allMarkdownRemark.edges.map(({node}) => {
-                    console.log(node.frontmatter);
                     return {
                         path: node.fields.slug, // MUST contain a path
                         title: node.frontmatter.title,
