@@ -142,7 +142,12 @@ module.exports = {
                 nodesPerFeedFile: 100,
             }
         },
-        "gatsby-plugin-offline",
+        {
+            resolve: `gatsby-plugin-offline`,
+            options: {
+                precachePages: [`/post/*`, `about`, `contact`],
+            },
+        },
         {
             resolve: "gatsby-plugin-netlify-cms",
             options: {
