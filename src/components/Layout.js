@@ -56,11 +56,6 @@ const TemplateWrapper = ({ children }) => (
                 </Link>
               </li>
               <li>
-                <Link to="/competition-2019" className="has-text-white">
-                  Soutěž!
-                </Link>
-              </li>
-              <li>
                 <Link to="/contact" className="has-text-white">
                   Kontakt
                 </Link>

@@ -114,7 +114,6 @@ module.exports = {
                 }
               `,
                 serialize: results => results.data.allMarkdownRemark.edges.map(({node}) => {
-                    console.log(node.frontmatter);
                     return {
                         path: node.fields.slug, // MUST contain a path
                         title: node.frontmatter.title,
@@ -142,7 +141,7 @@ module.exports = {
                 nodesPerFeedFile: 100,
             }
         },
-        "gatsby-plugin-offline",
+        "gatsby-plugin-remove-serviceworker",
         {
             resolve: "gatsby-plugin-netlify-cms",
             options: {
