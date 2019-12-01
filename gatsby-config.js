@@ -141,12 +141,7 @@ module.exports = {
                 nodesPerFeedFile: 100,
             }
         },
-        {
-            resolve: `gatsby-plugin-offline`,
-            options: {
-                precachePages: [`/post/*`, `about`, `contact`],
-            },
-        },
+        "gatsby-plugin-remove-serviceworker",
         {
             resolve: "gatsby-plugin-netlify-cms",
             options: {
