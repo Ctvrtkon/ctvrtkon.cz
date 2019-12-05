@@ -60,6 +60,9 @@ const TemplateWrapper = ({ children }) => (
                   Kontakt
                 </Link>
               </li>
+              <li>
+                <a href="https://forms.gle/JxTv6pGKLjyY99Zu9" target="_blank" className="has-text-white" rel="noopener noreferrer">Zpětná vazba</a>
+              </li>
             </ul>
           </div>
           <div className="column is-2">
@@ -67,14 +70,21 @@ const TemplateWrapper = ({ children }) => (
           </div>
           <div className="column is-3 has-text-right">
             <ul className="links">
-              <li><a href="https://www.facebook.com/groups/ctvrtkon/" target="_blank" className="has-text-white"
-                     rel="noopener noreferrer">Facebook&nbsp;&nbsp;<FaFacebook /></a></li>
-              <li><a href="https://twitter.com/ctvrtkon" target="_blank" className="has-text-white" rel="noopener noreferrer">Twitter&nbsp;&nbsp;<FaTwitter/></a>
+              <li>
+                <a href="https://www.facebook.com/ctvrtkon/" target="_blank" className="has-text-white" rel="noopener noreferrer">Facebook stránka&nbsp;&nbsp;<FaFacebook /></a>
               </li>
-              <li><a href="https://ctvrtkon-slack.herokuapp.com/" target="_blank" className="has-text-white"
-                     rel="noopener noreferrer">Slack&nbsp;&nbsp;<FaSlack/></a></li>
-              <li><a href="https://www.youtube.com/channel/UCp56QhLAr4zefLhkHUFt0UQ/" target="_blank" className="has-text-white"
-                     rel="noopener noreferrer">YouTube&nbsp;&nbsp;<FaYoutube/></a></li>
+              <li>
+                <a href="https://www.facebook.com/groups/ctvrtkon/" target="_blank" className="has-text-white" rel="noopener noreferrer">Facebook skupina&nbsp;&nbsp;<FaFacebook /></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/ctvrtkon" target="_blank" className="has-text-white" rel="noopener noreferrer">Twitter&nbsp;&nbsp;<FaTwitter/></a>
+              </li>
+              <li>
+                <a href="https://ctvrtkon-slack.herokuapp.com/" target="_blank" className="has-text-white" rel="noopener noreferrer">Slack&nbsp;&nbsp;<FaSlack/></a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCp56QhLAr4zefLhkHUFt0UQ/" target="_blank" className="has-text-white" rel="noopener noreferrer">YouTube&nbsp;&nbsp;<FaYoutube/></a>
+              </li>
             </ul>
           </div>
         </section>
