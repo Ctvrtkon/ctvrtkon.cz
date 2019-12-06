@@ -8,7 +8,7 @@ people:
     link: 'https://twitter.com/Twistacz'
     name: Michal Haták
   - department: Dev
-    description: '#PHP #WordPress'
+    description: '#PHP #Python #Laravel'
     image: /img/martin-hlavac-foto.jpg
     link: 'https://twitter.com/hlavacm'
     name: Martin Hlaváč
