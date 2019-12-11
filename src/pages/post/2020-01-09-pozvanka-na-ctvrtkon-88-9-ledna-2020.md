@@ -3,6 +3,7 @@ templateKey: blog-post
 title: 'Čtvrtkon #88'
 image: /img/ctvrtkon-88.png
 fbEventLink: 'https://www.facebook.com/events/596849777786601/'
+ticketUrl: 'https://www.eventbrite.com/e/dev-ctvrtkon-88-tickets-85758384637'
 place: Poetic Cocktail Bar Žlutá Ponorka
 section: dev
 time: '2019-01-09T18:00:00'

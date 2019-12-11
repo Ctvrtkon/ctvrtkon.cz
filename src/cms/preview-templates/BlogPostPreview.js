@@ -11,6 +11,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => (
     place={entry.getIn(["data", "place"])}
     section={entry.getIn(["data", "section"])}
     fbEventLink={entry.getIn(["data", "fbEventLink"])}
+    ticketUrl={entry.getIn(["data", "ticketUrl"])}
   />
 );
 
