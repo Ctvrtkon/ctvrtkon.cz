@@ -74,6 +74,7 @@ export const pageQuery = graphql`
             place
             section
             fbEventLink
+            ticketUrl
           }
         }
       }

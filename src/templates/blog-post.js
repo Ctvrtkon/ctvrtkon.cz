@@ -16,7 +16,8 @@ export const BlogPostTemplate = ({
                                      time,
                                      place,
                                      section,
-                                     fbEventLink
+                                     fbEventLink,
+                                     ticketUrl
                                  }) => {
     const PostContent = contentComponent || Content;
     const displayInfoBox = [time, place, fbEventLink].some(v => !!v);
@@ -40,6 +41,9 @@ export const BlogPostTemplate = ({
                             {!!fbEventLink ?
                                 <li><strong>Událost: </strong><a href={fbEventLink} rel="noopener noreferrer" target="_blank">odkaz</a>
                                 </li> : ""}
+                            {!!ticketUrl ?
+                            <li><strong>Registrace: </strong><a href={ticketUrl} rel="noopener noreferrer" target="_blank">odkaz</a>
+                            </li> : ""}
                         </ul> : ""}
                 </div>
                 {image ?
@@ -61,7 +65,8 @@ BlogPostTemplate.propTypes = {
     section: PropTypes.any,
     time: PropTypes.string,
     place: PropTypes.string,
-    fbEventLink: PropTypes.string
+    fbEventLink: PropTypes.string,
+    ticketUrl: PropTypes.string
 };
 
 const BlogPost = ({data}) => {
@@ -78,6 +83,7 @@ const BlogPost = ({data}) => {
                 place={post.frontmatter.place}
                 section={post.frontmatter.section}
                 fbEventLink={post.frontmatter.fbEventLink}
+                ticketUrl={post.frontmatter.ticketUrl}
             />
         </Layout>
     );
@@ -109,6 +115,7 @@ export const pageQuery = graphql`
         time(formatString: "DD.MM.YYYY HH:mm")
         section
         fbEventLink
+        ticketUrl
         place
       }
     }
