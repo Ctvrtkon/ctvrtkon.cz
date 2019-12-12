@@ -31,7 +31,7 @@ Marian se věnuje konzultacím, vývoji a školení v oblasti backendu (.NET, No
 
 Aktuální vývoj posledních let se velmi často nechává strhnout do řešení v podobě distribuovaných systémů, které jsou využity často jen na základě přání zákazníka - protože je to cool. Velmi často při řešení distribuovaných systému šáhneme i po dokumentových databázích.
 
-Obě tyto věci - ať už společně nebo dohromady, přinášejí potenciálně obrovské problémy, na které nás nikdo nepřipraví a příliš se o nich ani nemluví. Vývojáři si do distribuovaného prostředí a dokumentových databází přinášejí z prostředí monolitické architektury a relačních databází velmi falešné jistoty a naivní představy, že připravené knihovny a tooling mají vše vyřešeno. Získat často i základní informaci o tom, jak jimi použitý systém  funguje / nefunguje znamená bohužel až advanced znalost, které se né všichni dotknout a pak při reálném nasazení zcela pohoří. 
+Obě tyto věci - ať už samostatně nebo dohromady, přinášejí potenciálně obrovské problémy, na které nás nikdo nepřipraví a příliš se o nich ani nemluví. Vývojáři si do distribuovaného prostředí a dokumentových databází přinášejí z prostředí monolitické architektury a relačních databází velmi falešné jistoty a naivní představy, že připravené knihovny a tooling mají vše vyřešeno. Získat často i základní informaci o tom, jak jimi použitý systém  funguje / nefunguje znamená bohužel až advanced znalost, které se né všichni dotknout a pak při reálném nasazení zcela pohoří. 
 
 Společně se koukneme na některé časté problémy distribuovaných systémů a dokumentových databází a nastíníme jejich řešení.
 
