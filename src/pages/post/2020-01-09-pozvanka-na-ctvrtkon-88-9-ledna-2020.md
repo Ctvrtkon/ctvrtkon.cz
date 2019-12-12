@@ -6,7 +6,7 @@ fbEventLink: 'https://www.facebook.com/events/596849777786601/'
 ticketUrl: 'https://www.eventbrite.com/e/dev-ctvrtkon-88-tickets-85758384637'
 place: Poetic Cocktail Bar Žlutá Ponorka
 section: dev
-time: '2019-01-09T18:00:00'
+time: '2020-01-09T18:00:00'
 date: 2019-12-11T00:00:00.000Z
 description: >-
   Na první (vývojářský) Čtvrtkon v roce 2020 máme připravenou směsici různého obsahu, takže si snad každý přidej na své. Jako tradičně budou dvě hlavní přednášky od místních speakrů, které doplní samozřejmě i micro talky. A to vše na zkoušku v novém místě.
