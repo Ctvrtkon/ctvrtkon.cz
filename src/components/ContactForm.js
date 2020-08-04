@@ -54,7 +54,7 @@ export class ContactForm extends Component {
           </label>
         </p>
         <div className="field">
-          <label className="label">Jméno</label>
+          <label className="label" htmlFor="name">Jméno</label>
           <div className="control">
             <input className="input" type="text"
                    value={this.state.name}
@@ -63,7 +63,7 @@ export class ContactForm extends Component {
           </div>
         </div>
         <div className="field">
-          <label className="label">Kontakt</label>
+          <label className="label" htmlFor="from">Kontakt</label>
           <div className="control">
             <input className="input" type="text"
                    value={this.state.from}
@@ -74,7 +74,7 @@ export class ContactForm extends Component {
         </div>
 
         <div className="field">
-          <label className="label">Zpráva</label>
+          <label className="label" htmlFor="message">Zpráva</label>
           <div className="control">
             <textarea className="textarea"
                       value={this.state.message}
