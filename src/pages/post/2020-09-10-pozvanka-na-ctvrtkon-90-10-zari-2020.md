@@ -36,4 +36,4 @@ PDF a serverless, aneb jak generovat print-ready dokumenty v 21. století.
 
 1. Jan Nedvěd - Machine learning
 2. Jan Smitka - Generování PDF
-3. ?
+3. Václav Novotný - Implementace Apple Pay na GoPay bráně
