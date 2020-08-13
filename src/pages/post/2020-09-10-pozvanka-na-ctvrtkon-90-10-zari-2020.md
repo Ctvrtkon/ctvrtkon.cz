@@ -16,7 +16,7 @@ Po koronavirové pauze jsme snad už zpět a máme připravený opět parádní 
 
 **POZOR: vstup je zdarma, ale je nutná včasná registrace na Event Britu či přes Facebook, protože nejdéle 3 dny předem je uzávěrka kvůli nahlášení přesného počtu míst. Tak prosíme, nevháhejte zbytečně s registrací a budeme se těšit na viděnou :-)**
 
-**1) [Jan Odvárko](https://www.linkedin.com/in/odvarko/)**
+**1) [Jan Odvárko](https://www.linkedin.com/in/odvarko/)** (Mozilla)
 
 Jan Odvárko se pohybuje v softwarovém průmyslu už více než 15 let a v současné době pracuje na vývojových nástrojích v prohlížeči Firefox ve společnosti Mozilla. V minulosti také pracoval na známém nástroji Firebug, který nastartoval éru moderních in-browser nástrojů pro webové programátory.
 
@@ -24,7 +24,7 @@ Jan Odvárko se pohybuje v softwarovém průmyslu už více než 15 let a v sou�
 
 Úvod do vývojových nástrojů ve Firefoxu. V této přednášce se dozvíte proč jsou in-browser nástroje nepostradatelným pomocníkem při vývoji dnešních webových aplikací. Uvidíte také, jak lze tyto nástroje efektivně využívat nejen při tvorbě webových stránek, ale také při studiu internetových technologií.
 
-**2) [Petr Klimeš (Slim)](https://www.linkedin.com/in/petr-klimeš-6342726b/)**
+**2) [Petr (Slim) Klimeš](https://www.linkedin.com/in/petr-klimeš-6342726b/)** (Autoprop)
 
 Senior developer v Iniziu, programátor v čem je zrovna potřeba - jak backend (Python, Java, PHP), tak frontend (Angular, Typescript), specialista na tisk v Chromu.
 
@@ -34,6 +34,7 @@ PDF a serverless, aneb jak generovat print-ready dokumenty v 21. století.
 
 **Micro talky:**
 
-1. Jan Nedvěd - Machine learning
-2. Jan Smitka - Generování PDF
-3. Václav Novotný - Implementace Apple Pay na GoPay bráně
+1. Jan Nedvěd (Inizio) - Machine learning
+2. Jan Smitka (Lynt) - Generování PDF
+3. Václav Novotný (GoPay) - Implementace Apple Pay na GoPay bráně
+4. Tomáš Kuthan (Bosch) - Vývoj ve velké mezinárodní společnosti
