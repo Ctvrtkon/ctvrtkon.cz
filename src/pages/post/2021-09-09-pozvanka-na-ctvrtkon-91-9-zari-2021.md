@@ -41,4 +41,4 @@ Každý dělá release proces trošku jinak, a proto zkusím ukázat, jak to dě
 1. Tomáš Kocifaj - JČ hackathon
 2. Anna Michalovová - Czechitas akademie
 3. Honza Svěrák - IE zemřel, no a co?
-4. ?
+4. Dalibor Jaroš - Zdrhni z AWS, než Tě to bude stát byt!
