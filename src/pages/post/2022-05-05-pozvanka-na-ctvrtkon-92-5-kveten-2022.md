@@ -49,4 +49,5 @@ Koukneme se na Flutter. Ten zdaleka nejvíce multiplatformní framework pro výv
 1. Dalibor Jaroš - Zdrhni z AWS, než Tě to bude stát byt!
 2. Honza Gál - Proč mám rád Tailwind CSS
 3. Richard Wimberský - Terminál vs. Shell
-4. Bude upřesněno
+4. Tomáš Kuthan - Jak v Boschi používáme Apache Kafka
+5. Jan Müller - Vlastní NPM balíčky
