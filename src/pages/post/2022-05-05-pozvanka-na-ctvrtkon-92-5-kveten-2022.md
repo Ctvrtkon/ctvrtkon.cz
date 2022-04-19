@@ -16,9 +16,7 @@ Zdá se, že alespoň prozatím je koronavirus za námi, takže jsme zase zpět 
 
 **POZOR: vstup je zdarma, ale je nutná včasná registrace na Event Britu (možné i přímo z události na Facebooku), protože nejdéle 3 dny předem je uzávěrka kvůli nahlášení přesného počtu míst. Tak prosíme, neváhejte zbytečně s registrací a budeme se těšit na viděnou :-)**
 
-**Upozornění - aktuální Covid opatření:**
-
-Na místě budeme muset dodržet [Covid opatření](https://covid.gov.cz/situace/kultura/spolecenske-akce). Patří mezi ně, prokázání antigen/PCR testu, prodělání nemoci Covid do 180 dní, nebo 14 dní po druhé dávce očkování. _Prosíme, myslete na to a doklady si vemte s sebou._
+**Upozornění - aktuální Covid opatření:** Na místě budeme muset dodržet [Covid opatření](https://covid.gov.cz/situace/kultura/spolecenske-akce).
 
 **Program:**
 
