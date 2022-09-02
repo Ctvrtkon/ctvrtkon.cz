@@ -25,6 +25,13 @@ $ yarn run build
 $ yarn run serve
 ```
 
+Docker setup
+```shell
+docker build -t gatsby .
+docker run --rm -it -v ($PWD)/src:/app/src/ -w /app -p 8001:8001 gatsby
+
+```
+
 ### Setting up the CMS
 Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
 
