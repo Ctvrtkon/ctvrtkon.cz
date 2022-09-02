@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Čtvrtkon #69 – Collabim workshop'
 image: /img/collabim-300x197.jpg
+time: '2018-05-05T10:53:32+00:00'
 date: '2018-05-05T10:53:32+00:00'
 section: special
 description: >-

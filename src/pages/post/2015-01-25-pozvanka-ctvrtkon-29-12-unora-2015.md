@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #29 – 12. února 2015'
 image: /img/ctvrtkon_event_cover.png
+time: '2015-01-25T12:45:50+00:00'
 date: '2015-01-25T12:45:50+00:00'
 description: >-
     Čtvrtkon – Google AnalyticsJakub Kašparů – Rozdíl mezi webovou analytikou a počítadlem návštěvnostiKdo nám bude přednášet?Jakub Kašparů působí v prostředí online marketingu 8 let. ...

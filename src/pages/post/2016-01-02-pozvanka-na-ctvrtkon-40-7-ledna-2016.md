@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #40 – 7. ledna 2016'
 image: /img/ilustracni2.jpg
+time: '2016-01-02T12:37:31+00:00'
 date: '2016-01-02T12:37:31+00:00'
 description: >-
     Zveme Vás na marketingový Čtvrtkon #40 na téma – Od plánování webu až po výsledky...

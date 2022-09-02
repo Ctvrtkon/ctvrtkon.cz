@@ -42,7 +42,9 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
     "react-icons": "^3.10.0",
-    "uuid": "^3.4.0"
+    "uuid": "^3.4.0",
+    "prettier": "^1.19.1",
+    "rimraf": "^3.0.2"
   },
   "keywords": [
     "gatsby"
@@ -51,15 +53,13 @@
   "main": "n/a",
   "scripts": {
     "start": "npm run develop",
-    "clean": "rimraf .cache public",
-    "build": "npm run clean && gatsby build",
-    "develop": "npm run clean && gatsby develop --port 8001",
+    "clean": "node_modules/.bin/rimraf .cache public",
+    "build": "npm run clean && node_modules/.bin/gatsby build",
+    "develop": "npm run clean && node_modules/.bin/gatsby develop --port 8001 --host 0.0.0.0",
     "serve": "gatsby serve",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "format": "node_modules/.bin/prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1",
-    "rimraf": "^3.0.2"
   }
 }

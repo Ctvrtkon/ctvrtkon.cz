@@ -47,7 +47,7 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
+      sort: { order: DESC, fields: [frontmatter___time] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
       limit: 5
     ) {

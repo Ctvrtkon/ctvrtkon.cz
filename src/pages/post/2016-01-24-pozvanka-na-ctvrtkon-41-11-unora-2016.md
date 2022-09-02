@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #41 – 11. února 2016'
 image: /img/ctvrtkon-41-web.jpg
+time: '2016-01-24T06:21:33+00:00'
 date: '2016-01-24T06:21:33+00:00'
 description: >-
     Tentokrát na Čtvrtkon zavítají borci z Pardubic – Borek Bernard a jeho kolega Honza Voráček – z velice zajímavého českého startupu VersionPress, který se jednoduše řečeno představuje jako Un...

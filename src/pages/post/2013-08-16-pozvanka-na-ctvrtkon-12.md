@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #12'
 image: /img/ilustracni2.jpg
+time: '2013-08-16T13:58:57+00:00'
 date: '2013-08-16T13:58:57+00:00'
 description: >-
     Tentokrát se na designerském Čtvrtkonu společně s Václavem Koubou podíváme na 10 nejčastějších chyb v online marketingu našich zákazníků. Ve druhé přednášce vám představím UX Framework...

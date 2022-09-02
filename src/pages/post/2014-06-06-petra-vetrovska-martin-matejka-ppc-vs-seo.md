@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Petra Větrovská a Martin Matějka – PPC vs SEO'
 image: /img/ilustracni2.jpg
+time: '2014-06-06T14:26:41+00:00'
 date: '2014-06-06T14:26:41+00:00'
 description: >-
     Věčný boj PPC a SEO – Vítězí jedna z disciplín? Nebo se vyplatí věnovat se oběma cestám, sdílet data a vzájemně si pomáhat? V rozhodujícím battle se utkala Petra Větrovská a Martin Mat...

@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #11'
 image: /img/ilustracni2.jpg
+time: '2013-07-25T14:37:45+00:00'
 date: '2013-07-25T14:37:45+00:00'
 description: >-
     Základní informaceDatum: 8. srpna 2013Čas: 18:00Místo: Kozlovna u Zelené ratolesti, České BudějoviceMožná jste zaznamenali, že se srpnovým Čtvrkonem nikam nespěcháme :) Je to tak, řekli...

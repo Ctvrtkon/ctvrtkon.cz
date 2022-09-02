@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #25 – 16. října 2014'
 image: /img/10723194_10202602137323354_564892523_n.jpg
+time: '2014-10-06T04:14:32+00:00'
 date: '2014-10-06T04:14:32+00:00'
 description: >-
      Čtvrtkon – Martin Kolčaba, Jakub HladkýSpeaker #1: Martin Kolčaba: Jak při přechodu na nový systém URL nespáchat SEO harakiriSpeaker #2: Jakub Hladký: Propagace a práce s e-shopem v praxi...

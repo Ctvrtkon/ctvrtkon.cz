@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #14 – 7. listopadu 2013'
 image: /img/ilustracni2.jpg
+time: '2013-10-30T06:18:18+00:00'
 date: '2013-10-30T06:18:18+00:00'
 description: >-
     14. Čtvrtkon bude historicky první ryze markeťácký a svou účastí ho otevře trio Honza Tichý, Martin Matějka a Lukáš Pítra.Základní informaceDatum: 7. listopadu 2013Čas: 18:00Místo: Horká...

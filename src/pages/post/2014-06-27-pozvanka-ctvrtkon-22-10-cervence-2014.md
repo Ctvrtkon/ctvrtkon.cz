@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #22 – 10. července 2014'
 image: /img/ctvrtkon-10-7-2014.jpg
+time: '2014-06-27T08:12:42+00:00'
 date: '2014-06-27T08:12:42+00:00'
 description: >-
     Pozor, změna! Čtvrtkon se koná už v 17:30! A přijďte včas, ať vám neunikne tajná přednáška od tajného hosta! :)Máte nějaký svůj projekt? Rozjíždíte startup? Provozujete web a snažíte...

@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Statická analýza v PHP'
 image: /img/author-ondrej-mirtes.jpg
+time: '2013-06-07T13:34:12+00:00'
 date: '2013-06-07T13:34:12+00:00'
 description: >-
     Pokud jste někdy programovali ve staticky typovaných jazycích jako je C# nebo Java, určitě vám v PHP schází hledání chyb napříč zdrojovými kódy celé aplikace. Staticky typované jazyky ví...

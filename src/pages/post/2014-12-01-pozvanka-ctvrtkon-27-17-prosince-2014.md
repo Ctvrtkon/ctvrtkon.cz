@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #27 – 17. prosince 2014'
 image: /img/ctvrtkon-12-2014.jpg
+time: '2014-12-01T14:23:35+00:00'
 date: '2014-12-01T14:23:35+00:00'
 description: >-
     Čtvrtkon ve středu? Cože?No fakt, Vánoce jsou kouzelný čas plný překvapení, a tak se prosincový Čtvrtkon koná netradičně ve středu!Těšit se můžete na UX punč a 2 koledy o nástrojích...

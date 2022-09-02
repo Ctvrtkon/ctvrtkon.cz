@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #26 – 20. listopadu 2014'
 image: /img/ilustracni2.jpg
+time: '2014-11-14T15:29:26+00:00'
 date: '2014-11-14T15:29:26+00:00'
 description: >-
     Máme pro vás přátelé jednu nemilou novinu. Vladimír se bohužel musel kvůli nemoci z tohoto Čtvrtkonu omluvit. Přesto termín platí a těšíme se na vás! Dozvíte se o tom co je vlastně to...

@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #35 – 20. srpna 2015'
 image: /img/ctvrtkon3.jpg
+time: '2015-07-30T12:04:01+00:00'
 date: '2015-07-30T12:04:01+00:00'
 description: >-
     Kvalita spolupráce designerů (ať už vizuálních, interakčních a dalších) a vývojářů má velký dopad na kvalitu výsledku a to zvláště v projektech, kde chybí zkušený projektový manažer...

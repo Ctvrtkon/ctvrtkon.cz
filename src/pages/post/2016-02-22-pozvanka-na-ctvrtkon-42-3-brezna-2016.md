@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #42 – 3. března 2016'
 image: /img/ctvrtkon-42-fb1.jpg
+time: '2016-02-22T11:34:59+00:00'
 date: '2016-02-22T11:34:59+00:00'
 description: >-
     Na prvním UX Čtvrtkonu v novém roce vystoupí dva ostřílení profíci, kteří se podělí o svůj cenný vhled do problematiky výzkumu a prototypingu:Laďka Zbiejczuk Suchá působí v Kabinetu informačních...

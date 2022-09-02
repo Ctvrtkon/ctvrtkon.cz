@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Zdroje pasivního příjmu pro šikovné lidi'
 image: /img/author-petr-steinbauer.jpg
+time: '2013-05-17T06:53:20+00:00'
 date: '2013-05-17T06:53:20+00:00'
 description: >-
     Dokážete poutavě psát o kontroverzních tématech, fotit, kódovat, programovat, optimalizovat weby? A co takhle své dovednosti využít naplno ve svůj prospěch? O způsobech, jak si šikovní lidé...

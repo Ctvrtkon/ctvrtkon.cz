@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #9'
 image: /img/ilustracni2.jpg
+time: '2013-05-20T07:37:34+00:00'
 date: '2013-05-20T07:37:34+00:00'
 description: >-
     Devátý Čtvrtkon bude zasvěcen PHP. Budeme se bavit o tom, jak ukočírovat závislosti aplikace na různých knihovnách a balíčcích (Václav Novotný) a o tom, jak provádět statickou analýzu...

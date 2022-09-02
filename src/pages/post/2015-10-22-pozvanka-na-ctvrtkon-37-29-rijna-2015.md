@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #37 – 29. října 2015'
 image: /img/ilustracni2.jpg
+time: '2015-10-22T07:49:51+00:00'
 date: '2015-10-22T07:49:51+00:00'
 description: >-
     Vilibald Wanča: API Design LifecycleNa vývoj API se vztahuje mnoho pravidel vývoje SW, nicméně málokdo je aplikuje, z nějakého důvodu jsou pravidla a techniky zapomenuty. Většinou ten kdo...

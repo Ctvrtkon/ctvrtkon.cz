@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'UX Čtvrtkon #45 Jan Řezáč'
 image: /img/ctvrtkon-45-web.jpg
+time: '2016-05-06T05:27:58+00:00'
 date: '2016-05-06T05:27:58+00:00'
 description: >-
     Místo: Střední průmyslová škola stavební České Budějovice – vchod z Klavíkovy ulice, oficiální adresa Resslova 1579/2, České BudějoviceČas: 17. 6. 2016 – 18:00 (Pátek!)Na akci nen...

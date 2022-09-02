@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Design produktové stránky'
 image: /img/author-vaclav-kouba.jpg
+time: '2013-03-15T07:28:55+00:00'
 date: '2013-03-15T07:28:55+00:00'
 description: >-
     SEM Specialist Vašek Kouba se ve vinárně Solnici podělil s účastníky Čtvrtkonu o celou řadu užitečných rad a tipů, jak navrhnout kvalitní produktové stránky. Pokud si chcete jeho přednášku...

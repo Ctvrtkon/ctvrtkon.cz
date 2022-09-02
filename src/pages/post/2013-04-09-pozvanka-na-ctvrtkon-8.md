@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #8'
 image: /img/ilustracni2.jpg
+time: '2013-04-09T10:39:45+00:00'
 date: '2013-04-09T10:39:45+00:00'
 description: >-
     Pozor, změna! Termín se odsouvá na třetí čtvrtek v měsíci (16. 5.). Důvodem jsou svátky, které by některým z nás kolidovaly s jejich plány. Děkujeme za pochopení.V pořadí osmý Čtvrtkon...

@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Martin Laudát – Spolupráce designera a frontendisty'
 image: /img/ilustracni2.jpg
+time: '2015-09-01T02:47:44+00:00'
 date: '2015-09-01T02:47:44+00:00'
 description: >-
     Video z přednášky Martina Laudáta o úskalích a příležitostech ve spolupráci designerů a frontendistů při návrhu webů a aplikací.O tématu přednáškyKvalita spolupráce designerů (ať...

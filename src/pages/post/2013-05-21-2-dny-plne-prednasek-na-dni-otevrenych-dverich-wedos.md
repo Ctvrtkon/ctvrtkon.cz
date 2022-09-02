@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: '2 dny plné přednášek na dni otevřených dveří Wedos'
 image: /img/ilustracni2.jpg
+time: '2013-05-21T06:17:15+00:00'
 date: '2013-05-21T06:17:15+00:00'
 description: >-
     Pokud vás baví akce typu Čtvrtkon, určitě vám udělá radost zpráva, že se nedaleko Českých Budějovic uskuteční v hotelu Záviš z Falkenštejna v Hluboké nad Vltavou série přednášek v...

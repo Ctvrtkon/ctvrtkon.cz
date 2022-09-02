@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Přednáška WUG – Novinky v ASP.NET WebForms 4.5 a Visual Studiu 2012 pro webové vývojáře'
 image: /img/ilustracni2.jpg
+time: '2013-06-18T12:40:51+00:00'
 date: '2013-06-18T12:40:51+00:00'
 description: >-
     Windows User Group České Budějovice pořádá zítra přednášku pro vývojáře na téma „Novinky v ASP.NET WebForms 4.5 a Visual Studiu 2012 pro webové vývojáře“. Více informací o akci...

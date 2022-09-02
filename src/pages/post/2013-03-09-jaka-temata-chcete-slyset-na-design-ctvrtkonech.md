@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Jaká témata chcete slyšet na Design Čtvrtkonech?'
 image: /img/ilustracni2.jpg
+time: '2013-03-09T19:03:46+00:00'
 date: '2013-03-09T19:03:46+00:00'
 description: >-
     Před každým novým Design Čtvrtkonem přemýšlíme o tématech, která by byla pro vás zajímavá a lákavá. A je to věru fuška, protože témat je mnoho a my do vašich zvědavých hlav nevidíme....

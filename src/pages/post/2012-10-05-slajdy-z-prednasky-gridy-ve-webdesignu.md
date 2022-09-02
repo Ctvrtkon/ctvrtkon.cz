@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Gridy ve webdesignu'
 image: /img/author-ondrej-machart.jpg
+time: '2012-10-05T13:59:30+00:00'
 date: '2012-10-05T13:59:30+00:00'
 description: >-
     Je pátek, už se nám nechce pracovat, tak je ten správný čas připomenout si druhý Čtvrtkon, který poprvé polechtal obor webdesignu s přednáškami o gridu a typografii. První z nich můžeme...

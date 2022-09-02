@@ -1,7 +1,6 @@
 ---
-templateKey: contact-page
-title: Kontakt
+templateKey: newsletter-page
+title: Newsletter
 ---
-Máte nápad na téma k přednášce, tip na zajímavého speakera či jen dotaz? Napište nám
-
-Akci pořádá: [GBG České Budějovice](http://www.gug.cz/cs/gbg/skupiny/ceske-budejovice) & [GDG České Budějovice ](http://www.gug.cz/cs/gdg/skupiny/ceske-budejovice)s podporou dalších organizátorů
+Chcete být mezi prvními, kdo se dozví o nové akci pořádané Čtvrtkonem? Dejte nám na sebe e-mail, vyplňte oblast, o kterou se zajímáte, a už nikdy nepromeškáte příští akci.
+Naviděnou!

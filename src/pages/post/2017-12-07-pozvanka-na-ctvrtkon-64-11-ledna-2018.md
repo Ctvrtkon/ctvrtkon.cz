@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #64 – 11. ledna 2018'
 image: /img/Ctvrtkon-64-DEV-Web-Cover.jpg
+time: '2017-12-07T14:30:40+00:00'
 date: '2017-12-07T14:30:40+00:00'
 description: >-
     Lednový Čtvrtkon patří opět Budějčákům! Jak Michal, tak Dalibor jsou součástí Čtvrtkon komunity již dlouhá léta a oba se nyní ve svých nejčerstvějších přednáškách zaměří na...

@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #24 – 4. září 2014'
 image: /img/ctvrtkon2.jpg
+time: '2014-09-02T08:54:11+00:00'
 date: '2014-09-02T08:54:11+00:00'
 description: >-
     Vy jste si mysleli, že nic nebude? Ale kdeže! Čtvrtkon se vrací ke svým kořenům a první čtvrtek v září se tak můžete těšit na naše lokální speakery. Z KT Studio dorazí Tomáš Kocifaj...

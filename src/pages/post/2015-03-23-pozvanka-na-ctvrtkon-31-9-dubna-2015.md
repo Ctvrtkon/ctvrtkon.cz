@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #31 – 9. dubna 2015'
 image: /img/ctvrtkon-9-4-2015-cover.jpg
+time: '2015-03-23T07:48:43+00:00'
 date: '2015-03-23T07:48:43+00:00'
 description: >-
     Honza Junek – Jak se navrhuje web pro VŠKdo někdy chodil na vysokou školu, asi ví, že jedna z nejtěžších zkoušek během studií bylo pochopit strukturu školních webových stránek. Kolik z n...

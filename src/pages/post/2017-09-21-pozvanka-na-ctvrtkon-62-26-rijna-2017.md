@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Pozvánka na Čtvrtkon #62 – 26.října 2017'
 image: /img/ctvrtkon-62-marketing-web1.jpg
+time: '2017-09-21T08:22:43+00:00'
 date: '2017-09-21T08:22:43+00:00'
 description: >-
     Na říjnovém Čtvrtkonu se dozvíte se jak oslovit zákazníky, díky efektivní obsahové strategii a uspět. Nebudou chybět ani příklady z praxe.Josef Řezníček, zakladatel VčelištěTéma: Jak...

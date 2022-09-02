@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'Nodo UX Framework'
 image: /img/author-ondrej-machart.jpg
+time: '2013-09-06T09:14:32+00:00'
 date: '2013-09-06T09:14:32+00:00'
 description: >-
     Na dvanáctém Čtvrtkonu jsem představil svůj nástroj, který používám při návrhu webů. Říkám mu Nodo. O tom, proč se jmenuje zrovna takhle, nebo proč je celý papírový, se můžete dozvědět...
