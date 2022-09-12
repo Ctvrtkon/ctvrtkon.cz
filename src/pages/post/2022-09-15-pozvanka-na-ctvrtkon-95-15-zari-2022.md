@@ -41,3 +41,4 @@ Přelet nad aktuálními trendy v placení na internetu v ČR i v zahraničí.
 1. Nepi Nepuánský -	Flutter a CI/CD proces
 2. Marian Benčat - Proč je macOS naprostá UXová katastrofa
 3. Jan Svěrák	- Jak ano a jak rozhodně ne: případová studie nového webu c-budejovice.cz
+4. Jan Müller - Vlastní NPM balíčky - pokračování
