@@ -38,6 +38,5 @@ Přelet nad aktuálními trendy v placení na internetu v ČR i v zahraničí.
 
 **Micro talky:**
 
-1. Marian Benčat - Proč je macOS naprostá UXová katastrofa
-2. Jan Svěrák	- Jak ano a jak rozhodně ne: případová studie nového webu c-budejovice.cz
-3. Jan Müller - Vlastní NPM balíčky - pokračování
+1. Jan Svěrák	- Jak ano a jak rozhodně ne: případová studie nového webu c-budejovice.cz
+2. Jan Müller - React context
