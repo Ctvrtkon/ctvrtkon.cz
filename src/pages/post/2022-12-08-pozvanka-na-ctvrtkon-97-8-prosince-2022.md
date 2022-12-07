@@ -22,9 +22,10 @@ Další rok se blíží ke konci a protože už dlouho nebyl žádný Čtvrtkon 
 
 **Micro talky:**
 
-1. Vojtěch Žoha	- Jak odstřihnout od licenčního serveru všechny klientské aplikace
-2. Václav Novotný - Bude upřesněno
-3. Patrik Čada - Bude upřesněno
-4. Marián Benčat - Bude upřesněno
-5. Bude upřesněno
-6. Bude upřesněno
+1. Václav Novotný - Jak jsem šplhal na vysoký komín bez jištění
+2. Patrik Čada - Jak vývojář o svá data přišel
+3. Tomáš Bublík - Jak nám šnek rozbil formuli
+4. Martin Peka - Kazachstán: Oáza bezpečnosti
+5. Marián Benčat - Můj přechod na macOS a jak se z toho nezbláznit
+6. Vojtěch Žoha - Jak odstřihnout od licenčního serveru všechny klientské aplikace
+7. Tomáš Zahálka - Vánoční pussy opener
