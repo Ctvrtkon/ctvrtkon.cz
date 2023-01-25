@@ -31,6 +31,7 @@ Aneb jak jsme lovili botnety s DGA.
 1. Tomáš Bublík	- Není Docker jako Docker
 2. Nepi Nepuánský	- Flutter a CI/CD proces
 3. Martin Hlaváč - Ať žije Sentry, nebo ne?
+4. Jan Svěrák - Stará známost a nové problémy s relační pseudotřídou v CSS
 
 **2) [Martin Strouhal](https://twitter.com/strouhi)**
 
