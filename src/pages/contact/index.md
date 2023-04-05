@@ -2,6 +2,11 @@
 templateKey: contact-page
 title: Kontakt
 ---
-Máte nápad na téma k přednášce, tip na zajímavého speakera či jen dotaz? Napište nám
+Máte nápad na téma k přednášce, tip na zajímavého speakera, či jen dotaz? Chcete nás podpořit? Napište nám...
 
-Akci pořádá: [GBG České Budějovice](http://www.gug.cz/cs/gbg/skupiny/ceske-budejovice) & [GDG České Budějovice ](http://www.gug.cz/cs/gdg/skupiny/ceske-budejovice)s podporou dalších organizátorů
+Akce pořádá: 
+
+**Čtvrtkon z.s.**
+IČ: 19124473
+Účet: 2560958013/3030 (AirBank)
+Sídlo: Riegrova 1756/51, České Budějovice 3, 370 01 České Budějovice
