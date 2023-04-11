@@ -80,7 +80,7 @@ const TemplateWrapper = ({ children }) => (
                 <a href="https://twitter.com/ctvrtkon" target="_blank" className="has-text-white" rel="noopener noreferrer">Twitter&nbsp;&nbsp;<FaTwitter/></a>
               </li>
               <li>
-                <a href="https://ctvrtkon-slack.herokuapp.com/" target="_blank" className="has-text-white" rel="noopener noreferrer">Slack&nbsp;&nbsp;<FaSlack/></a>
+                <a href="https://join.slack.com/t/ctvrtkon/shared_invite/zt-1t5qcrcch-1BRGnVIA_2We1E_CEI2FdA" target="_blank" className="has-text-white" rel="noopener noreferrer">Slack&nbsp;&nbsp;<FaSlack/></a>
               </li>
               <li>
                 <a href="https://www.youtube.com/channel/UCp56QhLAr4zefLhkHUFt0UQ/" target="_blank" className="has-text-white" rel="noopener noreferrer">YouTube&nbsp;&nbsp;<FaYoutube/></a>

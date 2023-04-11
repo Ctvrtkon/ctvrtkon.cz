@@ -41,7 +41,7 @@ const Navbar = () => (
         </a>
         <a
           className="navbar-item"
-          href="https://ctvrtkon-slack.herokuapp.com/"
+          href="https://join.slack.com/t/ctvrtkon/shared_invite/zt-1t5qcrcch-1BRGnVIA_2We1E_CEI2FdA"
           target="_blank"
           rel="noopener noreferrer"
           title="Připojit se na Čtvrtkon slack"
