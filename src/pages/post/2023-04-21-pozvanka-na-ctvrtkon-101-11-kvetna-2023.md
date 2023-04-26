@@ -5,7 +5,7 @@ number: 101
 image: /img/ctvrtkon-101.png
 fbEventLink: "https://www.facebook.com/events/192461456980893/"
 ticketUrl: "https://www.eventbrite.com/e/dev-ctvrtkon-101-tickets-622404297007"
-place: CowoCB
+place: Riegrova 51
 section: dev
 time: "2023-05-11T18:00:00"
 date: 2023-04-21T00:00:00.000Z
@@ -13,7 +13,7 @@ description: >-
   Máme tu další vývojářský Čtvrtkon, a ne úplně náhodou se nám sešly přednášky na podobné (nosné) téma - AI.
 ---
 
-Máme tu další vývojářský Čtvrtkon, a ne úplně náhodou se nám sešly přednášky na podobné (nosné) téma - AI. Dvě nabušené hlavní přednášky doplní stejně zajímavá dva micro talky. Takže se máte na co těšit a uvidíme se v [CowoCB](https://www.cowocb.cz/).
+Máme tu další vývojářský Čtvrtkon, a ne úplně náhodou se nám sešly přednášky na podobné (nosné) téma - AI. Dvě nabušené hlavní přednášky doplní stejně zajímavé dva micro talky. Takže se máte na co těšit a uvidíme se v [Riegrova 51](https://www.riegrova51.cz/).
 
 **POZOR: vstup je zdarma, ale je nutná včasná registrace na Event Britu, protože nejdéle 2 dny předem je uzávěrka kvůli nahlášení přesného počtu míst. Tak prosíme, neváhejte zbytečně s registrací a budeme se těšit na viděnou :-)**
 
