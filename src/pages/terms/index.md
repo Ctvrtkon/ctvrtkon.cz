@@ -45,4 +45,4 @@ title: Obchodní podmínky
 - Pokud některé ustanovení těchto obchodních podmínek bude považováno za neplatné nebo nevymahatelné, zbylé ustanovení těchto obchodních podmínek zůstávají plně platná a účinná.
 - Obchodní podmínky včetně jejich součástí jsou platné a účinné od 1. 1. 2023.
 - Vztah mezi Prodejcem a Kupujícím se řídí právním řádem platným na území, kde je Prodejce registrován.
-- Veškeré spory vyplývající z této smlouvy se budou řešit smírnou cestou. V případě neshody, která není možné smírně vyřešit může využít platformu pro řešení sporů online, která je zřízena Evropskou komisí na adrese.
+- Veškeré spory vyplývající z této smlouvy se budou řešit smírnou cestou. V případě neshody, která není možné smírně vyřešit může využít platformu pro řešení sporů online, která je zřízena Evropskou komisí na adrese: [europa.eu](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage).

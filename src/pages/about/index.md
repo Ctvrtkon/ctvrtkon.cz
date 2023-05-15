@@ -6,13 +6,13 @@ people:
     description: "#Organizace"
     image: /img/anna-michalovova-foto.jpg
     link: https://www.linkedin.com/in/anna-michalovov%C3%A1-25a51a1aa
-    mail: ""
+    mail: "anna.michalovova@ctvrtkon.cz"
     name: Anna Michalovová
   - department: Dev
     description: "#PHP #Python #Laravel"
     image: /img/martin-hlavac-foto.jpg
     link: https://twitter.com/hlavacm
-    mail: ""
+    mail: "martin.hlavac@ctvrtkon.cz"
     name: Martin Hlaváč
   - department: Dev
     description: "#Python #AWS #Angular"
@@ -24,25 +24,19 @@ people:
     description: "#PPC #WordPress #YouTube"
     image: /img/karel-hladis-foto.png
     link: https://karelhladis.cz
-    mail: ""
+    mail: "karel.hladis@ctvrtkon.cz"
     name: Karel Hladiš
   - department: UX
     description: "#brand #identity #& #UX/UI #design"
     image: /img/mh.jpg
     link: https://twitter.com/martinhrabanek
-    mail: ""
+    mail: "martin.hrabanek@ctvrtkon.cz"
     name: Martin Hrabánek
-  - department: RECORDING
-    description: "#Media #JS #React"
-    image: /img/jan-muller-foto.jpg
-    link: https://www.linkedin.com/in/mullerjan
-    mail: ""
-    name: Jan Müller
   - department: Dev
     description: "#PHP #BACKEND #BBQ"
     image: /img/00001.jpeg
     link: https://vaclavnovotny.eu
-    mail: ""
+    mail: "vaclav.novotny@ctvrtkon.cz"
     name: Václav Novotný
   - department: Marketing
     description: "#Onlinemarketing #SEO #PPC"
@@ -56,6 +50,12 @@ people:
     link: https://linkedin.com/in/martinlaudat
     mail: ""
     name: Martin Laudát
+  - department: RECORDING
+    description: "#Media #JS #React"
+    image: /img/jan-muller-foto.jpg
+    link: https://www.linkedin.com/in/mullerjan
+    mail: ""
+    name: Jan Müller
   - department: Dev
     description: "#PHP #Nette #Symfony"
     image: /img/nik.jpeg
