@@ -1,6 +1,6 @@
 #
 
-FROM node:12 AS builder
+FROM node:14 AS builder
 
 RUN apt update
 RUN apt install nasm
