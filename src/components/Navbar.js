@@ -10,7 +10,7 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item logo-wrapper">
-          <img src={logo} alt="Čtvrtkon"/>
+          <img src={logo} alt="Čtvrtkon" />
         </Link>
       </div>
       <div className="navbar-start">
@@ -26,6 +26,9 @@ const Navbar = () => (
         <Link className="navbar-item" activeClassName="is-active" to="/contact">
           Kontakt
         </Link>
+        <Link className="navbar-item" activeClassName="is-active" to="/terms">
+          Obchodní podmínky
+        </Link>
       </div>
       <div className="navbar-end">
         <a
@@ -36,7 +39,7 @@ const Navbar = () => (
           title="Čtvrtkon Facebook skupina"
         >
           <span className="icon">
-            <img src={facebook} alt="Facebook icon"/>
+            <img src={facebook} alt="Facebook icon" />
           </span>
         </a>
         <a
@@ -47,7 +50,7 @@ const Navbar = () => (
           title="Připojit se na Čtvrtkon slack"
         >
           <span className="icon">
-            <img src={slack} alt="Slack icon"/>
+            <img src={slack} alt="Slack icon" />
           </span>
         </a>
         <a
@@ -58,7 +61,7 @@ const Navbar = () => (
           title="Otevřít Github toho projektu"
         >
           <span className="icon">
-            <img src={github} alt="Github icon"/>
+            <img src={github} alt="Github icon" />
           </span>
         </a>
       </div>
