@@ -63,8 +63,16 @@ people:
     link: 'https://www.linkedin.com/in/jan-burda-b461817'
     name: Jan Burda
 ---
-**Jsme rádi, že jste dorazili na tuto stránku. S největší pravděpodobností jste se o ní od někoho dozvěděli a hledáte zde více informací o Čtvrtkonu. Začneme trochu zeširoka.**
+Ahoj,
 
-Jsme weboví vývojáři, markeťáci a designeři a jelikož chceme odvádět co nejlepší práci, snažíme se sledovat aktuální trendy v oboru. Jenže u pouhého sledování trendů nekončíme, snažíme se je také nasazovat v praxi. Často úspěšně, ale často také neúspěšně. Toto praktikujeme už několik let a troufám si tvrdit, že jsme za tu dobu nasbírali dost zkušeností. Stejně tak si troufám tvrdit, že vy jste na tom úplně stejně. Proč se tedy někde po práci nepotkat, nepopovídat si o tom, co nás zaujalo, na čem děláme nebo co se nám v praxi osvědčilo a neosvědčilo?
+ať už jsi nováček, či zkušený Čtvrtkoňák jsme moc rádi, že ses progooglil až sem.
 
-A právě od toho je tu Čtvrtkon. Jedná se o setkání lidí, kteří, zjednodušeně řečeno, _dělají weby._
+A kdo jsme my?
+
+My jsme nadšená budějcká IT komunita, kterou se ráda potkává, sdílí své zkušenosti či klidně jen tak posedí na pivu. Letos je nám už 10 let. V našich řadách najdeš webové vývojáře, designéry i markeťáky bez ohledu na to, zda jsou v jejich profesi opravdoví experti, či úplní nováčci. Čtvrtkon tu byl, je a bude pro všechny, kteří dělají to, co je baví.
+
+A kde se s námi můžeš potkat?
+
+Každý měsíc pořádáme akce, kde můžeš vidět přednášky na různá trendy témata a jejich implementaci v praxi. Sdílíme si naše profesní tipy a triky, ale nebojíme se ani zasmát fuckapům, které nás všechny provází. Jelikož víme, že obsahu je opravdu hodně, tak pořádáme Čtvrtkou zaměřený na development, marketing a design. Sleduj náš web či sociální sítě a hned se dozvíš, co chystáme. Těšíme se na Tebe!
+
+A co ty? Máš téma, které bys chtěl v rámci komunity sdílet? Čtvrtkon je podium právě pro Tebe, napiš nám!
