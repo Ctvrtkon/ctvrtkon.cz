@@ -58,6 +58,7 @@ export const aboutPageQuery = graphql`
         people {
           name
           link
+          mail
           image {
             childImageSharp { 
               fixed(width: 182, height: 182) {

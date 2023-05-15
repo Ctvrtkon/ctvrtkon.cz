@@ -19,6 +19,10 @@ export class TeamMember extends Component {
             <p className="subtitle is-7">
               <strong className="is-uppercase">{m.department}</strong><br />
               <a href={m.link} rel="noopener noreferrer" target="_blank">{m.link.replace(/(^\w+:|^)\/\//, '')}</a>
+              {!!m.mail ?
+                                    <span><br /><a href={'mailto:' + m.mail} rel="noopener noreferrer" target="_blank">{m.mail}</a></span>
+                                    : ''
+                                }
             </p>
           </div>
         </div>
@@ -35,6 +39,7 @@ TeamMember.propTypes = {
   m: PropTypes.shape({
     name: PropTypes.string,
     link: PropTypes.string,
+    mail: PropTypes.string,
     image: PropTypes.any,
     department: PropTypes.string,
     description: PropTypes.string

@@ -23,11 +23,11 @@ const Navbar = () => (
         <Link className="navbar-item" activeClassName="is-active" to="/about">
           O Projektu
         </Link>
-        <Link className="navbar-item" activeClassName="is-active" to="/contact">
-          Kontakt
-        </Link>
         <Link className="navbar-item" activeClassName="is-active" to="/terms">
           Obchodní podmínky
+        </Link>
+        <Link className="navbar-item" activeClassName="is-active" to="/contact">
+          Kontakt
         </Link>
       </div>
       <div className="navbar-end">

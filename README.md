@@ -28,7 +28,7 @@ $ yarn run serve
 Docker setup
 ```shell
 docker build -t gatsby .
-docker run --rm -it -v ($PWD)/src:/app/src/ -w /app -p 8001:8001 gatsby
+docker run --rm -it -v "$(pwd)/src:/app/src/" -v "$(pwd)/static:/app/static" -w /app -p 8001:8001 gatsby
 
 ```
 

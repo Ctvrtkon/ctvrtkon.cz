@@ -6,61 +6,73 @@ people:
     description: '#Organizace'
     image: /img/anna-michalovova-foto.jpg
     link: 'https://www.linkedin.com/in/anna-michalovov%C3%A1-25a51a1aa'
+    mail: ''
     name: Anna Michalovová
   - department: Dev
     description: '#PHP #Python #Laravel'
     image: /img/martin-hlavac-foto.jpg
     link: 'https://twitter.com/hlavacm'
+    mail: ''
     name: Martin Hlaváč
   - department: Dev
     description: '#Python #AWS #Angular'
     image: /img/img_1434.jpg
     link: 'https://twitter.com/Twistacz'
+    mail: me@twista.cz
     name: Michal Haták
   - department: Marketing
     description: '#PPC #WordPress #YouTube'
     image: /img/karel-hladis-foto.png
     link: 'https://karelhladis.cz'
+    mail: ''
     name: Karel Hladiš
   - department: UX
     description: '#brand #identity #& #UX/UI #design'
     image: /img/mh.jpg
     link: 'https://twitter.com/martinhrabanek'
+    mail: ''
     name: Martin Hrabánek
   - department: RECORDING
     description: '#Media #JS #React'
     image: /img/jan-muller-foto.jpg
     link: 'https://www.linkedin.com/in/mullerjan'
+    mail: ''
     name: Jan Müller
   - department: Dev
     description: '#PHP #BACKEND #BBQ'
     image: /img/00001.jpeg
     link: 'https://vaclavnovotny.eu'
+    mail: ''
     name: Václav Novotný
   - department: Marketing
     description: '#Onlinemarketing #SEO #PPC'
     image: /img/jana_smerdova_ctvrtkon.jpg
     link: 'http://janasmerdova.cz'
+    mail: ''
     name: Jana Šmerdová
   - department: UX
     description: '#ucd #ux #webdesign #research'
     image: /img/martin-laudat-foto.jpg
     link: 'https://linkedin.com/in/martinlaudat'
+    mail: ''
     name: Martin Laudát
   - department: Dev
     description: '#PHP #Nette #Symfony'
     image: /img/nik.jpeg
     link: 'https://twitter.com/roxtri_cz'
+    mail: ''
     name: Nikol -roxtri- Ježková
   - department: UX
     description: '#why #why #why #why'
     image: /img/vysmatej-jak-leco.jpg
     link: 'https://linkedin.com/in/ondrejmachart'
+    mail: ''
     name: Ondra Machart
   - department: RECORDING
     description: '#PHP #industrial #management #software'
     image: /img/jan-burda-foto.png
     link: 'https://www.linkedin.com/in/jan-burda-b461817'
+    mail: ''
     name: Jan Burda
 ---
 Ahoj,
