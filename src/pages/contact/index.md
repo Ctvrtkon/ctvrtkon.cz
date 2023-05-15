@@ -8,6 +8,8 @@ Akce pořádá:
 
 **Čtvrtkon z.s.**
 
+Předseda: Anna Michalovová (anna.michalovova@ctvrtkon.cz)
+
 IČ: 19124473
 
 Účet: 2560958013/3030 (AirBank)
