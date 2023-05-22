@@ -81,7 +81,7 @@ ať už jsi nováček, či zkušený Čtvrtkoňák jsme moc rádi, že ses progo
 
 A kdo jsme my?
 
-My jsme nadšená budějcká IT komunita, kterou se ráda potkává, sdílí své zkušenosti či klidně jen tak posedí na pivu. Letos je nám už 10 let. V našich řadách najdeš webové vývojáře, designéry i markeťáky bez ohledu na to, zda jsou v jejich profesi opravdoví experti, či úplní nováčci. Čtvrtkon tu byl, je a bude pro všechny, kteří dělají to, co je baví.
+My jsme nadšená budějcká IT komunita, která se ráda potkává, sdílí své zkušenosti či klidně jen tak posedí na pivu. Letos je nám už 10 let. V našich řadách najdeš webové vývojáře, designéry i markeťáky bez ohledu na to, zda jsou v jejich profesi opravdoví experti, či úplní nováčci. Čtvrtkon tu byl, je a bude pro všechny, kteří dělají to, co je baví.
 
 A kde se s námi můžeš potkat?
 
