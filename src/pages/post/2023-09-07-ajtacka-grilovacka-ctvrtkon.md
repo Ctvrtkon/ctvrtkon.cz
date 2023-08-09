@@ -7,7 +7,7 @@ ticketUrl: https://www.eventbrite.com/e/ctvrtkon-ajtacke-grilovacky-tickets-6863
 place: Agentes-IT
 section: dev
 time: 2023-09-07T18:30:00
-date: 2023-08-07T00:00:00
+date: 2023-09-01T00:00:00
 description: Pokud ještě neznáte akci „Ajťácké grilovačky“, tak teď máte jedinečnou příležitost to napravit... :-)
 ---
 
