@@ -7,7 +7,7 @@ ticketUrl: https://form.fapi.cz/?id=ba9ea78e-702d-4bb2-90f8-9af92f06ce76&fbclid=
 place: Heaven Gym
 section: special
 time: 2023-08-31T18:00:00
-date: 2023-08-09T00:00:00
+date: 2023-08-02T00:00:00
 description: Čtvrtkonu je letos 10 let! Zajdi s námi na konci srpna zakončit prázdniny a pomož nám to výročí pořádně oslavit. Čekáme Tě na střeše HeavenGymu!
 ---
 
